@@ -139,6 +139,12 @@
             cursor: pointer;
         }
         
+        .player-node.filtered-out {
+            opacity: 0.2;
+            transform: scale(0.8);
+            pointer-events: none;
+        }
+        
         .player-node::before {
             content: '';
             position: absolute;
@@ -276,6 +282,24 @@
             margin-bottom: 8px;
             font-size: 0.85em;
             font-weight: bold;
+            cursor: pointer;
+            padding: 5px 8px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .legend-item:hover {
+            background: rgba(0, 63, 127, 0.1);
+            transform: scale(1.02);
+        }
+        
+        .legend-item.active {
+            background: rgba(0, 63, 127, 0.2);
+            border: 2px solid rgba(0, 63, 127, 0.5);
+        }
+        
+        .legend-item.inactive {
+            opacity: 0.4;
         }
         
         .legend-left {
@@ -399,6 +423,24 @@
             border-radius: 10px;
             padding: 8px 12px;
             border: 1px solid rgba(0, 63, 127, 0.2);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .team-bar:hover {
+            background: rgba(255, 255, 255, 0.95);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 63, 127, 0.2);
+        }
+        
+        .team-bar.active {
+            background: rgba(0, 63, 127, 0.2);
+            border: 2px solid rgba(0, 63, 127, 0.5);
+            transform: scale(1.02);
+        }
+        
+        .team-bar.inactive {
+            opacity: 0.4;
         }
         
         .team-logo-large {
@@ -430,6 +472,34 @@
             border-radius: 2px;
             margin-top: 3px;
         }
+        
+        .filter-status {
+            text-align: center;
+            margin: 15px 0;
+            padding: 8px 15px;
+            background: rgba(0, 63, 127, 0.1);
+            border-radius: 10px;
+            font-size: 0.9em;
+            color: #003f7f;
+            font-weight: bold;
+        }
+        
+        .clear-filter {
+            background: #dc143c;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.8em;
+            margin-left: 10px;
+            transition: all 0.3s ease;
+        }
+        
+        .clear-filter:hover {
+            background: #b02030;
+            transform: scale(1.05);
+        }
     </style>
 </head>
 <body>
@@ -438,69 +508,74 @@
         
         <div class="legend-section">
             <h4>By Position</h4>
-            <div class="legend-item">
+            <div class="legend-item" data-position="qb">
                 <div class="legend-left">
                     <div class="legend-dot qb-dot"></div>
                     <span>QB</span>
                 </div>
                 <span class="legend-count" id="qb-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="rb">
                 <div class="legend-left">
                     <div class="legend-dot rb-dot"></div>
                     <span>RB/FB</span>
                 </div>
                 <span class="legend-count" id="rb-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="wr">
                 <div class="legend-left">
                     <div class="legend-dot wr-dot"></div>
                     <span>WR</span>
                 </div>
                 <span class="legend-count" id="wr-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="te">
                 <div class="legend-left">
                     <div class="legend-dot te-dot"></div>
                     <span>TE</span>
                 </div>
                 <span class="legend-count" id="te-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="ol">
                 <div class="legend-left">
                     <div class="legend-dot ol-dot"></div>
                     <span>O-Line</span>
                 </div>
                 <span class="legend-count" id="ol-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="dl">
                 <div class="legend-left">
                     <div class="legend-dot dl-dot"></div>
                     <span>D-Line</span>
                 </div>
                 <span class="legend-count" id="dl-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="lb">
                 <div class="legend-left">
                     <div class="legend-dot lb-dot"></div>
                     <span>LB</span>
                 </div>
                 <span class="legend-count" id="lb-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="db">
                 <div class="legend-left">
                     <div class="legend-dot db-dot"></div>
                     <span>DB</span>
                 </div>
                 <span class="legend-count" id="db-count">-</span>
             </div>
-            <div class="legend-item">
+            <div class="legend-item" data-position="k">
                 <div class="legend-left">
                     <div class="legend-dot k-dot"></div>
                     <span>K/P</span>
                 </div>
                 <span class="legend-count" id="k-count">-</span>
             </div>
+        </div>
+        
+        <div class="filter-status" id="filterStatus" style="display: none;">
+            Showing: <span id="filterText"></span>
+            <button class="clear-filter" onclick="clearFilter()">Clear Filter</button>
         </div>
         
         <div class="total-count">
@@ -516,7 +591,7 @@
                 <div class="coach-name">LaVell Edwards</div>
                 <div class="coach-title">Head Coach</div>
                 <div class="coach-title">Brigham Young University</div>
-                <div class="coach-years">Players that were drafted to the NFL</div>
+                <div class="coach-years">LaVell's players that were drafted to the NFL</div>
             </div>
         </div>
         
@@ -774,6 +849,220 @@
         document.getElementById('total-players').textContent = `${stats.total} Players Drafted`;
         document.getElementById('first-rounders').textContent = `${stats.firstRound} First Round Picks`;
 
+        // Interactive filtering functionality - Define functions first
+        let currentFilter = null;
+        let currentFilterType = null; // 'position' or 'team'
+        let allPlayerNodes = [];
+
+        function filterByPosition(position) {
+            const newFilter = currentFilter === position && currentFilterType === 'position' ? null : position;
+            currentFilter = newFilter;
+            currentFilterType = newFilter ? 'position' : null;
+            
+            // Clear team filter states
+            document.querySelectorAll('.team-bar').forEach(bar => {
+                bar.classList.remove('active', 'inactive');
+            });
+            
+            // Update legend item states
+            document.querySelectorAll('.legend-item[data-position]').forEach(item => {
+                const itemPosition = item.getAttribute('data-position');
+                item.classList.remove('active', 'inactive');
+                
+                if (currentFilter === null) {
+                    // No filter - all items normal
+                } else if (itemPosition === currentFilter) {
+                    item.classList.add('active');
+                } else {
+                    item.classList.add('inactive');
+                }
+            });
+            
+            // Update player nodes
+            allPlayerNodes.forEach(nodeData => {
+                const node = nodeData.element;
+                if (currentFilter === null || nodeData.player.posCategory === currentFilter) {
+                    node.classList.remove('filtered-out');
+                } else {
+                    node.classList.add('filtered-out');
+                }
+            });
+            
+            // Update filter status
+            updateFilterStatus();
+            
+            // Update team chart to reflect filtered data
+            updateTeamChart();
+        }
+        
+        function filterByTeam(team) {
+            const newFilter = currentFilter === team && currentFilterType === 'team' ? null : team;
+            currentFilter = newFilter;
+            currentFilterType = newFilter ? 'team' : null;
+            
+            // Clear position filter states
+            document.querySelectorAll('.legend-item[data-position]').forEach(item => {
+                item.classList.remove('active', 'inactive');
+            });
+            
+            // Update team bar states
+            document.querySelectorAll('.team-bar').forEach(bar => {
+                bar.classList.remove('active', 'inactive');
+                if (currentFilter === null) {
+                    // No filter - all items normal
+                } else {
+                    const teamName = bar.querySelector('.team-name').textContent;
+                    if (teamName === currentFilter) {
+                        bar.classList.add('active');
+                    } else {
+                        bar.classList.add('inactive');
+                    }
+                }
+            });
+            
+            // Update player nodes
+            allPlayerNodes.forEach(nodeData => {
+                const node = nodeData.element;
+                if (currentFilter === null || nodeData.player.team === currentFilter) {
+                    node.classList.remove('filtered-out');
+                } else {
+                    node.classList.add('filtered-out');
+                }
+            });
+            
+            // Update filter status
+            updateFilterStatus();
+        }
+
+        function clearFilter() {
+            currentFilter = null;
+            currentFilterType = null;
+            
+            // Clear all filter states
+            document.querySelectorAll('.legend-item[data-position]').forEach(item => {
+                item.classList.remove('active', 'inactive');
+            });
+            
+            document.querySelectorAll('.team-bar').forEach(bar => {
+                bar.classList.remove('active', 'inactive');
+            });
+            
+            // Show all player nodes
+            allPlayerNodes.forEach(nodeData => {
+                nodeData.element.classList.remove('filtered-out');
+            });
+            
+            // Update filter status and team chart
+            updateFilterStatus();
+            updateTeamChart();
+        }
+
+        function updateFilterStatus() {
+            const statusElement = document.getElementById('filterStatus');
+            const textElement = document.getElementById('filterText');
+            
+            if (currentFilter === null) {
+                statusElement.style.display = 'none';
+            } else {
+                let filterText = '';
+                
+                if (currentFilterType === 'position') {
+                    const positionNames = {
+                        'qb': 'Quarterbacks',
+                        'rb': 'Running Backs & Fullbacks',
+                        'wr': 'Wide Receivers',
+                        'te': 'Tight Ends',
+                        'ol': 'Offensive Line',
+                        'dl': 'Defensive Line',
+                        'lb': 'Linebackers',
+                        'db': 'Defensive Backs',
+                        'k': 'Kickers & Punters'
+                    };
+                    filterText = positionNames[currentFilter] || 'Unknown Position';
+                } else if (currentFilterType === 'team') {
+                    filterText = `${currentFilter} Players`;
+                }
+                
+                textElement.textContent = filterText;
+                statusElement.style.display = 'block';
+            }
+        }
+
+        function updateTeamChart() {
+            // Filter players based on current filter
+            let filteredPlayers;
+            if (currentFilter === null) {
+                filteredPlayers = playersData;
+            } else if (currentFilterType === 'position') {
+                filteredPlayers = playersData.filter(p => p.posCategory === currentFilter);
+            } else if (currentFilterType === 'team') {
+                filteredPlayers = playersData.filter(p => p.team === currentFilter);
+            }
+            
+            // Recalculate team stats
+            const filteredTeamStats = {};
+            filteredPlayers.forEach(player => {
+                const team = player.team;
+                if (!filteredTeamStats[team]) {
+                    filteredTeamStats[team] = {
+                        count: 0,
+                        original: player.teamOriginal,
+                        players: []
+                    };
+                }
+                filteredTeamStats[team].count++;
+                filteredTeamStats[team].players.push(player);
+            });
+            
+            // Sort and update team chart
+            const sortedFilteredTeams = Object.entries(filteredTeamStats)
+                .sort(([,a], [,b]) => b.count - a.count)
+                .slice(0, 15);
+            
+            const teamBarsContainer = document.getElementById('teamBars');
+            teamBarsContainer.innerHTML = '';
+            
+            if (sortedFilteredTeams.length === 0) {
+                teamBarsContainer.innerHTML = '<div style="text-align: center; color: #666; padding: 20px;">No players found for this filter</div>';
+                return;
+            }
+            
+            const maxFilteredCount = sortedFilteredTeams[0][1].count;
+            
+            sortedFilteredTeams.forEach(([team, data]) => {
+                const teamBar = document.createElement('div');
+                teamBar.className = 'team-bar';
+                
+                // Add click event listener for team filtering
+                teamBar.addEventListener('click', function() {
+                    filterByTeam(team);
+                });
+                
+                // Apply active/inactive states if there's a team filter
+                if (currentFilterType === 'team') {
+                    if (team === currentFilter) {
+                        teamBar.classList.add('active');
+                    } else {
+                        teamBar.classList.add('inactive');
+                    }
+                }
+                
+                const logoUrl = `https://raw.githubusercontent.com/klunn91/team-logos/master/NFL/${getTeamLogo(data.original)}`;
+                const barWidth = (data.count / maxFilteredCount) * 100;
+                
+                teamBar.innerHTML = `
+                    <img src="${logoUrl}" alt="${team}" class="team-logo-large" onerror="this.style.display='none'">
+                    <div class="team-info">
+                        <div class="team-name">${team}</div>
+                        <div class="team-count">${data.count} player${data.count > 1 ? 's' : ''}</div>
+                        <div class="team-bar-fill" style="width: ${barWidth}%;"></div>
+                    </div>
+                `;
+                
+                teamBarsContainer.appendChild(teamBar);
+            });
+        }
+
         // Calculate team statistics for chart
         const teamStats = {};
         playersData.forEach(player => {
@@ -802,6 +1091,11 @@
             const teamBar = document.createElement('div');
             teamBar.className = 'team-bar';
             
+            // Add click event listener for team filtering
+            teamBar.addEventListener('click', function() {
+                filterByTeam(team);
+            });
+            
             const logoUrl = `https://raw.githubusercontent.com/klunn91/team-logos/master/NFL/${getTeamLogo(data.original)}`;
             const barWidth = (data.count / maxCount) * 100;
             
@@ -815,6 +1109,14 @@
             `;
             
             teamBarsContainer.appendChild(teamBar);
+        });
+
+        // Add click event listeners to legend items
+        document.querySelectorAll('.legend-item[data-position]').forEach(item => {
+            item.addEventListener('click', function() {
+                const position = this.getAttribute('data-position');
+                filterByPosition(position);
+            });
         });
 
         // Group players by year
@@ -848,6 +1150,12 @@
                 <img src="${logoUrl}" alt="${player.team}" class="team-logo" onerror="this.style.display='none'">
                 <div class="draft-info">${roundText}-${player.pick}<br>${player.team}</div>
             `;
+
+            // Store reference for filtering
+            allPlayerNodes.push({
+                element: node,
+                player: player
+            });
 
             return node;
         }
