@@ -1,23 +1,23 @@
-names,numer_of_awards,number_of_all_american_players,Notes
-Scott Brumfield,0,0,(BYU OL 1990-92)
-Norm Chow,0,0,(BYU assistant 1973-1999)
-Jim Criner,0,0,(BYU assistant 1972)
-Mike Empey,0,0,"(BYU OL 1987; 91-93, GA 94-96, OT/TE 00-04)"
-Wally English,0,0,(BYU OC & QB coach 1978)
-Scott Giles,0,0,"(BYU LB 1990-91, GA 1993-94)"
-Tom Holmoe,0,3,"(BYU DB 1978-82, GA 1990-91)"
-Dave Kragthorpe,1,0,(BYU OC & OL coach 1970-1979)
-Ed Lamb,0,0,(BYU LB 1995-96)
-Dwain Painter,0,0,(BYU QB&WR coach 1974-75)
-Jim Paronto,0,0,(BYU LB 1983-84)
-Mesa State,0,0,1990-93
-Steve Sarkisian,0,4,(BYU QB 1995-86)
-Doug Scoville,0,0,"(BYU OC & QB coach 1976-77, 1979-80)"
-Mike Sheppard,0,1,(BYU GA 1977-78)
-Kalani Sitake,0,1,"(BYU RB 1994, 1997-2000)"
-Charlie Stubbs,0,0,"(BYU Alum, GA 1983-84)"
-Ted Tollner,2,5,(BYU QB coach 1981)
-Garrett Tujague,0,0,(BYU OL 1989-91)
-DeWayne Walker,0,0,(BYU CB coach 1994)
-Kyle Whittingham,5,9,"(BYU LB 1978-81, GA 1985-86)"
-LaVell Edwards,9,9,
+full_name,first_name,last_name,numer_of_awards,number_of_all_american_players,Notes,url
+Scott Brumfield,Scott,Brumfield,0,0,(BYU OL 1990-92),scott-brumfield-1
+Norm Chow,Norm,Chow,0,0,(BYU assistant 1973-1999),norm-chow-1
+Jim Criner,Jim,Criner,0,0,(BYU assistant 1972),jim-criner-1
+Mike Empey,Mike,Empey,0,0,"(BYU OL 1987; 91-93, GA 94-96, OT/TE 00-04)",mike-empey-1
+Wally English,Wally,English,0,0,(BYU OC & QB coach 1978),wally-english-1
+Scott Giles,Scott,Giles,0,0,"(BYU LB 1990-91, GA 1993-94)",scott-giles-1
+Tom Holmoe,Tom,Holmoe,0,3,"(BYU DB 1978-82, GA 1990-91)",tom-holmoe-1
+Dave Kragthorpe,Dave,Kragthorpe,1,0,(BYU OC & OL coach 1970-1979),dave-kragthorpe-1
+Ed Lamb,Ed,Lamb,0,0,(BYU LB 1995-96),ed-lamb-1
+Dwain Painter,Dwain,Painter,0,0,(BYU QB&WR coach 1974-75),dwain-painter-1
+Jim Paronto,Jim,Paronto,0,0,(BYU LB 1983-84),jim-paronto-1
+Mesa State,Mesa,State,0,0,1990-93,mesa-state-1
+Steve Sarkisian,Steve,Sarkisian,0,4,(BYU QB 1995-86),steve-sarkisian-1
+Doug Scoville,Doug,Scoville,0,0,"(BYU OC & QB coach 1976-77, 1979-80)",doug-scoville-1
+Mike Sheppard,Mike,Sheppard,0,1,(BYU GA 1977-78),mike-sheppard-1
+Kalani Sitake,Kalani,Sitake,0,1,"(BYU RB 1994, 1997-2000)",kalani-sitake-1
+Charlie Stubbs,Charlie,Stubbs,0,0,"(BYU Alum, GA 1983-84)",charlie-stubbs-1
+Ted Tollner,Ted,Tollner,2,5,(BYU QB coach 1981),ted-tollner-1
+Garrett Tujague,Garrett,Tujague,0,0,(BYU OL 1989-91),garrett-tujague-1
+DeWayne Walker,DeWayne,Walker,0,0,(BYU CB coach 1994),dewayne-walker-1
+Kyle Whittingham,Kyle,Whittingham,5,9,"(BYU LB 1978-81, GA 1985-86)",kyle-whittingham-1
+LaVell Edwards,LaVell,Edwards,9,9,,lavell-edwards-1
