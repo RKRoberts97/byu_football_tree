@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta viewport="width=device-width, initial-scale=1.0">
+    <title>LaVell Edwards NFL Family Tree</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(180deg, #ffffff 0%, #f8fafc 30%, #e2e8f0 100%);
+            min-height: 100vh;
+            color: #1a202c;
+            overflow-x: hidden;
+            padding: 20px;
+        }
+        
+        .tree-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+        }
+        
+        .tree-trunk {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 6px;
+            background: linear-gradient(180deg, #003f7f, #0066cc);
+            top: 200px;
+            bottom: 0;
+            box-shadow: 0 0 20px rgba(0, 63, 127, 0.3);
+        }
+        
+        .coach-root {
+            text-align: center;
+            margin-bottom: 60px;
+            position: relative;
+            z-index: 10;
+        }
+        
+        .coach-node {
+            display: inline-block;
+            background: linear-gradient(135deg, #003f7f, #0066cc, #4d94ff);
+            border: 4px solid #ffffff;
+            border-radius: 25px;
+            padding: 30px 40px;
+            box-shadow: 0 15px 40px rgba(0, 63, 127, 0.4);
+            position: relative;
+        }
+        
+        .coach-node::after {
+            content: '';
+            position: absolute;
+            bottom: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 0;
+            border-left: 15px solid transparent;
+            border-right: 15px solid transparent;
+            border-top: 30px solid #ffffff;
+        }
+        
+        .coach-name {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #ffffff;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        
+        .coach-title {
+            font-size: 1.2em;
+            color: #e6f3ff;
+            margin-bottom: 5px;
+        }
+        
+        .coach-years {
+            font-size: 1em;
+            color: #cce7ff;
+        }
+        
+        .year-group {
+            margin-bottom: 40px;
+            position: relative;
+        }
+        
+        .year-label {
+            position: absolute;
+            right: -80px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: linear-gradient(135deg, #003f7f, #0066cc);
+            color: #ffffff;
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 1.1em;
+            border: 2px solid #ffffff;
+            box-shadow: 0 5px 15px rgba(0, 63, 127, 0.3);
+            z-index: 5;
+            white-space: nowrap;
+        }
+        
+        .players-row {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 50px;
+            position: relative;
+        }
+        
+        .branch-line {
+            position: absolute;
+            top: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #003f7f, transparent);
+        }
+        
+        .player-node {
+            background: linear-gradient(135deg, #0066cc, #4d94ff);
+            border: 2px solid rgba(255, 255, 255, 0.8);
+            border-radius: 12px;
+            padding: 12px 16px;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            box-shadow: 0 4px 15px rgba(0, 63, 127, 0.2);
+            cursor: pointer;
+        }
+        
+        .player-node::before {
+            content: '';
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 2px;
+            height: 12px;
+            background: #003f7f;
+        }
+        
+        .highlighted {
+            background: linear-gradient(135deg, #dc143c, #b02030) !important;
+            border: 2px solid #ffffff !important;
+            box-shadow: 0 0 20px rgba(220, 20, 60, 0.4) !important;
+            animation: highlight-pulse 3s ease-in-out infinite;
+        }
+        
+        @keyframes highlight-pulse {
+            0%, 100% { 
+                box-shadow: 0 0 20px rgba(220, 20, 60, 0.4);
+                transform: scale(1);
+            }
+            50% { 
+                box-shadow: 0 0 30px rgba(220, 20, 60, 0.6);
+                transform: scale(1.05);
+            }
+        }
+        
+        .player-node:hover {
+            transform: translateY(-3px) scale(1.05);
+            box-shadow: 0 8px 25px rgba(0, 63, 127, 0.3);
+        }
+        
+        .player-name {
+            font-weight: bold;
+            color: #ffffff;
+            margin-bottom: 4px;
+        }
+        
+        .highlighted .player-name {
+            color: #fff;
+            text-shadow: 0 0 8px rgba(255, 255, 255, 0.5);
+        }
+        
+        .player-pos {
+            font-size: 0.8em;
+            background: rgba(255, 255, 255, 0.2);
+            color: #ffffff;
+            padding: 2px 6px;
+            border-radius: 8px;
+            display: inline-block;
+            margin-bottom: 4px;
+            border: 1px solid rgba(255, 255, 255, 0.4);
+        }
+        
+        .highlighted .player-pos {
+            background: rgba(255, 255, 255, 0.3);
+            border-color: rgba(255, 255, 255, 0.6);
+        }
+        
+        .draft-info {
+            font-size: 0.75em;
+            opacity: 0.9;
+            line-height: 1.2;
+        }
+        
+        /* Size scaling based on year - making them all the same size */
+        .player-node {
+            font-size: 1em;
+            width: 140px;
+        }
+        
+        .stats-footer {
+            text-align: center;
+            margin-top: 60px;
+            padding: 30px;
+            background: rgba(0, 63, 127, 0.1);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(0, 63, 127, 0.2);
+        }
+        
+        .stats-title {
+            color: #003f7f;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+        
+        .stats-content {
+            color: #1a202c;
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        
+        .legend {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 25px;
+            border-radius: 15px;
+            border: 2px solid rgba(0, 63, 127, 0.3);
+            z-index: 100;
+            box-shadow: 0 8px 25px rgba(0, 63, 127, 0.15);
+            max-width: 280px;
+        }
+        
+        .legend h3 {
+            color: #003f7f;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 1.3em;
+            font-weight: bold;
+        }
+        
+        .legend-section {
+            margin-bottom: 20px;
+        }
+        
+        .legend-section h4 {
+            color: #003f7f;
+            font-size: 1em;
+            margin-bottom: 10px;
+            border-bottom: 1px solid rgba(0, 63, 127, 0.2);
+            padding-bottom: 5px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-size: 0.85em;
+            font-weight: bold;
+        }
+        
+        .legend-left {
+            display: flex;
+            align-items: center;
+        }
+        
+        .legend-dot {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            margin-right: 10px;
+            border: 1px solid rgba(0, 63, 127, 0.3);
+            flex-shrink: 0;
+        }
+        
+        .legend-count {
+            font-weight: bold;
+            color: #003f7f;
+            min-width: 20px;
+            text-align: right;
+        }
+        
+        .total-count {
+            text-align: center;
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #003f7f;
+            background: rgba(0, 63, 127, 0.1);
+            padding: 10px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        
+        /* Position-specific colors - optimized for visibility by group size */
+        .ol-dot { background: linear-gradient(135deg, #0066cc, #4d94ff); } /* Blue - Largest group (21) */
+        .dl-dot { background: linear-gradient(135deg, #dc143c, #ff4567); } /* Red - Second largest (18) */
+        .db-dot { background: linear-gradient(135deg, #228b22, #32cd32); } /* Green - Medium (10) */
+        .qb-dot { background: linear-gradient(135deg, #ff8c00, #ffa500); } /* Orange - Medium (9) */
+        .te-dot { background: linear-gradient(135deg, #800080, #9370db); } /* Purple - Medium (9) */
+        .lb-dot { background: linear-gradient(135deg, #008b8b, #20b2aa); } /* Teal - Medium (8) */
+        .rb-dot { background: linear-gradient(135deg, #8b4513, #a0522d); } /* Brown - Smaller (6) */
+        .wr-dot { background: linear-gradient(135deg, #ff1493, #ff69b4); } /* Pink - Smaller (6) */
+        .k-dot { background: linear-gradient(135deg, #ffd700, #ffed4e); } /* Yellow - Smallest (2) */
+        
+        /* Player node position colors - matching legend */
+        .ol-player {
+            background: linear-gradient(135deg, #0066cc, #4d94ff) !important;
+        }
+        
+        .dl-player {
+            background: linear-gradient(135deg, #dc143c, #ff4567) !important;
+        }
+        
+        .db-player {
+            background: linear-gradient(135deg, #228b22, #32cd32) !important;
+        }
+        
+        .qb-player {
+            background: linear-gradient(135deg, #ff8c00, #ffa500) !important;
+        }
+        
+        .te-player {
+            background: linear-gradient(135deg, #800080, #9370db) !important;
+        }
+        
+        .lb-player {
+            background: linear-gradient(135deg, #008b8b, #20b2aa) !important;
+        }
+        
+        .rb-player {
+            background: linear-gradient(135deg, #8b4513, #a0522d) !important;
+        }
+        
+        .wr-player {
+            background: linear-gradient(135deg, #ff1493, #ff69b4) !important;
+        }
+        
+        .k-player {
+            background: linear-gradient(135deg, #ffd700, #ffed4e) !important;
+        }
+        
+        .team-logo {
+            width: 40px;
+            height: 40px;
+            margin: 4px auto;
+            display: block;
+            border-radius: 5px;
+            border: 2px solid rgba(255, 255, 255, 0.4);
+        }
+        
+        .team-chart {
+            margin-top: 40px;
+            padding: 30px;
+            background: rgba(0, 63, 127, 0.1);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(0, 63, 127, 0.2);
+        }
+        
+        .team-chart h3 {
+            color: #003f7f;
+            text-align: center;
+            margin-bottom: 25px;
+            font-size: 1.4em;
+            font-weight: bold;
+        }
+        
+        .team-bars {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .team-bar {
+            display: flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            padding: 8px 12px;
+            border: 1px solid rgba(0, 63, 127, 0.2);
+        }
+        
+        .team-logo-large {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px;
+            border-radius: 5px;
+            border: 1px solid rgba(0, 63, 127, 0.2);
+        }
+        
+        .team-info {
+            flex: 1;
+        }
+        
+        .team-name {
+            font-weight: bold;
+            color: #003f7f;
+            font-size: 0.9em;
+        }
+        
+        .team-count {
+            font-size: 0.8em;
+            color: #666;
+        }
+        
+        .team-bar-fill {
+            height: 4px;
+            background: linear-gradient(90deg, #0066cc, #4d94ff);
+            border-radius: 2px;
+            margin-top: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="legend">
+        <h3>🏈 Legend & Stats</h3>
+        
+        <div class="legend-section">
+            <h4>By Position</h4>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot qb-dot"></div>
+                    <span>QB</span>
+                </div>
+                <span class="legend-count" id="qb-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot rb-dot"></div>
+                    <span>RB/FB</span>
+                </div>
+                <span class="legend-count" id="rb-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot wr-dot"></div>
+                    <span>WR</span>
+                </div>
+                <span class="legend-count" id="wr-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot te-dot"></div>
+                    <span>TE</span>
+                </div>
+                <span class="legend-count" id="te-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot ol-dot"></div>
+                    <span>O-Line</span>
+                </div>
+                <span class="legend-count" id="ol-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot dl-dot"></div>
+                    <span>D-Line</span>
+                </div>
+                <span class="legend-count" id="dl-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot lb-dot"></div>
+                    <span>LB</span>
+                </div>
+                <span class="legend-count" id="lb-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot db-dot"></div>
+                    <span>DB</span>
+                </div>
+                <span class="legend-count" id="db-count">-</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-left">
+                    <div class="legend-dot k-dot"></div>
+                    <span>K/P</span>
+                </div>
+                <span class="legend-count" id="k-count">-</span>
+            </div>
+        </div>
+        
+        <div class="total-count">
+            Total NFL Players: <span id="total-count">-</span>
+        </div>
+    </div>
+
+    <div class="tree-container">
+        <div class="tree-trunk"></div>
+        
+        <div class="coach-root">
+            <div class="coach-node">
+                <div class="coach-name">LaVell Edwards</div>
+                <div class="coach-title">Head Coach</div>
+                <div class="coach-title">Brigham Young University</div>
+                <div class="coach-years">Players that were drafted to the NFL</div>
+            </div>
+        </div>
+        
+        <div id="yearGroups">
+            <!-- Year groups will be populated by JavaScript -->
+        </div>
+        
+        <div class="stats-footer">
+            <div class="stats-title">🏆 Legacy of Excellence</div>
+            <div class="stats-content">
+                <strong id="total-players">85 Players Drafted</strong> • <strong>31 Years</strong> • <strong id="first-rounders">6 First Round Picks</strong>
+            </div>
+        </div>
+        
+        <div class="team-chart">
+            <h3>🏈 Players by NFL Team</h3>
+            <div class="team-bars" id="teamBars">
+                <!-- Team bars will be populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // CSV data from LaVell_Edwards_nfl_players.csv
+        const csvData = `Rk,Year,Lg,Rnd,Pick,Tm,Player,Pos,School,Coach
+28,2003,NFL,6,204,OAK,Dustin Rykert,T,Brigham Young,LaVell Edwards
+30,2002,NFL,2,55,OAK,Doug Jolley,TE,Brigham Young,LaVell Edwards
+31,2002,NFL,2,61,BUF,Ryan Denney,DE,Brigham Young,LaVell Edwards
+32,2002,NFL,5,163,SFO,Brandon Doman,QB,Brigham Young,LaVell Edwards
+33,2002,NFL,7,214,DET,Luke Staley,RB,Brigham Young,LaVell Edwards
+34,2002,NFL,7,242,PIT,Brett Keisel,DE,Brigham Young,LaVell Edwards
+35,2001,NFL,7,216,NWE,Owen Pochman,K,Brigham Young,LaVell Edwards
+36,2001,NFL,7,246,ARI,Tevita Ofahengaue,TE,Brigham Young,LaVell Edwards
+37,2000,NFL,1,28,IND,Rob Morris,LB,Brigham Young,LaVell Edwards
+38,2000,NFL,3,93,TEN,Byron Frisch,DE,Brigham Young,LaVell Edwards
+39,2000,NFL,5,138,IND,Matt Johnson,G,Brigham Young,LaVell Edwards
+40,1999,NFL,1,14,KAN,John Tait,T,Brigham Young,LaVell Edwards
+41,1999,NFL,6,188,OAK,Daren Yancey,DT,Brigham Young,LaVell Edwards
+42,1999,NFL,7,244,MIA,Joe Wong,G,Brigham Young,LaVell Edwards
+43,1998,NFL,5,149,NYJ,Eric Bateman,T,Brigham Young,LaVell Edwards
+44,1998,NFL,6,183,NYJ,Dustin Johnson,FB,Brigham Young,LaVell Edwards
+46,1997,NFL,6,174,SEA,Itula Mili,TE,Brigham Young,LaVell Edwards
+47,1996,NFL,3,95,DAL,Mike Ulufale,DT,Brigham Young,LaVell Edwards
+48,1995,NFL,3,87,CHI,Evan Pilgrim,G,Brigham Young,LaVell Edwards
+49,1995,NFL,4,127,SFO,Tim Hanshaw,G,Brigham Young,LaVell Edwards
+50,1995,NFL,6,181,ATL,Travis Hall,DT,Brigham Young,LaVell Edwards
+51,1995,NFL,6,190,OAK,Eli Herring,T,Brigham Young,LaVell Edwards
+52,1995,NFL,7,213,CIN,John Walsh,QB,Brigham Young,LaVell Edwards
+53,1993,NFL,4,92,IND,Derwin Gray,DB,Brigham Young,LaVell Edwards
+54,1992,NFL,9,230,GNB,Ty Detmer,QB,Brigham Young,LaVell Edwards
+55,1991,NFL,6,143,RAM,Neal Fort,T,Brigham Young,LaVell Edwards
+56,1991,NFL,7,172,ATL,Brian Mitchell,DB,Brigham Young,LaVell Edwards
+57,1991,NFL,11,295,CIN,Chris Smith,TE,Brigham Young,LaVell Edwards
+58,1990,NFL,3,76,WAS,Mohammed Elewonibi,T,Brigham Young,LaVell Edwards
+59,1989,NFL,3,80,MIN,John Hunter,T,Brigham Young,LaVell Edwards
+60,1989,NFL,8,210,NWE,Rodney Rice,DB,Brigham Young,LaVell Edwards
+61,1989,NFL,8,215,RAM,Warren Wheat,G,Brigham Young,LaVell Edwards
+62,1988,NFL,5,126,MIA,Rodney Thomas,DB,Brigham Young,LaVell Edwards
+63,1988,NFL,12,313,NYG,David Futrell,DT,Brigham Young,LaVell Edwards
+64,1988,NFL,12,319,PHI,Steve Kaufusi,DE,Brigham Young,LaVell Edwards
+65,1987,NFL,1,11,NOR,Shawn Knight,DE,Brigham Young,LaVell Edwards
+66,1987,NFL,1,17,CIN,Jason Buck,DE,Brigham Young,LaVell Edwards
+67,1987,NFL,7,170,IND,Mark Bellini,WR,Brigham Young,LaVell Edwards
+68,1987,NFL,9,249,CHI,Lakei Heimuli,RB,Brigham Young,LaVell Edwards
+69,1986,NFL,3,72,GNB,Robbie Bosco,QB,Brigham Young,LaVell Edwards
+70,1986,NFL,5,123,CIN,Leon White,LB,Brigham Young,LaVell Edwards
+71,1986,NFL,8,213,WAS,Kurt Gouveia,LB,Brigham Young,LaVell Edwards
+72,1986,NFL,9,230,CIN,Cary Whittingham,LB,Brigham Young,LaVell Edwards
+73,1986,NFL,10,254,STL,Vai Sikahema,RB,Brigham Young,LaVell Edwards
+74,1986,NFL,11,305,CHI,Glen Kozlowski,WR,Brigham Young,LaVell Edwards
+75,1986,NFL,12,320,SDG,Jeff Sprowls,DB,Brigham Young,LaVell Edwards
+76,1985,NFL,1,28,NWE,Trevor Matich,C,Brigham Young,LaVell Edwards
+77,1985,NFL,4,106,MIN,Kyle Morrell,DB,Brigham Young,LaVell Edwards
+78,1985,NFL,5,131,STL,Louis Wong,G,Brigham Young,LaVell Edwards
+79,1985,NFL,5,138,HOU,Lee Johnson,P,Brigham Young,LaVell Edwards
+80,1985,NFL,7,184,DAL,Jim Herrmann,DE,Brigham Young,LaVell Edwards
+81,1984,NFL,1,1,TAM,Steve Young,QB,Brigham Young,LaVell Edwards
+82,1984,NFL,1,22,SEA,Gordon Hudson,TE,Brigham Young,LaVell Edwards
+83,1984,NFL,1,24,SFO,Todd Shell,LB,Brigham Young,LaVell Edwards
+84,1984,NFL,11,307,SFO,Kirk Pendleton,WR,Brigham Young,LaVell Edwards
+85,1983,NFL,4,90,SFO,Tom Holmoe,DB,Brigham Young,LaVell Edwards
+86,1983,NFL,12,329,SDG,Chuck Ehin,NT,Brigham Young,LaVell Edwards
+87,1982,NFL,1,5,CHI,Jim McMahon,QB,Brigham Young,LaVell Edwards
+88,1982,NFL,4,106,DEN,Dan Plater,WR,Brigham Young,LaVell Edwards
+89,1981,NFL,2,42,DEN,Clay Brown,TE,Brigham Young,LaVell Edwards
+90,1981,NFL,3,81,DAL,Glen Titensor,G,Brigham Young,LaVell Edwards
+91,1981,NFL,4,87,SEA,Scott Phillips,WR,Brigham Young,LaVell Edwards
+92,1981,NFL,4,106,HOU,Nick Eyre,T,Brigham Young,LaVell Edwards
+93,1981,NFL,6,166,NOR,Glen Redd,LB,Brigham Young,LaVell Edwards
+94,1981,NFL,8,195,NYJ,Lloyd Jones,WR,Brigham Young,LaVell Edwards
+95,1981,NFL,8,196,SEA,Eric Lane,RB,Brigham Young,LaVell Edwards
+96,1980,NFL,1,15,OAK,Marc Wilson,QB,Brigham Young,LaVell Edwards
+97,1980,NFL,2,55,WAS,Mat Mendenhall,DE,Brigham Young,LaVell Edwards
+98,1979,NFL,8,199,STL,Larry Miller,LB,Brigham Young,LaVell Edwards
+99,1979,NFL,10,275,PIT,Tod Thompson,TE,Brigham Young,LaVell Edwards
+100,1978,NFL,2,56,DAL,Todd Christensen,TE,Brigham Young,LaVell Edwards
+101,1978,NFL,3,73,HOU,Gifford Nielsen,QB,Brigham Young,LaVell Edwards
+102,1978,NFL,6,158,CHI,Mekeli Ieremia,DT,Brigham Young,LaVell Edwards
+103,1978,NFL,9,241,PIT,Lance Reynolds,T,Brigham Young,LaVell Edwards
+104,1977,NFL,5,136,NOR,Dave Hubbard,T,Brigham Young,LaVell Edwards
+105,1977,NFL,8,199,NYG,Bill Rice,DT,Brigham Young,LaVell Edwards
+106,1977,NFL,11,295,SFO,Brian Billick,TE,Brigham Young,LaVell Edwards
+107,1976,NFL,3,83,STL,Brad Oates,T,Brigham Young,LaVell Edwards
+108,1976,NFL,6,169,ATL,Stan Varner,DT,Brigham Young,LaVell Edwards
+109,1976,NFL,8,222,KAN,Orrin Olsen,C,Brigham Young,LaVell Edwards
+110,1976,NFL,10,267,TAM,Sid Smith,LB,Brigham Young,LaVell Edwards
+111,1976,NFL,17,485,RAM,Gary Shaw,DB,Brigham Young,LaVell Edwards
+112,1975,NFL,3,64,CIN,Gary Sheide,QB,Brigham Young,LaVell Edwards
+113,1975,NFL,3,74,SFO,Wayne Baker,DT,Brigham Young,LaVell Edwards
+114,1975,NFL,4,93,BAL,Paul Linford,DT,Brigham Young,LaVell Edwards
+115,1974,NFL,10,254,PIT,Dave Atkinson,DB,Brigham Young,LaVell Edwards
+118,1973,NFL,3,54,DEN,Paul Howard,G,Brigham Young,LaVell Edwards
+119,1973,NFL,3,66,NOR,Pete Van Valkenberg,RB,Brigham Young,LaVell Edwards
+120,1973,NFL,15,383,DET,Dan Hansen,DB,Brigham Young,LaVell Edwards`;
+
+        // Parse CSV data
+        function parseCSV(csvText) {
+            const lines = csvText.trim().split('\n');
+            const headers = lines[0].split(',');
+            const data = [];
+            
+            for (let i = 1; i < lines.length; i++) {
+                const values = lines[i].split(',');
+                const obj = {};
+                headers.forEach((header, index) => {
+                    obj[header] = values[index];
+                });
+                data.push(obj);
+            }
+            return data;
+        }
+
+        // Position categorization for colors
+        function categorizePosition(pos) {
+            if (pos === 'QB') return 'qb';
+            if (['RB', 'FB'].includes(pos)) return 'rb';
+            if (pos === 'WR') return 'wr';
+            if (pos === 'TE') return 'te';
+            if (['T', 'G', 'C'].includes(pos)) return 'ol';
+            if (['DE', 'DT', 'NT'].includes(pos)) return 'dl';
+            if (pos === 'LB') return 'lb';
+            if (pos === 'DB') return 'db';
+            if (['K', 'P'].includes(pos)) return 'k';
+            return 'qb'; // default
+        }
+
+        // Convert team abbreviations to readable format and logo names
+        function convertTeamName(teamAbbr) {
+            const teamMap = {
+                'TAM': 'TB', 'GNB': 'GB', 'NWE': 'NE', 'KAN': 'KC', 'SFO': 'SF',
+                'NOR': 'NO', 'RAM': 'LAR', 'SDG': 'SD', 'CHI': 'CHI',
+                'WAS': 'WAS', 'HOU': 'HOU', 'STL': 'STL', 'BAL': 'BAL',
+                'OAK': 'LV', 'ARI': 'ARI', 'ATL': 'ATL', 'BUF': 'BUF',
+                'CAR': 'CAR', 'CIN': 'CIN', 'CLE': 'CLE', 'DAL': 'DAL',
+                'DEN': 'DEN', 'DET': 'DET', 'IND': 'IND', 'JAX': 'JAX',
+                'MIA': 'MIA', 'MIN': 'MIN', 'NYG': 'NYG', 'NYJ': 'NYJ',
+                'PHI': 'PHI', 'PIT': 'PIT', 'SEA': 'SEA', 'TEN': 'TEN'
+            };
+            return teamMap[teamAbbr] || teamAbbr;
+        }
+        
+        // Get logo filename for team
+        function getTeamLogo(teamAbbr) {
+            const logoMap = {
+                'TB': 'buccaneers.png',
+                'TAM': 'buccaneers.png',
+                'GB': 'packers.png',
+                'GNB': 'packers.png',
+                'NE': 'patriots.png',
+                'NWE': 'patriots.png',
+                'KC': 'chiefs.png',
+                'KAN': 'chiefs.png',
+                'SF': '49ers.png',
+                'SFO': '49ers.png',
+                'NO': 'saints.png',
+                'NOR': 'saints.png',
+                'LAR': 'rams.png',
+                'RAM': 'rams.png',
+                'SD': 'chargers.png',
+                'SDG': 'chargers.png',
+                'CHI': 'bears.png',
+                'WAS': 'redskins.png',
+                'HOU': 'texans.png',
+                'STL': 'rams.png',
+                'BAL': 'ravens.png',
+                'LV': 'raiders.png',
+                'OAK': 'raiders.png',
+                'ARI': 'cardinals.png',
+                'ATL': 'falcons.png',
+                'BUF': 'bills.png',
+                'CAR': 'panthers.png',
+                'CIN': 'bengals.png',
+                'CLE': 'browns.png',
+                'DAL': 'cowboys.png',
+                'DEN': 'broncos.png',
+                'DET': 'lions.png',
+                'IND': 'colts.png',
+                'JAX': 'jaguars.png',
+                'MIA': 'dolphins.png',
+                'MIN': 'vikings.png',
+                'NYG': 'giants.png',
+                'NYJ': 'jets.png',
+                'PHI': 'eagles.png',
+                'PIT': 'steelers.png',
+                'SEA': 'seahawks.png',
+                'TEN': 'titans.png'
+            };
+            return logoMap[teamAbbr] || 'raiders.png'; // default
+        }
+
+        const rawData = parseCSV(csvData);
+        
+        // Process the data
+        const playersData = rawData.map(row => ({
+            name: row.Player,
+            pos: row.Pos,
+            year: parseInt(row.Year),
+            round: parseInt(row.Rnd),
+            pick: parseInt(row.Pick),
+            team: convertTeamName(row.Tm),
+            teamOriginal: row.Tm,
+            highlighted: row.Pos === 'QB',
+            posCategory: categorizePosition(row.Pos)
+        }));
+
+        // Calculate statistics by position
+        const positionStats = {
+            qb: playersData.filter(p => p.posCategory === 'qb').length,
+            rb: playersData.filter(p => p.posCategory === 'rb').length,
+            wr: playersData.filter(p => p.posCategory === 'wr').length,
+            te: playersData.filter(p => p.posCategory === 'te').length,
+            ol: playersData.filter(p => p.posCategory === 'ol').length,
+            dl: playersData.filter(p => p.posCategory === 'dl').length,
+            lb: playersData.filter(p => p.posCategory === 'lb').length,
+            db: playersData.filter(p => p.posCategory === 'db').length,
+            k: playersData.filter(p => p.posCategory === 'k').length
+        };
+
+        const stats = {
+            total: playersData.length,
+            firstRound: playersData.filter(p => p.round === 1).length
+        };
+
+        // Update legend with position stats
+        document.getElementById('qb-count').textContent = positionStats.qb;
+        document.getElementById('rb-count').textContent = positionStats.rb;
+        document.getElementById('wr-count').textContent = positionStats.wr;
+        document.getElementById('te-count').textContent = positionStats.te;
+        document.getElementById('ol-count').textContent = positionStats.ol;
+        document.getElementById('dl-count').textContent = positionStats.dl;
+        document.getElementById('lb-count').textContent = positionStats.lb;
+        document.getElementById('db-count').textContent = positionStats.db;
+        document.getElementById('k-count').textContent = positionStats.k;
+        document.getElementById('total-count').textContent = stats.total;
+        document.getElementById('total-players').textContent = `${stats.total} Players Drafted`;
+        document.getElementById('first-rounders').textContent = `${stats.firstRound} First Round Picks`;
+
+        // Calculate team statistics for chart
+        const teamStats = {};
+        playersData.forEach(player => {
+            const team = player.team;
+            if (!teamStats[team]) {
+                teamStats[team] = {
+                    count: 0,
+                    original: player.teamOriginal,
+                    players: []
+                };
+            }
+            teamStats[team].count++;
+            teamStats[team].players.push(player);
+        });
+
+        // Sort teams by player count
+        const sortedTeams = Object.entries(teamStats)
+            .sort(([,a], [,b]) => b.count - a.count)
+            .slice(0, 15); // Show top 15 teams
+
+        // Create team chart
+        const teamBarsContainer = document.getElementById('teamBars');
+        const maxCount = sortedTeams[0][1].count;
+
+        sortedTeams.forEach(([team, data]) => {
+            const teamBar = document.createElement('div');
+            teamBar.className = 'team-bar';
+            
+            const logoUrl = `https://raw.githubusercontent.com/klunn91/team-logos/master/NFL/${getTeamLogo(data.original)}`;
+            const barWidth = (data.count / maxCount) * 100;
+            
+            teamBar.innerHTML = `
+                <img src="${logoUrl}" alt="${team}" class="team-logo-large" onerror="this.style.display='none'">
+                <div class="team-info">
+                    <div class="team-name">${team}</div>
+                    <div class="team-count">${data.count} player${data.count > 1 ? 's' : ''}</div>
+                    <div class="team-bar-fill" style="width: ${barWidth}%;"></div>
+                </div>
+            `;
+            
+            teamBarsContainer.appendChild(teamBar);
+        });
+
+        // Group players by year
+        const playersByYear = {};
+        playersData.forEach(player => {
+            if (!playersByYear[player.year]) {
+                playersByYear[player.year] = [];
+            }
+            playersByYear[player.year].push(player);
+        });
+
+        // Sort years descending (most recent first)
+        const years = Object.keys(playersByYear).map(Number).sort((a, b) => b - a);
+
+        function createPlayerNode(player) {
+            const node = document.createElement('div');
+            const posCategory = player.posCategory;
+            
+            node.className = `player-node ${player.highlighted ? 'highlighted' : ''} ${posCategory}-player`;
+            
+            const roundText = player.round === 1 ? '1st' : 
+                             player.round === 2 ? '2nd' : 
+                             player.round === 3 ? '3rd' : 
+                             `${player.round}th`;
+
+            const logoUrl = `https://raw.githubusercontent.com/klunn91/team-logos/master/NFL/${getTeamLogo(player.teamOriginal)}`;
+
+            node.innerHTML = `
+                <div class="player-name">${player.name}</div>
+                <div class="player-pos">${player.pos}</div>
+                <img src="${logoUrl}" alt="${player.team}" class="team-logo" onerror="this.style.display='none'">
+                <div class="draft-info">${roundText}-${player.pick}<br>${player.team}</div>
+            `;
+
+            return node;
+        }
+
+        const yearGroupsContainer = document.getElementById('yearGroups');
+
+        years.forEach(year => {
+            const yearGroup = document.createElement('div');
+            yearGroup.className = 'year-group';
+
+            const yearLabel = document.createElement('div');
+            yearLabel.className = 'year-label';
+            yearLabel.textContent = year;
+
+            const playersRow = document.createElement('div');
+            playersRow.className = 'players-row';
+
+            const branchLine = document.createElement('div');
+            branchLine.className = 'branch-line';
+            playersRow.appendChild(branchLine);
+
+            // Sort players by round within each year
+            const sortedPlayers = playersByYear[year].sort((a, b) => a.round - b.round || a.pick - b.pick);
+            
+            sortedPlayers.forEach(player => {
+                playersRow.appendChild(createPlayerNode(player));
+            });
+
+            yearGroup.appendChild(yearLabel);
+            yearGroup.appendChild(playersRow);
+            yearGroupsContainer.appendChild(yearGroup);
+        });
+    </script>
+</body>
+</html>
