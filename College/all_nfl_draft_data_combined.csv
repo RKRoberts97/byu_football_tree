@@ -1,0 +1,3181 @@
+Rk,Year,Lg,Rnd,Pick,Tm,Player,Pos,School
+1,2020,NFL,7,224,TEN,Cole McDonald,QB,Hawaii
+2,2019,NFL,2,43,DET,Jahlani Tavai,LB,Hawaii
+3,2019,NFL,7,236,SEA,John Ursua,WR,Hawaii
+4,2015,NFL,7,231,TAM,Joey Iosefa,FB,Hawaii
+5,2012,NFL,7,209,STL,Aaron Brown,LB,Hawaii
+6,2011,NFL,3,96,GNB,Alex Green,RB,Hawaii
+7,2011,NFL,4,112,STL,Greg Salas,WR,Hawaii
+8,2011,NFL,5,132,CAR,Kealoha Pilares,WR,Hawaii
+9,2009,NFL,2,52,CLE,David Veikune,LB,Hawaii
+10,2009,NFL,3,94,TEN,Ryan Mouton,DB,Hawaii
+11,2009,NFL,6,198,NWE,Jake Ingram,C,Hawaii
+12,2008,NFL,6,186,WAS,Colt Brennan,QB,Hawaii
+13,2007,NFL,2,58,DET,Ikaika Alama-Francis,DE,Hawaii
+14,2007,NFL,2,60,MIA,Samson Satele,C,Hawaii
+15,2007,NFL,6,181,MIA,Reagan Maui'a,RB,Hawaii
+16,2007,NFL,6,200,CLE,Melila Purcell,DE,Hawaii
+17,2007,NFL,7,236,PHI,Nate Ilaoa,RB,Hawaii
+18,2005,NFL,6,185,JAX,Chad Owens,WR,Hawaii
+19,2004,NFL,2,42,TEN,Travis LaBoy,DE,Hawaii
+20,2004,NFL,4,104,SFO,Isaac Sopoaga,DT,Hawaii
+21,2003,NFL,2,43,STL,Pisa Tinoisamoa,LB,Hawaii
+22,2003,NFL,3,72,JAX,Vince Manuwai,G,Hawaii
+23,2003,NFL,3,73,SEA,Wayne Hunter,T,Hawaii
+24,2002,NFL,1,19,DEN,Ashley Lelie,WR,Hawaii
+25,2001,NFL,7,219,ATL,Kynan Forney,G,Hawaii
+26,2000,NFL,2,46,NWE,Adrian Klemm,G,Hawaii
+27,2000,NFL,3,86,SFO,Jeff Ulbrich,LB,Hawaii
+28,2000,NFL,4,104,STL,Kaulana Noa,T,Hawaii
+29,1994,NFL,4,122,PIT,Ta'ase Faumui,DE,Hawaii
+30,1993,NFL,3,70,DEN,Jason Elam,K,Hawaii
+31,1993,NFL,8,209,RAM,Maa Tanuvasa,DE,Hawaii
+32,1993,NFL,8,220,TAM,Darrick Branch,WR,Hawaii
+33,1992,NFL,6,160,PHI,Jeff Sydner,WR,Hawaii
+34,1990,NFL,3,60,SDG,Leo Goeas,G,Hawaii
+35,1988,NFL,3,71,MIN,Al Noga,DE,Hawaii
+36,1988,NFL,10,271,HOU,Marco Johnson,WR,Hawaii
+37,1987,NFL,3,70,STL,Colin Scotts,DT,Hawaii
+38,1987,NFL,4,87,TAM,Ron Hall,TE,Hawaii
+39,1987,NFL,6,151,DAL,Joe Onosai,G,Hawaii
+40,1987,NFL,9,243,SEA,M.L. Johnson,LB,Hawaii
+41,1986,NFL,2,45,WAS,Walter Murray,WR,Hawaii
+42,1986,NFL,9,227,STL,Kent Kafentzis,DB,Hawaii
+43,1986,NFL,9,245,NYJ,Nuu Faaola,RB,Hawaii
+44,1985,NFL,5,122,WAS,Raphel Cherry,DB,Hawaii
+45,1985,NFL,6,166,NYJ,Rich Miano,DB,Hawaii
+46,1985,NFL,7,170,HOU,Mike Akiu,WR,Hawaii
+47,1984,NFL,7,194,MIA,Bernard Carvalho,G,Hawaii
+48,1984,NFL,8,201,STL,Niko Noga,LB,Hawaii
+49,1983,NFL,7,174,PHI,Anthony Edgar,RB,Hawaii
+50,1983,NFL,9,225,BAL,Jim Mills,T,Hawaii
+51,1983,NFL,11,289,SFO,Jesse Sapolu,C,Hawaii
+52,1982,NFL,6,148,HOU,Gary Allen,RB,Hawaii
+53,1982,NFL,7,176,ATL,David Toloumu,RB,Hawaii
+54,1982,NFL,8,199,CLE,Mark Kafentzis,DB,Hawaii
+55,1982,NFL,10,269,SFO,Dana McLemore,DB,Hawaii
+56,1980,NFL,9,222,DET,DeWayne Jett,WR,Hawaii
+57,1980,NFL,9,223,DET,Tom Tuinei,DT,Hawaii
+58,1979,NFL,8,210,SDG,Wilbert Haslip,RB,Hawaii
+59,1977,NFL,4,106,PIT,Dan Audick,T,Hawaii
+60,1976,NFL,3,76,DET,John Woodcock,DT,Hawaii
+61,1976,NFL,9,254,WAS,Curtis Akins,G,Hawaii
+62,1974,NFL,2,52,MIA,Jeris White,DB,Hawaii
+63,1974,NFL,17,425,SFO,Levi Stanley,G,Hawaii
+64,1973,NFL,16,410,DAL,John Conley,TE,Hawaii
+65,1972,NFL,10,257,KAN,Rich Ruppert,T,Hawaii
+66,1972,NFL,13,327,ATL,Henry Sovio,TE,Hawaii
+67,1971,NFL,10,239,NOR,Rocky Pamplin,RB,Hawaii
+68,1971,NFL,16,403,SDG,Ed Foote,C,Hawaii
+69,1970,NFL,12,308,RAM,Larry Arnold,QB,Hawaii
+70,1969,NFL,8,187,CIN,Tim Buchanan,LB,Hawaii
+71,1969,NFL,10,241,NOR,McKinley Reynolds,RB,Hawaii
+72,1968,NFL,16,428,DAL,Larry Cole,DE,Hawaii
+1,2025,NFL,2,34,HOU,Jayden Higgins,WR,Iowa State
+2,2025,NFL,3,68,LVR,Darien Porter,CB,Iowa State
+3,2025,NFL,3,79,HOU,Jaylin Noel,WR,Iowa State
+4,2025,NFL,4,127,IND,Jalen Travis,OT,Iowa State
+5,2024,NFL,4,130,BAL,T.J. Tampa,DB,Iowa State
+6,2023,NFL,1,15,NYJ,Will McDonald,DE,Iowa State
+7,2023,NFL,6,205,HOU,Xavier Hutchinson,WR,Iowa State
+8,2023,NFL,7,242,GNB,Anthony Johnson,DB,Iowa State
+9,2022,NFL,2,36,NYJ,Breece Hall,RB,Iowa State
+10,2022,NFL,4,116,DEN,Eyioma Uwazurike,DE,Iowa State
+11,2022,NFL,4,128,BAL,Charlie Kolar,TE,Iowa State
+12,2022,NFL,7,262,SFO,Brock Purdy,QB,Iowa State
+13,2021,NFL,4,119,MIN,Kene Nwangwu,RB,Iowa State
+14,2019,NFL,3,73,CHI,David Montgomery,RB,Iowa State
+15,2019,NFL,4,103,ARI,Hakeem Butler,WR,Iowa State
+16,2014,NFL,5,154,NYJ,Jeremiah George,LB,Iowa State
+17,2013,NFL,5,148,CAR,A.J. Klein,LB,Iowa State
+18,2013,NFL,7,246,SFO,Carter Bykowski,OL,Iowa State
+19,2012,NFL,2,60,BAL,Kelechi Osemele,T,Iowa State
+20,2010,NFL,7,228,CIN,Reggie Stephens,C,Iowa State
+21,2008,NFL,5,147,BUF,Alvin Bowen,LB,Iowa State
+22,2008,NFL,6,190,CLE,Ahtyba Rubin,DT,Iowa State
+23,2007,NFL,7,241,CHI,Aaron Brant,G,Iowa State
+24,2006,NFL,5,151,SDG,Tim Dobbins,LB,Iowa State
+25,2005,NFL,3,84,NWE,Ellis Hobbs,DB,Iowa State
+26,2003,NFL,4,110,SEA,Seneca Wallace,QB,Iowa State
+27,2002,NFL,7,223,ARI,Mike Banks,TE,Iowa State
+28,2001,NFL,3,87,DEN,Reggie Hayward,DE,Iowa State
+29,2001,NFL,4,109,WAS,Sage Rosenfels,QB,Iowa State
+30,2001,NFL,7,206,NYJ,James Reed,DT,Iowa State
+31,1998,NFL,5,138,DAL,Oliver Ross,T,Iowa State
+32,1997,NFL,3,62,NOR,Troy Davis,RB,Iowa State
+33,1997,NFL,3,85,OAK,Tim Kohn,T,Iowa State
+34,1991,NFL,4,102,HOU,Marcus Robertson,DB,Iowa State
+35,1991,NFL,5,121,MIA,Gene Williams,G,Iowa State
+36,1991,NFL,6,148,NYJ,Blaise Bryant,RB,Iowa State
+37,1990,NFL,2,39,MIA,Keith Sims,G,Iowa State
+38,1990,NFL,10,254,TAM,Mike Busch,TE,Iowa State
+39,1989,NFL,10,273,NOR,Joe Henderson,RB,Iowa State
+40,1987,NFL,8,203,DET,Dennis Gibson,LB,Iowa State
+41,1987,NFL,9,236,ATL,Terrence Anthony,DB,Iowa State
+42,1987,NFL,12,321,NYG,Bill Berthusen,NT,Iowa State
+43,1986,NFL,9,241,NYG,Jim Luebbers,DE,Iowa State
+44,1985,NFL,5,132,NYG,Tracy Henderson,WR,Iowa State
+45,1984,NFL,6,142,TAM,Chris Washington,LB,Iowa State
+46,1984,NFL,8,204,CIN,Bruce Reimers,G,Iowa State
+47,1984,NFL,11,288,NYJ,Dan Martin,T,Iowa State
+48,1983,NFL,3,70,NYG,Karl Nelson,T,Iowa State
+49,1982,NFL,3,79,NYJ,Dwayne Crutchfield,RB,Iowa State
+50,1982,NFL,7,170,MIA,Dan Johnson,TE,Iowa State
+51,1981,NFL,7,169,NYJ,Kenny Neil,DE,Iowa State
+52,1979,NFL,2,31,HOU,Mike Stensrud,NT,Iowa State
+53,1978,NFL,7,194,DAL,Tom Randall,G,Iowa State
+54,1977,NFL,4,96,DET,Luther Blue,WR,Iowa State
+55,1977,NFL,7,178,NYG,Al Dixon,TE,Iowa State
+56,1977,NFL,8,211,NYG,Otis Rodgers,LB,Iowa State
+57,1977,NFL,12,320,DET,Dave Greenwood,G,Iowa State
+58,1976,NFL,9,239,SEA,Bob Bos,T,Iowa State
+59,1976,NFL,11,306,DEN,Greg Pittman,LB,Iowa State
+60,1976,NFL,11,309,BUF,Forry Smith,WR,Iowa State
+61,1976,NFL,12,338,MIA,Randy Young,T,Iowa State
+62,1975,NFL,5,127,MIA,Barry Hill,DB,Iowa State
+63,1975,NFL,9,216,NOR,Mike Strachan,RB,Iowa State
+64,1975,NFL,12,288,BAL,Brad Storm,LB,Iowa State
+65,1975,NFL,12,300,DET,Andre Roundtree,LB,Iowa State
+66,1975,NFL,16,414,MIN,Tom Goedjen,K,Iowa State
+67,1974,NFL,2,51,MIN,Matt Blair,LB,Iowa State
+68,1974,NFL,4,91,STL,Ike Harris,WR,Iowa State
+69,1974,NFL,5,115,PHI,Keith Krepfle,TE,Iowa State
+70,1974,NFL,13,335,CIN,Ted Jornov,LB,Iowa State
+71,1974,NFL,15,381,ATL,Willie Jones,WR,Iowa State
+72,1974,NFL,15,387,PIT,Larry Hunt,DT,Iowa State
+73,1973,NFL,1,14,HOU,George Amundson,RB,Iowa State
+74,1973,NFL,5,130,MIA,Dave McCurry,DB,Iowa State
+75,1973,NFL,7,170,ATL,Tommy Campbell,DB,Iowa State
+76,1973,NFL,11,274,MIN,Geary Murdock,G,Iowa State
+77,1973,NFL,14,344,BUF,Merv Krakau,LB,Iowa State
+78,1972,NFL,7,179,KAN,Dean Carlson,QB,Iowa State
+79,1971,NFL,2,47,MIA,Otto Stowe,WR,Iowa State
+80,1971,NFL,9,231,SFO,Therman Couch,LB,Iowa State
+81,1971,NFL,13,329,STL,Jeff Allen,DB,Iowa State
+82,1971,NFL,14,360,DET,Tom Lorenz,TE,Iowa State
+83,1971,NFL,16,406,KAN,Darrell Jansonius,G,Iowa State
+84,1969,NFL,11,275,CHI,Sam Campbell,DT,Iowa State
+85,1968,NFL,10,254,NOR,Doug Robinson,DB,Iowa State
+86,1968,NFL,10,259,STL,Tom Busch,FL,Iowa State
+87,1968,NFL,14,355,CIN,Les Webster,RB,Iowa State
+88,1967,NFL,3,56,HOU,Larry Carwell,DB,Iowa State
+89,1967,NFL,3,72,CLE,Eppie Barney,FL,Iowa State
+90,1967,NFL,7,166,DET,Ted Tuinstra,T,Iowa State
+91,1967,NFL,10,240,ATL,Dick Schafroth,T,Iowa State
+92,1966,AFL,2,13,HOU,Tim Van Galder,QB,Iowa State
+93,1966,AFL,6,53,SDG,Joe Beauchamp,DB,Iowa State
+94,1966,NFL,6,88,STL,Tim Van Galder,QB,Iowa State
+95,1966,NFL,16,238,STL,Dick Kasperek,C,Iowa State
+96,1965,NFL,5,57,DET,Tom Vaughn,DB,Iowa State
+97,1965,AFL,8,61,KAN,Roosevelt Ellerbe,DB,Iowa State
+98,1965,AFL,11,81,DEN,Tom Vaughn,DB,Iowa State
+99,1965,AFL,12,92,NYJ,John Berrington,LB,Iowa State
+100,1965,AFL,12,93,KAN,Mike Cox,LB,Iowa State
+101,1965,NFL,19,258,WAS,Roosevelt Ellerbe,B,Iowa State
+102,1964,NFL,17,227,WAS,Ozzie Clay,WR,Iowa State
+103,1964,NFL,18,248,STL,Dave Hoover,B,Iowa State
+104,1963,NFL,4,55,DET,Chuck Walton,G,Iowa State
+105,1963,NFL,7,87,NYG,Dave Hoppmann,B,Iowa State
+106,1963,AFL,13,98,SDG,Chuck Walton,G,Iowa State
+107,1961,AFL,8,58,OAK,Tom Watkins,HB,Iowa State
+108,1961,AFL,21,161,DEN,Jim Morgan,HB,Iowa State
+109,1961,AFL,24,187,BOS,Don Webb,DB,Iowa State
+110,1961,NFL,20,268,DAL,Jerry Morgan,B,Iowa State
+111,1960,AFL,,0,BUF,Dwight Nichols,HB,Iowa State
+112,1960,NFL,15,177,CLE,Tom Watkins,HB,Iowa State
+113,1959,NFL,22,262,NYG,Gale Gibson,E,Iowa State
+114,1958,NFL,15,179,DET,John Scheldrup,E,Iowa State
+115,1958,NFL,21,252,CLE,Bill Martin,E,Iowa State
+116,1957,NFL,26,311,DET,Chuck Muelhaupt,G,Iowa State
+117,1956,NFL,28,337,CLE,Ollie Sparks,G,Iowa State
+118,1955,NFL,11,132,DET,Herb McDermott,T,Iowa State
+119,1953,NFL,19,223,CHI,Bill Byrus,T,Iowa State
+120,1953,NFL,20,237,PHI,Rollie Arns,C,Iowa State
+121,1952,NFL,15,173,PHI,Malcolm Schmidt,E,Iowa State
+122,1952,NFL,18,213,DET,Stan Campbell,G,Iowa State
+123,1952,NFL,23,269,PHI,Maury Schnell,B,Iowa State
+124,1951,NFL,5,55,DET,Jim Doran,E,Iowa State
+125,1951,NFL,10,113,WAS,Bob Jensen,E,Iowa State
+126,1951,NFL,18,213,PHI,Bill Weeks,B,Iowa State
+127,1950,NFL,12,149,WAS,Bill Chauncey,B,Iowa State
+128,1950,NFL,20,255,CRD,Webb Halbert,B,Iowa State
+129,1950,NFL,21,270,CHI,Bob Angle,B,Iowa State
+130,1949,NFL,19,190,CRD,Dean Laun,E,Iowa State
+131,1948,NFL,13,109,BOS,Bob Jensen,DE,Iowa State
+132,1947,NFL,12,96,DET,LaVerne Camarata,B,Iowa State
+133,1945,NFL,24,248,CHI,Charley Wright,G,Iowa State
+134,1944,NFL,25,261,CHP,Howard Tippee,B,Iowa State
+135,1943,NFL,16,142,PHI,Paul Darling,B,Iowa State
+136,1943,NFL,21,191,DET,Royal (Ace) Lohry,B,Iowa State
+137,1941,NFL,8,70,WAS,Henry Wilder,B,Iowa State
+138,1939,NFL,7,56,CHI,Charles Heileman,E,Iowa State
+139,1939,NFL,13,116,CHI,Ed Bock,G,Iowa State
+140,1939,NFL,16,143,RAM,Gordon Reupke,B,Iowa State
+141,1939,NFL,17,158,WAS,Clyde Shugart,G,Iowa State
+142,1939,NFL,18,165,BKN,Paul Morin,T,Iowa State
+143,1939,NFL,22,196,CHI,Everett Kircher,B,Iowa State
+1,2025,NFL,3,88,JAX,Caleb Ransaw,SAF,Tulane
+2,2025,NFL,7,237,GNB,Micah Robinson,CB,Tulane
+3,2024,NFL,6,182,TEN,Jha'Quan Jackson,WR,Tulane
+4,2024,NFL,7,245,GNB,Michael Pratt,QB,Tulane
+5,2023,NFL,3,81,TEN,Tyjae Spears,RB,Tulane
+6,2023,NFL,3,91,BUF,Dorian Williams,LB,Tulane
+7,2021,NFL,4,111,CIN,Cameron Sample,DE,Tulane
+8,2021,NFL,7,234,PHI,Patrick Johnson,DE,Tulane
+9,2020,NFL,5,173,CHI,Darnell Mooney,WR,Tulane
+10,2020,NFL,7,237,KAN,Thakarius Keyes,CB,Tulane
+11,2019,NFL,7,221,CLE,Donnie Lewis,CB,Tulane
+12,2018,NFL,6,179,NYJ,Parry Nickerson,CB,Tulane
+13,2018,NFL,6,218,MIN,Ade Aruna,DE,Tulane
+14,2017,NFL,6,189,LAR,Tanzel Smart,DT,Tulane
+15,2015,NFL,5,164,DEN,Lorenzo Doss,CB,Tulane
+16,2015,NFL,7,251,DEN,Taurean Nixon,DB,Tulane
+17,2014,NFL,5,142,WAS,Ryan Grant,WR,Tulane
+18,2009,NFL,4,135,TEN,Troy Kropog,T,Tulane
+19,2008,NFL,2,44,CHI,Matt Forte,RB,Tulane
+20,2006,NFL,7,247,DET,Anthony Cannon,LB,Tulane
+21,2005,NFL,4,136,TEN,Roydell Williams,WR,Tulane
+22,2004,NFL,1,22,BUF,J.P. Losman,QB,Tulane
+23,2004,NFL,4,119,MIN,Mewelde Moore,RB,Tulane
+24,2002,NFL,1,32,WAS,Patrick Ramsey,QB,Tulane
+25,2001,NFL,5,138,CHI,Bernard Robertson,T,Tulane
+26,2000,NFL,3,79,CLE,JaJuan Dawson,WR,Tulane
+27,1999,NFL,2,50,TAM,Shaun King,QB,Tulane
+28,1997,NFL,7,231,GNB,Jerald Sowell,FB,Tulane
+29,1994,NFL,6,175,GNB,Ruffin Hamilton,LB,Tulane
+30,1991,NFL,6,160,NYJ,Mike Riley,DB,Tulane
+31,1990,NFL,9,234,CIN,Mitchell Price,DB,Tulane
+32,1989,NFL,7,195,SDG,Terrence Jones,QB,Tulane
+33,1989,NFL,11,305,BUF,Richard Harvey,LB,Tulane
+34,1988,NFL,7,182,PIT,Marc Zeno,WR,Tulane
+35,1988,NFL,11,294,NWE,Marvin Allen,RB,Tulane
+36,1987,NFL,2,49,CIN,Eric Thomas,DB,Tulane
+37,1986,NFL,6,143,GNB,Burnell Dent,LB,Tulane
+38,1985,NFL,11,307,MIA,Mike Jones,RB,Tulane
+39,1985,NFL,12,320,NOR,Treg Songy,DB,Tulane
+40,1984,NFL,2*,29,HOU,Don Maggs,T,Tulane
+41,1984,NFL,9,250,MIA,Jim Boyle,T,Tulane
+42,1984,NFL,11,303,PIT,Elton Veals,RB,Tulane
+43,1983,NFL,4,103,STL,Lionel Washington,DB,Tulane
+44,1982,NFL,3,82,CIN,Rodney Holman,TE,Tulane
+45,1982,NFL,6,142,NOR,Marvin Lewis,RB,Tulane
+46,1982,NFL,7,168,NWE,Jeff Roberts,LB,Tulane
+47,1981,NFL,10,251,NYJ,Marty Wetzel,LB,Tulane
+48,1981,NFL,10,255,GNB,Nickie Hall,QB,Tulane
+49,1980,NFL,7,166,DET,Eddie Murray,K,Tulane
+50,1980,NFL,11,281,CIN,Alton Alexis,WR,Tulane
+51,1979,NFL,10,259,OAK,Ricky Smith,DB,Tulane
+52,1979,NFL,12,315,CLE,Dewitt Methvin,C,Tulane
+53,1978,NFL,4,106,MIA,Eric Laakso,T,Tulane
+54,1977,NFL,6,158,PHI,Mark Mitchell,DB,Tulane
+55,1976,NFL,9,245,GNB,Jim Gueno,LB,Tulane
+56,1976,NFL,12,325,NWE,Nathaniel Bell,DT,Tulane
+57,1976,NFL,17,466,NYJ,Darwin Willie,TE,Tulane
+58,1975,NFL,4,99,NOR,Charlie Hall,DE,Tulane
+59,1975,NFL,8,199,DEN,Steve Foley,DB,Tulane
+60,1975,NFL,8,204,RAM,John Washington,DB,Tulane
+61,1974,NFL,10,242,NOR,Tommy Thibodeaux,G,Tulane
+62,1974,NFL,13,320,NOR,Mike Truax,LB,Tulane
+63,1973,NFL,10,236,MIN,Randy Lee,DB,Tulane
+64,1973,NFL,12,312,MIA,Mike Mullen,LB,Tulane
+65,1972,NFL,6,134,HOU,Joe Bullard,DB,Tulane
+66,1972,NFL,11,276,DET,Bob Waldron,DT,Tulane
+67,1972,NFL,14,345,NOR,Steve Barrios,WR,Tulane
+68,1972,NFL,15,372,NOR,Rusty Lachaussee,QB,Tulane
+69,1971,NFL,11,284,MIN,Mike Walker,DE,Tulane
+70,1971,NFL,13,332,DET,David Abercrombie,RB,Tulane
+71,1971,NFL,14,352,CLE,Rick Kingrea,LB,Tulane
+72,1971,NFL,15,366,NOR,Bart Graves,T,Tulane
+73,1969,NFL,2,42,PIT,Warren Bankston,RB,Tulane
+74,1968,NFL,3,70,NYG,Bobby Duhon,RB,Tulane
+75,1968,NFL,11,294,KAN,Tom Nosewicz,DE,Tulane
+76,1967,NFL,5,111,HOU,Pete Johns,DB,Tulane
+77,1966,NFL,8,111,ATL,Bill Goss,LB,Tulane
+78,1963,NFL,13,182,GNB,Bill Kellum,T,Tulane
+79,1963,NFL,17,228,PHI,Gordon Rush,B,Tulane
+80,1962,AFL,7,55,HOU,Gus Gonzales,G,Tulane
+81,1962,NFL,6,77,PHI,Gus Gonzales,G,Tulane
+82,1962,NFL,8,105,CHI,Ed Reynolds,T,Tulane
+83,1962,NFL,12,155,WAS,Terry Terrebonne,HB,Tulane
+84,1962,NFL,12,167,PHI,Larry Thompson,C,Tulane
+85,1962,AFL,26,204,BUF,Ed Reynolds,T,Tulane
+86,1962,NFL,19,259,CHI,Bill Kellum,T,Tulane
+87,1961,NFL,1,1,MIN,Tommy Mason,RB,Tulane
+88,1961,AFL,1,3,BOS,Tommy Mason,RB,Tulane
+89,1961,NFL,3,40,GNB,Phil Nugent,DB,Tulane
+90,1961,NFL,4,56,GNB,Joe LeSage,G,Tulane
+91,1961,AFL,9,65,DEN,Phil Nugent,DB,Tulane
+92,1960,AFL,,0,DEN,Bernie Darre,G,Tulane
+93,1960,AFL,,0,NYT,Pete Abadie,E,Tulane
+94,1960,NFL,15,172,WAS,Bernie Darre,G,Tulane
+95,1959,NFL,2,21,CHI,Richie Petitbon,DB,Tulane
+96,1959,NFL,6,69,RAM,Dave Painter,C,Tulane
+97,1959,NFL,28,335,CLE,Pete Abadie,E,Tulane
+98,1959,NFL,29,340,WAS,Don Lockwood,G,Tulane
+99,1958,NFL,21,249,NYG,Charlie Hansen,C,Tulane
+100,1957,NFL,3,29,GNB,Dalton Truax,T,Tulane
+101,1957,NFL,21,248,SFO,Fred Wilcox,B,Tulane
+102,1957,NFL,22,255,GNB,Ronnie Quillian,QB,Tulane
+103,1957,NFL,26,313,NYG,Emmett Zelenka,G,Tulane
+104,1956,NFL,6,64,SFO,Tony Sardisco,G,Tulane
+105,1956,NFL,27,314,DET,Bryan Burnthorne,G,Tulane
+106,1955,NFL,16,187,RAM,Charley Coates,T,Tulane
+107,1955,NFL,30,352,GNB,Bob Saia,B,Tulane
+108,1954,NFL,5,51,GNB,Max McGee,E,Tulane
+109,1954,NFL,13,156,CLE,George Cummins,T,Tulane
+110,1954,NFL,28,329,NYG,Jim Partridge,B,Tulane
+111,1953,NFL,14,165,PHI,Roy Bailey,B,Tulane
+112,1953,NFL,23,267,BAL,Mike Housepian,G,Tulane
+113,1953,NFL,23,276,CLE,Ronnie Kent,B,Tulane
+114,1952,NFL,5,51,CRD,Dick Fugler,T,Tulane
+115,1952,NFL,10,111,GNB,Art Kleinschmidt,G,Tulane
+116,1952,NFL,25,301,RAM,Len Teeuws,DT,Tulane
+117,1951,NFL,2,18,CRD,Don Joyce,DE,Tulane
+118,1951,NFL,3,38,CLE,Jerry Helluin,DT,Tulane
+119,1951,NFL,4,48,RAM,George Kinek,E,Tulane
+120,1951,NFL,6,74,CLE,Dan Rogas,G,Tulane
+121,1951,NFL,7,84,CHI,Paul Lea,DT,Tulane
+122,1951,NFL,9,104,PHI,Denny Doyle,G,Tulane
+123,1951,NFL,15,172,GNB,Joe Ernst,B,Tulane
+124,1951,NFL,17,202,PHI,Hal Waggoner,B,Tulane
+125,1951,NFL,30,359,NYY,Joe Shinn,E,Tulane
+126,1950,NFL,2,20,NYG,Eddie Price,FB,Tulane
+127,1950,NFL,3,29,CRD,Bill Svoboda,LB,Tulane
+128,1950,NFL,9,112,PIT,Max Druen,T,Tulane
+129,1950,NFL,15,192,CHI,Jimmy Glisson,B,Tulane
+130,1950,NFL,17,219,SFO,Cliff Van Meter,B,Tulane
+131,1950,NFL,23,289,NYY,Dick Sheffield,E,Tulane
+132,1949,NFL,17,167,RAM,Dick Sheffield,E,Tulane
+133,1948,NFL,28,264,PHI,Benny Ellender,B,Tulane
+134,1947,NFL,30,276,DET,Howard McAfee,T,Tulane
+135,1946,NFL,5,32,BOS,Gaston Bourgeois,B,Tulane
+136,1946,NFL,22,202,BOS,Elliot (Ike) Igleheart,G,Tulane
+137,1945,NFL,1,3,BOS,Joe Renfroe,B,Tulane
+138,1945,NFL,8,71,WAS,Art Porter,E,Tulane
+139,1945,NFL,17,171,DET,O.J. Key,B,Tulane
+140,1945,NFL,23,237,DET,Ray Olsen,B,Tulane
+141,1944,NFL,5,43,BOS,Larry Rice,C,Tulane
+142,1943,NFL,5,34,BKN,Marty Comer,DE,Tulane
+143,1943,NFL,8,68,GNB,Les Gatewood,C,Tulane
+144,1943,NFL,10,90,WAS,Walt McDonald,B,Tulane
+145,1943,NFL,12,103,BKN,Lou Thomas,B,Tulane
+146,1943,NFL,25,240,WAS,Roman Bentz,G,Tulane
+147,1942,NFL,5,33,PHI,Ernie Blandin,T,Tulane
+148,1942,NFL,6,46,WAS,Harley McCollum,T,Tulane
+149,1942,NFL,6,48,NYG,Bob Glass,B,Tulane
+150,1942,NFL,12,107,BKN,Jim Thibaut,FB,Tulane
+151,1941,NFL,6,48,CHI,Tom O'Boyle,G,Tulane
+152,1940,NFL,2,12,PIT,Ralph Wenzel,E,Tulane
+153,1940,NFL,3,23,WAS,Burt (Buddy) Banker,B,Tulane
+154,1940,NFL,5,38,WAS,Bill Kirchem,T,Tulane
+155,1940,NFL,7,59,GNB,Millard White,T,Tulane
+156,1939,NFL,8,63,RAM,Warren (Bronco) Brunner,B,Tulane
+157,1939,NFL,20,190,NYG,Lyle Smith,G,Tulane
+158,1937,NFL,4,32,CRD,H.K. (Bucky) Bryan,B,Tulane
+1,2025,NFL,3,85,KAN,Nohl Williams,CB,California
+2,2025,NFL,4,106,NWE,Craig Woodson,SAF,California
+3,2025,NFL,4,129,BAL,Teddye Buchanan,LB,California
+4,2025,NFL,6,183,TEN,Marcus Harris,DB,California
+5,2024,NFL,6,198,MIA,Patrick McMorris,DB,California
+6,2023,NFL,5,158,IND,Daniel Scott,S,California
+7,2022,NFL,7,224,MIA,Cameron Goode,OLB,California
+8,2022,NFL,7,254,CHI,Elijah Hicks,S,California
+9,2021,NFL,4,125,MIN,Camryn Bynum,CB,California
+10,2020,NFL,3,68,NYJ,Ashtyn Davis,S,California
+11,2020,NFL,4,134,ATL,Jaylinn Hawkins,S,California
+12,2020,NFL,6,202,ARI,Evan Weaver,LB,California
+13,2018,NFL,7,225,MIN,Devante Downs,LB,California
+14,2018,NFL,7,232,GNB,James Looney,DE,California
+15,2017,NFL,3,87,NYG,Davis Webb,QB,California
+16,2017,NFL,4,141,NYJ,Chad Hansen,WR,California
+17,2017,NFL,7,241,TEN,Khalfani Muhammad,RB,California
+18,2016,NFL,1,1,LAR,Jared Goff,QB,California
+19,2016,NFL,5,163,GNB,Trevor Davis,WR,California
+20,2016,NFL,7,237,NOR,Daniel Lasco,RB,California
+21,2016,NFL,7,243,SEA,Kenny Lawler,WR,California
+22,2014,NFL,3,98,GNB,Richard Rodgers,TE,California
+23,2014,NFL,4,126,NOR,Khairi Fortt,LB,California
+24,2013,NFL,3,76,SDG,Keenan Allen,WR,California
+25,2013,NFL,4,107,TEN,Brian Schwenke,C,California
+26,2013,NFL,5,145,SDG,Steve Williams,DB,California
+27,2013,NFL,7,247,BAL,Marc Anthony,DB,California
+28,2012,NFL,2,37,CLE,Mitchell Schwartz,T,California
+29,2012,NFL,2,46,PHI,Mychal Kendricks,LB,California
+30,2012,NFL,3,70,JAX,Bryan Anger,P,California
+31,2012,NFL,5,166,CIN,Marvin Jones,WR,California
+32,2012,NFL,7,216,CAR,D.J. Campbell,DB,California
+33,2012,NFL,7,219,MIN,Trevor Guyton,DE,California
+34,2011,NFL,1,24,NOR,Cameron Jordan,DE,California
+35,2011,NFL,2,56,NWE,Shane Vereen,RB,California
+36,2011,NFL,3,93,CHI,Chris Conte,DB,California
+37,2011,NFL,6,189,DEN,Mike Mohamed,LB,California
+38,2010,NFL,1,10,JAX,Tyson Alualu,DT,California
+39,2010,NFL,1,30,DET,Jahvid Best,RB,California
+40,2010,NFL,7,225,DEN,Syd'Quan Thompson,DB,California
+41,2009,NFL,1,21,CLE,Alex Mack,C,California
+42,2009,NFL,7,235,DET,Zack Follett,LB,California
+43,2009,NFL,7,248,SEA,Cameron Morrah,TE,California
+44,2008,NFL,2,49,PHI,DeSean Jackson,WR,California
+45,2008,NFL,3,85,TEN,Craig Stevens,TE,California
+46,2008,NFL,3,98,ATL,Thomas DeCoud,DB,California
+47,2008,NFL,4,126,TEN,Lavelle Hawkins,WR,California
+48,2008,NFL,6,184,PHI,Mike Gibson,T,California
+49,2008,NFL,7,233,SEA,Justin Forsett,RB,California
+50,2007,NFL,1,12,BUF,Marshawn Lynch,RB,California
+51,2007,NFL,3,85,SEA,Brandon Mebane,DT,California
+52,2007,NFL,3,95,IND,Dante Hughes,DB,California
+53,2007,NFL,6,192,GNB,Desmond Bishop,LB,California
+54,2006,NFL,5,136,NWE,Ryan O'Callaghan,T,California
+55,2006,NFL,6,201,PIT,Marvin Philip,C,California
+56,2006,NFL,7,248,BUF,Aaron Merz,G,California
+57,2005,NFL,1,24,GNB,Aaron Rodgers,QB,California
+58,2005,NFL,2,44,ARI,J.J. Arrington,RB,California
+59,2005,NFL,4,118,NOR,Chase Lyman,WR,California
+60,2005,NFL,4,135,IND,Matt Giordano,DB,California
+61,2005,NFL,6,212,OAK,Ryan Riddle,DE,California
+62,2004,NFL,5,151,WAS,Mark Wilson,TE,California
+63,2004,NFL,7,208,CLE,Adimchinobe Echemandu,RB,California
+64,2003,NFL,1,19,BAL,Kyle Boller,QB,California
+65,2003,NFL,1,31,OAK,Nnamdi Asomugha,DB,California
+66,2003,NFL,6,184,STL,Scott Tercero,G,California
+67,2003,NFL,7,239,NWE,Tully Banta-Cain,LB,California
+68,2002,NFL,2,53,OAK,Langston Walker,T,California
+69,2002,NFL,5,143,KAN,Scott Fujita,LB,California
+70,2001,NFL,1,7,SFO,Andre Carter,DE,California
+71,2001,NFL,4,120,DEN,Nick Harris,P,California
+72,2000,NFL,1,15,DEN,Deltha O'Neal,DB,California
+73,2000,NFL,6,192,PHI,John Romero,C,California
+74,2000,NFL,7,215,ARI,Sekou Sanyika,LB,California
+75,2000,NFL,7,217,NYG,Jeremiah Parker,DE,California
+76,1999,NFL,3,76,CLE,Marquis Smith,DB,California
+77,1999,NFL,4,97,PHI,John Welbourn,G,California
+78,1999,NFL,4,102,OAK,Dameane Douglas,WR,California
+79,1999,NFL,5,150,TAM,John McLaughlin,DE,California
+80,1998,NFL,2,58,SFO,Jeremy Newberry,C,California
+81,1998,NFL,4,112,PHI,Brandon Whiting,DE,California
+82,1998,NFL,6,169,SEA,Bobby Shaw,WR,California
+83,1998,NFL,7,223,DAL,Tarik Smith,RB,California
+84,1997,NFL,1,13,KAN,Tony Gonzalez,TE,California
+85,1997,NFL,1,19,IND,Tarik Glenn,T,California
+86,1997,NFL,4,110,KAN,Pat Barnes,QB,California
+87,1996,NFL,1,12,TAM,Regan Upshaw,DE,California
+88,1996,NFL,1,16,MIN,Duane Clemons,DE,California
+89,1996,NFL,2,40,NOR,Je'Rod Cherry,DB,California
+90,1996,NFL,5,160,SFO,Iheanyi Uwaezuoke,WR,California
+91,1996,NFL,7,211,KAN,Ben Lynch,C,California
+92,1995,NFL,4,119,PHI,Dave Barr,QB,California
+93,1995,NFL,5,164,KAN,Jerrott Willard,LB,California
+94,1995,NFL,6,176,WAS,Brian Thure,T,California
+95,1994,NFL,1,19,MIN,Todd Steussie,T,California
+96,1994,NFL,2,32,IND,Eric Mahlum,G,California
+97,1994,NFL,3,85,SFO,Doug Brien,K,California
+98,1994,NFL,3,103,PHI,Eric Zomalt,DB,California
+99,1994,NFL,5,141,CLE,Issac Booth,DB,California
+100,1993,NFL,1,16,IND,Sean Dawkins,WR,California
+101,1993,NFL,3,73,RAM,Russell White,RB,California
+102,1993,NFL,6,145,TAM,Chidi Ahanotu,DE,California
+103,1992,NFL,2,49,CHI,Troy Auzenne,T,California
+104,1992,NFL,7,183,MIN,David Wilson,DB,California
+105,1992,NFL,8,222,TAM,Mike Pawlawski,QB,California
+106,1992,NFL,10,277,NWE,Steve Gordon,C,California
+107,1991,NFL,3,64,DAL,James Richards,G,California
+108,1991,NFL,6,147,TAM,Rhett Hall,DT,California
+109,1991,NFL,9,237,NOR,Anthony Wallace,RB,California
+110,1991,NFL,9,244,KAN,Robbie Keen,K,California
+111,1991,NFL,11,302,MIA,Ernie Rogers,G,California
+112,1990,NFL,4,84,NYJ,Troy Taylor,QB,California
+113,1989,NFL,2,54,CHI,Dave Zawatson,G,California
+114,1989,NFL,4,108,MIN,Darryl Ingram,TE,California
+115,1989,NFL,5,138,CIN,Natu Tuatagaloa,DE,California
+116,1989,NFL,6,167,SFO,Steve Hendrickson,LB,California
+117,1989,NFL,11,297,CHI,Joe Nelms,DT,California
+118,1988,NFL,1,12,PHO,Ken Harvey,LB,California
+119,1988,NFL,9,229,RAI,Scott Tabor,P,California
+120,1988,NFL,9,232,DAL,Brian Bedford,WR,California
+121,1987,NFL,5,122,PIT,Hardy Nickerson,LB,California
+122,1987,NFL,6,168,NYG,Doug Riesenberg,T,California
+123,1985,NFL,12,335,MIA,Ray Noble,DB,California
+124,1984,NFL,1,20,DET,David Lewis,TE,California
+125,1984,NFL,2,44,CHI,Ron Rivera,LB,California
+126,1984,NFL,3*,66,IND,Byron Smith,DE,California
+127,1984,NFL,3*,72,GNB,John Sullivan,DB,California
+128,1983,NFL,2,30,HOU,Harvey Salem,T,California
+129,1983,NFL,3,68,CLE,Reggie Camp,DE,California
+130,1983,NFL,4,105,NYJ,Wes Howell,TE,California
+131,1983,NFL,10,269,STL,Tim Lucas,LB,California
+132,1983,NFL,12,335,NYG,John Tuggle,RB,California
+133,1981,NFL,1,6,GNB,Rich Campbell,QB,California
+134,1981,NFL,10,273,DAL,Pat Graham,DT,California
+135,1981,NFL,11,288,BAL,Holden Smith,WR,California
+136,1980,NFL,2,52,HOU,Daryle Skaugstad,NT,California
+137,1980,NFL,5,122,MIN,Paul Jones,RB,California
+138,1980,NFL,7,185,MIA,Joe Rose,TE,California
+139,1980,NFL,9,243,DEN,Greg Bracelin,LB,California
+140,1979,NFL,4,109,DAL,Ralph DeLoach,DE,California
+141,1979,NFL,9,228,STL,Bob Rozier,DE,California
+142,1978,NFL,6,165,DET,Jesse Thompson,WR,California
+143,1978,NFL,8,206,DET,Jim Breech,K,California
+144,1978,NFL,8,212,CHI,George Freitas,TE,California
+145,1978,NFL,12,317,CLE,Leo Biedermann,T,California
+146,1977,NFL,1,15,CHI,Ted Albrecht,T,California
+147,1977,NFL,2,33,NYJ,Wesley Walker,WR,California
+148,1977,NFL,5,115,BUF,Fred Besana,QB,California
+149,1977,NFL,5,139,OAK,Jeff Barnes,LB,California
+150,1977,NFL,11,297,DEN,Phil Heck,LB,California
+151,1977,NFL,12,332,DAL,Greg Peters,G,California
+152,1976,NFL,1,3,NOR,Chuck Muncie,RB,California
+153,1976,NFL,4,100,SFO,Steve Rivera,WR,California
+154,1976,NFL,16,434,SDG,Jack Harrison,G,California
+155,1975,NFL,1,1,ATL,Steve Bartkowski,QB,California
+156,1975,NFL,9,228,WAS,Dallas Hickman,DE,California
+157,1975,NFL,11,281,RAM,Howard Strickland,RB,California
+158,1974,NFL,12,289,SDG,Sam Williams,DB,California
+159,1974,NFL,12,290,CHI,Jeff Sevy,T,California
+160,1973,NFL,3,77,BUF,Bob Kampa,DT,California
+161,1973,NFL,8,192,PIT,Loren Toews,LB,California
+162,1973,NFL,9,231,OAK,Steve Sweeney,WR,California
+163,1972,NFL,1,2,CIN,Sherman White,DE,California
+164,1971,NFL,7,159,HOU,Phil Croyle,LB,California
+165,1971,NFL,12,296,GNB,Greg Hendren,G,California
+166,1971,NFL,15,386,MIA,Bob Richards,G,California
+167,1970,NFL,16,398,STL,Gary Fowler,RB,California
+168,1969,NFL,2,39,MIN,Ed White,G,California
+169,1969,NFL,4,95,MIN,Mike McCaffrey,LB,California
+170,1969,NFL,15,390,NYJ,Wayne Stewart,TE,California
+171,1969,NFL,17,418,ATL,Paul Williams,RB,California
+172,1968,NFL,16,415,BUF,John Frantz,C,California
+173,1967,NFL,8,197,MIN,John Beasley,TE,California
+174,1966,AFL,4,33,KAN,Dan Berry,HB,California
+175,1966,NFL,5,68,PHI,Dan Berry,HB,California
+176,1966,AFL,10,85,HOU,Dan Goich,DT,California
+177,1966,NFL,8,121,STL,Dan Goich,DT,California
+178,1966,AFL,18,159,NYJ,Gerry Mosher,E,California
+179,1965,NFL,1,5,DAL,Craig Morton,QB,California
+180,1965,AFL,3,22,SDG,Stan Dzura,T,California
+181,1965,AFL,10,75,OAK,Craig Morton,QB,California
+182,1965,NFL,8,106,RAM,Stan Dzura,T,California
+183,1965,AFL,14,107,OAK,Loren Hawley,DB,California
+184,1965,NFL,13,173,DAL,Jack Schraub,E,California
+185,1962,AFL,13,97,OAK,George Pierovich,FB,California
+186,1962,NFL,11,145,PIT,Bob Wills,E,California
+187,1962,NFL,13,176,SFO,George Pierovich,B,California
+188,1962,NFL,19,266,GNB,Jerry Scattini,B,California
+189,1960,AFL,,0,BOS,Frank Sally,T,California
+190,1960,NFL,8,85,STL,Wayne Crow,HB,California
+191,1959,NFL,18,209,WAS,Joe Kapp,QB,California
+192,1959,NFL,26,310,NYG,Frank Doretti,C,California
+193,1958,NFL,2,17,PHI,Proverb Jacobs,T,California
+194,1957,NFL,6,67,CLE,Harley Martin,T,California
+195,1956,NFL,4,48,RAM,Jim Carmichael,E,California
+196,1956,NFL,28,328,SFO,Jerry Drew,B,California
+197,1955,NFL,4,45,SFO,Matt Hazeltine,LB,California
+198,1955,NFL,12,139,RAM,Jim Hanifan,E,California
+199,1955,NFL,16,183,WAS,Hal Norris,LB,California
+200,1955,NFL,19,226,SFO,John Garzoli,T,California
+201,1954,NFL,8,86,CRD,Paul Larson,QB,California
+202,1954,NFL,14,167,SFO,Sammy Williams,B,California
+203,1954,NFL,23,274,RAM,Don Marks,B,California
+204,1953,NFL,1,4,CRD,Johnny Olszewski,FB,California
+205,1953,NFL,3,34,PHI,Don Johnson,HB,California
+206,1953,NFL,17,199,CHI,Bob Beal,E,California
+207,1953,NFL,19,219,BAL,Bill Powell,B,California
+208,1952,NFL,1,2,DTX,Les Richter,LB,California
+209,1952,NFL,6,65,PHI,Dick LemMon,B,California
+210,1952,NFL,7,81,SFO,Don Robison,B,California
+211,1952,NFL,11,131,NYG,Charlie Harris,C,California
+212,1952,NFL,17,203,NYG,Bob Karpe,T,California
+213,1952,NFL,18,211,WAS,Ed Bartlett,E,California
+214,1952,NFL,24,286,SFO,Ralph Kreuger,T,California
+215,1952,NFL,29,343,WAS,John Pappa,B,California
+216,1952,NFL,29,347,NYG,Jim Dillon,B,California
+217,1952,NFL,29,349,RAM,Gerry Perry,T,California
+218,1951,NFL,2,17,SFO,Pete Schabarum,HB,California
+219,1951,NFL,12,137,SFO,Jim Monachino,HB,California
+220,1951,NFL,19,231,CLE,Ray Solari,G,California
+221,1950,NFL,10,127,SFO,Bob Celeri,QB,California
+222,1950,NFL,17,214,WAS,Jim Cullom,G,California
+223,1950,NFL,19,245,SFO,Forest Klein,G,California
+224,1950,NFL,26,339,PHI,Rod Franz,G,California
+225,1950,NFL,29,373,CRD,Bill Montagne,B,California
+226,1949,NFL,7,67,RAM,Jon Baker,DG,California
+227,1949,NFL,15,148,WAS,Gene Frassetto,T,California
+228,1949,NFL,24,238,WAS,Jim Cullom,G,California
+229,1948,NFL,19,173,CHI,Bob Hileman,C,California
+230,1948,NFL,23,213,PHI,Jack Swaner,B,California
+231,1948,NFL,29,272,CHI,Frank Van Deren,E,California
+232,1947,NFL,14,125,CHI,Jim Turner,T,California
+233,1947,NFL,23,211,GNB,Ron Sockolov,T,California
+234,1947,NFL,25,233,RAM,Bob Dal Porto,B,California
+235,1947,NFL,25,235,CHI,John Cunningham,E,California
+236,1946,NFL,6,50,RAM,Newell (Ace) Oestreich,B,California
+237,1946,NFL,7,54,CHI,Wendell Beard,T,California
+238,1946,NFL,29,278,DET,Bill Agnew,B,California
+239,1946,NFL,31,294,WAS,Sarkis Takesian,B,California
+240,1945,NFL,5,37,RAM,Roger Harding,C,California
+241,1945,NFL,8,67,BOS,John Dodds,G,California
+242,1945,NFL,16,164,GNB,Harry Pieper,C,California
+243,1944,NFL,23,237,WAS,Bill Reinhard,B,California
+244,1943,NFL,8,63,BKN,John Ferguson,E,California
+245,1943,NFL,9,79,CHI,Jim Jurkovich,B,California
+246,1943,NFL,31,293,GNB,Brunel Christensen,T,California
+247,1942,NFL,5,34,CRD,Bob Reinhard,T,California
+248,1941,NFL,14,124,RAM,Bill Elmore,B,California
+249,1940,NFL,6,50,NYG,Lou Smith,B,California
+250,1940,NFL,11,97,CHI,Lee Artoe,T,California
+251,1939,NFL,4,30,BKN,Vic Bottari,B,California
+252,1939,NFL,6,48,WAS,Dave Anderson,B,California
+253,1939,NFL,18,170,NYG,Will Dolman,E,California
+254,1938,NFL,3,24,WAS,Sam Chapman,B,California
+255,1938,NFL,4,27,PHI,John Meek,B,California
+256,1938,NFL,4,30,CRD,Bob Herwig,C,California
+257,1938,NFL,6,43,BKN,Perry Schwartz,E,California
+258,1936,NFL,6,47,BOS,Larry Lutz,T,California
+1,2024,NFL,1,14,NOR,Taliese Fuaga,OL,Oregon State
+2,2024,NFL,5,142,IND,Anthony Gould,WR,Oregon State
+3,2024,NFL,5,169,GNB,Kitan Oladapo,DB,Oregon State
+4,2023,NFL,2,42,GNB,Luke Musgrave,TE,Oregon State
+5,2023,NFL,7,252,BUF,Alex Austin,DB,Oregon State
+6,2022,NFL,5,170,HOU,Teagan Quitoriano,TE,Oregon State
+7,2021,NFL,3,99,DAL,Nahshon Wright,DB,Oregon State
+8,2021,NFL,7,257,DET,Jermar Jefferson,RB,Oregon State
+9,2020,NFL,6,189,JAX,Jake Luton,QB,Oregon State
+10,2020,NFL,6,203,MIN,Blake Brandel,T,Oregon State
+11,2020,NFL,6,207,BUF,Isaiah Hodgins,WR,Oregon State
+12,2017,NFL,4,136,ATL,Sean Harlow,G,Oregon State
+13,2017,NFL,5,169,HOU,Treston Decoud,S,Oregon State
+14,2016,NFL,3,79,PHI,Isaac Seumalo,G,Oregon State
+15,2015,NFL,3,89,STL,Sean Mannion,QB,Oregon State
+16,2015,NFL,3,98,KAN,Steven Nelson,CB,Oregon State
+17,2015,NFL,5,172,KAN,D.J. Alexander,OLB,Oregon State
+18,2015,NFL,6,209,SEA,Obum Gwacham,DE,Oregon State
+19,2015,NFL,7,248,SEA,Ryan Murphy,DB,Oregon State
+20,2014,NFL,1,20,NOR,Brandin Cooks,WR,Oregon State
+21,2014,NFL,3,72,MIN,Scott Crichton,DE,Oregon State
+22,2013,NFL,3,79,PIT,Markus Wheaton,WR,Oregon State
+23,2013,NFL,7,218,PHI,Jordan Poyer,DB,Oregon State
+24,2012,NFL,3,79,CHI,Brandon Hardin,DB,Oregon State
+25,2011,NFL,2,53,CHI,Stephen Paea,DT,Oregon State
+26,2011,NFL,5,140,KAN,Gabe Miller,LB,Oregon State
+27,2011,NFL,5,145,ATL,Jacquizz Rodgers,RB,Oregon State
+28,2010,NFL,7,239,NOR,Sean Canfield,QB,Oregon State
+29,2009,NFL,2,51,BUF,Andy Levitre,G,Oregon State
+30,2009,NFL,3,96,PIT,Keenan Lewis,DB,Oregon State
+31,2009,NFL,4,110,DAL,Victor Butler,LB,Oregon State
+32,2009,NFL,4,126,OAK,Slade Norris,DE,Oregon State
+33,2009,NFL,5,148,SDG,Brandon Hughes,DB,Oregon State
+34,2009,NFL,6,190,CHI,Al Afalava,DB,Oregon State
+35,2009,NFL,7,233,TAM,Sammie Stroughter,WR,Oregon State
+36,2008,NFL,5,157,STL,Roy Schuening,G,Oregon State
+37,2008,NFL,7,243,CHI,Joey LaRocque,LB,Oregon State
+38,2007,NFL,2,64,TAM,Sabby Piscitelli,LB,Oregon State
+39,2007,NFL,6,189,NYG,Adam Koets,T,Oregon State
+40,2006,NFL,6,171,NOR,Mike Hass,WR,Oregon State
+41,2006,NFL,6,178,BUF,Keith Ellison,LB,Oregon State
+42,2005,NFL,6,184,DET,Bill Swancutt,DE,Oregon State
+43,2005,NFL,6,213,BAL,Derek Anderson,QB,Oregon State
+44,2005,NFL,7,254,SEA,Doug Nienhuis,T,Oregon State
+45,2004,NFL,1,24,STL,Steven Jackson,RB,Oregon State
+46,2004,NFL,2,51,BAL,Dwan Edwards,DT,Oregon State
+47,2004,NFL,4,109,BUF,Tim Euhus,TE,Oregon State
+48,2004,NFL,4,127,SFO,Richard Seigler,LB,Oregon State
+49,2003,NFL,1,29,GNB,Nick Barnett,LB,Oregon State
+50,2003,NFL,4,98,CIN,Dennis Weathersby,DB,Oregon State
+51,2003,NFL,5,147,GNB,James Lee,DT,Oregon State
+52,2002,NFL,3,82,NOR,James Allen,LB,Oregon State
+53,2001,NFL,2,36,CIN,Chad Johnson,WR,Oregon State
+54,2001,NFL,3,89,OAK,DeLawrence Grant,DE,Oregon State
+55,2001,NFL,6,185,NOR,Mitch White,T,Oregon State
+56,2001,NFL,7,204,CIN,T.J. Houshmandzadeh,WR,Oregon State
+57,1999,NFL,5,142,MIA,Bryan Jones,LB,Oregon State
+58,1999,NFL,6,194,BUF,Armon Hatcher,DB,Oregon State
+59,1999,NFL,7,217,WAS,Tim Alexander,WR,Oregon State
+60,1996,NFL,2,58,KAN,Reggie Tongue,DB,Oregon State
+61,1994,NFL,3,99,ATL,Alai Kalaniuvalu,G,Oregon State
+62,1991,NFL,2,35,GNB,Esera Tuaolo,NT,Oregon State
+63,1990,NFL,5,117,CHI,Pat Chaffey,RB,Oregon State
+64,1990,NFL,9,231,MIA,Phil Ross,TE,Oregon State
+65,1989,NFL,3,83,CIN,Erik Wilhelm,QB,Oregon State
+66,1989,NFL,6,143,KAN,Robb Thomas,WR,Oregon State
+67,1989,NFL,11,300,NOR,Calvin Nicholson,DB,Oregon State
+68,1988,NFL,7,178,DAL,Owen Hooven,T,Oregon State
+69,1987,NFL,10,260,PHI,Paul Carberry,DT,Oregon State
+70,1986,NFL,9,222,BUF,Reggie Bynum,WR,Oregon State
+71,1982,NFL,7,187,DET,Victor Simmons,WR,Oregon State
+72,1980,NFL,8,199,GNB,Tim Smith,DB,Oregon State
+73,1979,NFL,4,108,RAM,Jerry Wilkinson,DE,Oregon State
+74,1978,NFL,7,186,PHI,Greg Marshall,DT,Oregon State
+75,1977,NFL,3,58,SEA,Dennis Boyd,DT,Oregon State
+76,1976,NFL,4,94,SDG,Bob Horn,LB,Oregon State
+77,1976,NFL,14,384,CHI,Ron Cuie,RB,Oregon State
+78,1975,NFL,3,71,SFO,Jeff Hart,T,Oregon State
+79,1975,NFL,11,278,DAL,Greg Krpalek,C,Oregon State
+80,1975,NFL,11,282,WAS,Jerry Hackenbruck,DE,Oregon State
+81,1975,NFL,15,385,RAM,Alvin White,QB,Oregon State
+82,1973,NFL,7,161,RAM,Steve Brown,LB,Oregon State
+83,1973,NFL,17,440,PIT,Mike Shannon,DT,Oregon State
+84,1972,NFL,7,165,NWE,Clark Hoss,TE,Oregon State
+85,1972,NFL,10,247,CHI,Jack Turnbull,C,Oregon State
+86,1972,NFL,10,256,BAL,Dave Schilling,RB,Oregon State
+87,1972,NFL,16,404,PHI,Steve Bielenberg,LB,Oregon State
+88,1971,NFL,6,138,PIT,Craig Hanneman,DE,Oregon State
+89,1970,NFL,6,140,NOR,Mel Easley,DB,Oregon State
+90,1970,NFL,7,168,RAM,Bill Nelson,DT,Oregon State
+91,1970,NFL,13,313,PIT,Billy Main,RB,Oregon State
+92,1970,NFL,13,326,HOU,Jess Lewis,LB,Oregon State
+93,1969,NFL,2,27,BUF,Bill Enyart,RB,Oregon State
+94,1969,NFL,3,67,ATL,Jon Sandstrom,G,Oregon State
+95,1969,NFL,7,173,WAS,John Didion,C,Oregon State
+96,1969,NFL,9,216,DET,Rocky Rasley,G,Oregon State
+97,1969,NFL,9,229,RAM,Mike Foote,LB,Oregon State
+98,1968,NFL,3,69,SFO,Skip Vanderbundt,LB,Oregon State
+99,1968,NFL,8,193,CIN,Harry Gunner,DE,Oregon State
+100,1968,NFL,9,236,NYJ,Gary Houser,TE,Oregon State
+101,1967,NFL,2,28,MIN,Bob Grim,WR,Oregon State
+102,1967,NFL,3,73,PIT,Rocky Freitas,T,Oregon State
+103,1967,NFL,8,187,NYG,Scott Eaton,DB,Oregon State
+104,1967,NFL,11,265,NYG,Pete Pifer,FB,Oregon State
+105,1967,NFL,16,416,DAL,Paul Brothers,QB,Oregon State
+106,1967,NFL,17,425,DEN,Wayne Valley,T,Oregon State
+107,1966,AFL,4,30,DEN,Mark Gartung,T,Oregon State
+108,1966,AFL,11,93,DEN,Mike Sullivan,E,Oregon State
+109,1966,NFL,11,164,DET,Jack O'Billovich,LB,Oregon State
+110,1966,NFL,15,217,RAM,Mike Sullivan,E,Oregon State
+111,1966,NFL,15,220,DAL,Mark Gartung,T,Oregon State
+112,1965,NFL,6,74,GNB,Dick Koeper,T,Oregon State
+113,1965,NFL,16,215,DAL,Doug McDougal,E,Oregon State
+114,1965,NFL,17,226,SFO,Len Frketich,E,Oregon State
+115,1965,NFL,17,234,GNB,Steve Clark,K,Oregon State
+116,1964,AFL,23,177,DEN,Ken Brusven,T,Oregon State
+117,1964,NFL,17,225,SFO,Ken Brusven,T,Oregon State
+118,1963,NFL,1,1,RAM,Terry Baker,QB,Oregon State
+119,1963,NFL,5,64,SFO,Vern Burke,SE,Oregon State
+120,1963,AFL,12,90,SDG,Terry Baker,QB,Oregon State
+121,1963,AFL,15,113,OAK,Vern Burke,SE,Oregon State
+122,1962,NFL,5,67,CLE,Hank Rivera,DB,Oregon State
+123,1962,AFL,10,73,OAK,Hank Rivera,DB,Oregon State
+124,1962,AFL,11,82,DEN,Mike Kline,G,Oregon State
+125,1962,AFL,22,170,DEN,Don Kasso,HB,Oregon State
+126,1962,NFL,16,222,NYG,Roger Johnson,HB,Oregon State
+127,1962,NFL,17,230,STL,Don Kasso,HB,Oregon State
+128,1961,NFL,4,47,SFO,Aaron Thomas,TE,Oregon State
+129,1961,NFL,7,86,DAL,Art Gilmore,B,Oregon State
+130,1961,AFL,11,86,NYT,Art Gilmore,HB,Oregon State
+131,1961,AFL,16,126,DTX,Aaron Thomas,TE,Oregon State
+132,1961,AFL,20,157,NYT,Neil Plumley,T,Oregon State
+133,1960,AFL,,0,NYT,Ed Kaohelaulii,T,Oregon State
+134,1960,AFL,,0,NYT,James Stinnette,FB,Oregon State
+135,1959,NFL,5,52,CRD,Ted Bates,LB,Oregon State
+136,1958,NFL,5,51,GNB,Joe Francis,QB,Oregon State
+137,1957,NFL,12,138,PIT,Vern Ellison,G,Oregon State
+138,1957,NFL,30,359,CHI,Sam Wesley,B,Oregon State
+139,1955,NFL,9,103,RAM,John Witte,T,Oregon State
+140,1955,NFL,10,117,SFO,Ron Ashbacker,E,Oregon State
+141,1954,NFL,7,74,CRD,Dave Mann,HB,Oregon State
+142,1954,NFL,12,145,DET,Bob Hartman,T,Oregon State
+143,1954,NFL,17,199,PIT,Joe Fulwyler,C,Oregon State
+144,1953,NFL,8,94,SFO,Doug Hogland,G,Oregon State
+145,1952,NFL,4,44,CHI,Herman Clark,G,Oregon State
+146,1952,NFL,5,55,WAS,Jim Clark,T,Oregon State
+147,1952,NFL,7,77,PHI,John Thomas,E,Oregon State
+148,1952,NFL,11,133,RAM,Sam Baker,K,Oregon State
+149,1951,NFL,13,155,NYY,John Thomas,E,Oregon State
+150,1950,NFL,1,13,CLE,Ken Carpenter,HB,Oregon State
+151,1950,NFL,14,172,NYY,Ed Carmichael,G,Oregon State
+152,1950,NFL,24,313,PHI,Tom DeSylvia,G,Oregon State
+153,1950,NFL,27,351,CLE,Dick Gray,B,Oregon State
+154,1949,NFL,13,126,NYG,Bill Austin,G,Oregon State
+155,1949,NFL,14,137,RAM,Ed Carmichael,T,Oregon State
+156,1947,NFL,6,43,RAM,Paul Evanson,T,Oregon State
+157,1947,NFL,7,48,WAS,Bill Gray,G,Oregon State
+158,1946,NFL,3,25,RAM,Don Samuel,DB,Oregon State
+159,1946,NFL,11,98,DET,Bob Stevens,B,Oregon State
+160,1946,NFL,13,115,NYG,Bob Reiman,B,Oregon State
+161,1946,NFL,15,140,RAM,Dick Lorenz,E,Oregon State
+162,1946,NFL,26,247,DET,Roger Anderson,G,Oregon State
+163,1944,NFL,14,138,WAS,Boyd Clement,C,Oregon State
+164,1944,NFL,16,159,GNB,Lou Shelton,B,Oregon State
+165,1944,NFL,16,160,WAS,Ted Ossowski,T,Oregon State
+166,1944,NFL,26,270,WAS,Lee Gustafson,B,Oregon State
+167,1943,NFL,5,31,DET,Lloyd Wickett,T,Oregon State
+168,1943,NFL,16,150,WAS,Joe Day,B,Oregon State
+169,1943,NFL,23,217,PHP,George Bain,T,Oregon State
+170,1943,NFL,24,228,GNB,George Zellick,E,Oregon State
+171,1942,NFL,3,20,DET,Bob Dethman,B,Oregon State
+172,1942,NFL,8,63,PHI,Bill Halverson,T,Oregon State
+173,1942,NFL,8,66,WAS,George Peters,B,Oregon State
+174,1941,NFL,5,33,PIT,Vic Sears,T,Oregon State
+175,1941,NFL,6,44,RAM,Jim Kisselburgh,B,Oregon State
+176,1941,NFL,8,67,NYG,Len Younce,G,Oregon State
+177,1941,NFL,16,150,WAS,Ken Dow,FB,Oregon State
+178,1940,NFL,4,28,PHI,Elbie Schultz,T,Oregon State
+179,1940,NFL,16,145,RAM,Morris Kohler,B,Oregon State
+180,1940,NFL,17,156,DET,Johnny Hackenbruck,T,Oregon State
+181,1939,NFL,6,47,DET,Joe Wendlick,E,Oregon State
+182,1939,NFL,13,117,DET,Prescott Hutchins,G,Oregon State
+183,1938,NFL,1,10,CHI,Joe Gray,B,Oregon State
+184,1938,NFL,7,60,CHI,Frank Ramsey,T,Oregon State
+185,1938,NFL,9,72,PHI,Elmer Kolberg,HB,Oregon State
+1,2025,NFL,7,226,PIT,Carson Bruener,LB,Washington
+2,2024,NFL,1,8,ATL,Michael Penix,QB,Washington
+3,2024,NFL,1,9,CHI,Rome Odunze,WR,Washington
+4,2024,NFL,1,20,PIT,Troy Fautanu,OL,Washington
+5,2024,NFL,2,37,NWE,Ja'Lynn Polk,WR,Washington
+6,2024,NFL,2,62,BAL,Roger Rosengarten,OL,Washington
+7,2024,NFL,3,74,ATL,Bralen Trice,DE,Washington
+8,2024,NFL,3,92,TAM,Jalen McMillan,WR,Washington
+9,2024,NFL,5,160,BUF,Edefuan Ulofoshio,LB,Washington
+10,2024,NFL,5,161,WAS,Dominique Hampton,CB,Washington
+11,2024,NFL,7,246,TAM,Devin Culp,TE,Washington
+12,2022,NFL,1,21,KAN,Trent McDuffie,CB,Washington
+13,2022,NFL,2,39,CHI,Kyler Gordon,CB,Washington
+14,2022,NFL,4,106,TAM,Cade Otton,TE,Washington
+15,2022,NFL,5,171,DEN,Luke Wattenberg,OL,Washington
+16,2021,NFL,1,32,TAM,Joe Tryon-Shoyinka,OLB,Washington
+17,2021,NFL,2,41,DET,Levi Onwuzurike,DL,Washington
+18,2021,NFL,3,100,TEN,Elijah Molden,DB,Washington
+19,2021,NFL,5,166,CAR,Keith Taylor,DB,Washington
+20,2020,NFL,4,122,IND,Jacob Eason,QB,Washington
+21,2020,NFL,5,160,CLE,Nick Harris,C,Washington
+22,2019,NFL,1,31,ATL,Kaleb McGary,T,Washington
+23,2019,NFL,2,33,ARI,Byron Murphy,CB,Washington
+24,2019,NFL,2,52,CIN,Drew Sample,TE,Washington
+25,2019,NFL,2,61,LAR,Taylor Rapp,S,Washington
+26,2019,NFL,4,134,LAR,Greg Gaines,DT,Washington
+27,2019,NFL,5,142,SEA,Ben Burr-Kirven,LB,Washington
+28,2019,NFL,5,172,ATL,Jordan Miller,CB,Washington
+29,2019,NFL,7,234,MIA,Myles Gaskin,RB,Washington
+30,2018,NFL,1,12,TAM,Vita Vea,DT,Washington
+31,2018,NFL,2,44,SFO,Dante Pettis,WR,Washington
+32,2018,NFL,4,120,SEA,Will Dissly,TE,Washington
+33,2018,NFL,6,216,OAK,Azeem Victor,LB,Washington
+34,2018,NFL,6,217,DEN,Keishawn Bierria,ILB,Washington
+35,2017,NFL,1,9,CIN,John Ross,WR,Washington
+36,2017,NFL,2,33,GNB,Kevin King,CB,Washington
+37,2017,NFL,2,36,ARI,Budda Baker,S,Washington
+38,2017,NFL,2,43,PHI,Sidney Jones,CB,Washington
+39,2017,NFL,6,214,PHI,Elijah Qualls,DT,Washington
+40,2016,NFL,6,220,PIT,Travis Feeney,OLB,Washington
+41,2016,NFL,7,236,DET,Dwayne Washington,RB,Washington
+42,2015,NFL,1,12,CLE,Danny Shelton,NT,Washington
+43,2015,NFL,1,18,KAN,Marcus Peters,CB,Washington
+44,2015,NFL,1,25,CAR,Shaq Thompson,OLB,Washington
+45,2015,NFL,2,44,NOR,Hau'oli Kikaha,OLB,Washington
+46,2014,NFL,2,38,TAM,Austin Seferian-Jenkins,TE,Washington
+47,2014,NFL,2,54,TEN,Bishop Sankey,RB,Washington
+48,2013,NFL,1,22,ATL,Desmond Trufant,DB,Washington
+49,2012,NFL,4,109,PIT,Alameda Ta'amu,DT,Washington
+50,2012,NFL,5,151,ARI,Senio Kelemete,G,Washington
+51,2011,NFL,1,8,TEN,Jake Locker,QB,Washington
+52,2011,NFL,3,84,TAM,Mason Foster,LB,Washington
+53,2010,NFL,3,79,SDG,Donald Butler,LB,Washington
+54,2010,NFL,3,86,PHI,Daniel Te'o-Nesheim,DE,Washington
+55,2007,NFL,4,103,DAL,Isaiah Stanback,QB,Washington
+56,2007,NFL,4,126,SFO,Dashon Goldson,DB,Washington
+57,2006,NFL,4,114,MIA,Joe Toledo,T,Washington
+58,2005,NFL,2,52,JAX,Khalif Barnes,T,Washington
+59,2005,NFL,6,205,SFO,Derrick Johnson,DB,Washington
+60,2004,NFL,1,9,JAX,Reggie Williams,WR,Washington
+61,2004,NFL,2,47,CHI,Tank Johnson,DT,Washington
+62,2004,NFL,3,79,TAM,Marquis Cooper,LB,Washington
+63,2004,NFL,7,217,SFO,Cody Pickett,QB,Washington
+64,2002,NFL,1,28,SEA,Jerramy Stevens,TE,Washington
+65,2002,NFL,2,42,IND,Larry Tripplett,DT,Washington
+66,2002,NFL,5,161,MIA,Omare Lowe,DB,Washington
+67,2001,NFL,2,59,OAK,Marques Tuiasosopo,QB,Washington
+68,2001,NFL,5,132,SDG,Elliot Silvers,T,Washington
+69,2001,NFL,5,134,CLE,Jeremiah Pharms,LB,Washington
+70,2001,NFL,5,163,NWE,Hakim Akbar,LB,Washington
+71,2001,NFL,6,170,JAX,Chad Ward,G,Washington
+72,2000,NFL,6,176,ARI,Jabari Issa,DE,Washington
+73,2000,NFL,7,221,CAR,Lester Towns,LB,Washington
+74,1999,NFL,3,77,SEA,Brock Huard,QB,Washington
+75,1999,NFL,7,209,CIN,Tony Coats,G,Washington
+76,1998,NFL,2,32,IND,Jerome Pathon,WR,Washington
+77,1998,NFL,2,35,CHI,Tony Parrish,DB,Washington
+78,1998,NFL,2,40,NOR,Cam Cleeland,TE,Washington
+79,1998,NFL,3,64,CHI,Olin Kreutz,C,Washington
+80,1998,NFL,3,88,KAN,Rashaan Shehee,RB,Washington
+81,1998,NFL,5,127,OAK,Jeremy Brigham,TE,Washington
+82,1998,NFL,5,136,CAR,Jerry Jensen,LB,Washington
+83,1998,NFL,5,139,TEN,Benji Olson,G,Washington
+84,1998,NFL,6,160,BUF,Fred Coleman,WR,Washington
+85,1998,NFL,7,236,STL,Jason Chorak,DE,Washington
+86,1997,NFL,2,43,CIN,Corey Dillon,RB,Washington
+87,1997,NFL,3,69,CHI,Bob Sapp,G,Washington
+88,1997,NFL,6,166,MIA,John Fiala,LB,Washington
+89,1996,NFL,2,36,NWE,Lawyer Milloy,DB,Washington
+90,1996,NFL,2,59,STL,Ernie Conwell,TE,Washington
+91,1996,NFL,6,196,BUF,Leon Neal,RB,Washington
+92,1995,NFL,1,18,OAK,Napoleon Kaufman,RB,Washington
+93,1995,NFL,1,27,PIT,Mark Bruener,TE,Washington
+94,1995,NFL,4,110,DAL,Eric Bjornson,TE,Washington
+95,1995,NFL,4,132,CAR,Frank Garcia,C,Washington
+96,1995,NFL,5,171,CAR,Andrew Peterson,T,Washington
+97,1994,NFL,5,136,TAM,Pete Pierson,T,Washington
+98,1993,NFL,1,9,ATL,Lincoln Kennedy,T,Washington
+99,1993,NFL,3,58,RAI,Billy Joe Hobert,QB,Washington
+100,1993,NFL,4,103,KAN,Jaime Fields,LB,Washington
+101,1993,NFL,5,118,GNB,Mark Brunell,QB,Washington
+102,1993,NFL,6,146,CHI,Dave Hoffmann,LB,Washington
+103,1993,NFL,6,159,KAN,Darius Turner,RB,Washington
+104,1992,NFL,1,1,IND,Steve Emtman,DE,Washington
+105,1992,NFL,1,18,SFO,Dana Hall,DB,Washington
+106,1992,NFL,3,61,PHO,Ed Cunningham,C,Washington
+107,1992,NFL,3,68,NYJ,Siupeli Malamala,T,Washington
+108,1992,NFL,3,69,NYG,Aaron Pierce,TE,Washington
+109,1992,NFL,5,130,GNB,Orlando McKay,WR,Washington
+110,1992,NFL,6,162,HOU,Mario Bailey,WR,Washington
+111,1992,NFL,9,245,NOR,Don Jones,LB,Washington
+112,1992,NFL,11,290,SEA,Kris Rongen,G,Washington
+113,1992,NFL,12,314,GNB,Brett Collins,LB,Washington
+114,1992,NFL,12,319,SEA,Chico Fraley,LB,Washington
+115,1991,NFL,5,115,DEN,Greg Lewis,RB,Washington
+116,1991,NFL,5,133,KAN,Charles Mincy,DB,Washington
+117,1991,NFL,11,305,BUF,Dean Kirkland,G,Washington
+118,1991,NFL,12,311,RAM,Jeff Pahukoa,G,Washington
+119,1991,NFL,12,328,CHI,John Cook,DT,Washington
+120,1990,NFL,1,23,RAM,Bern Brostek,C,Washington
+121,1990,NFL,2,47,SFO,Dennis Brown,DE,Washington
+122,1990,NFL,4,86,WAS,Cary Conklin,QB,Washington
+123,1990,NFL,5,136,DEN,Le-Lo Lang,DB,Washington
+124,1990,NFL,10,276,SFO,Martin Harrison,DE,Washington
+125,1990,NFL,12,314,CIN,Andre Riley,WR,Washington
+126,1989,NFL,3,67,PHO,Mike Zandofsky,G,Washington
+127,1989,NFL,8,223,NWE,Tony Zackery,DB,Washington
+128,1989,NFL,10,260,SDG,Ricky Andrews,LB,Washington
+129,1989,NFL,11,285,PIT,Brian Slater,WR,Washington
+130,1989,NFL,12,334,CIN,Scott Jones,T,Washington
+131,1988,NFL,3,76,IND,Chris Chandler,QB,Washington
+132,1988,NFL,8,201,RAM,Darryl Franklin,WR,Washington
+133,1988,NFL,10,264,MIN,Brian Habib,G,Washington
+134,1988,NFL,11,284,SEA,Rick McLeod,T,Washington
+135,1988,NFL,12,316,BUF,Tom Erlandson,LB,Washington
+136,1987,NFL,1,7,DET,Reggie Rogers,DE,Washington
+137,1987,NFL,2,40,NOR,Lonzell Hill,WR,Washington
+138,1987,NFL,3,82,CLE,Jeff Jaeger,K,Washington
+139,1987,NFL,7,174,STL,Tim Peoples,DB,Washington
+140,1987,NFL,8,201,STL,Steve Alvord,DT,Washington
+141,1987,NFL,8,206,DAL,Kevin Gogan,G,Washington
+142,1987,NFL,8,211,MIN,Rick Fenney,RB,Washington
+143,1987,NFL,8,223,NYG,Rod Jones,TE,Washington
+144,1987,NFL,11,299,DEN,Steve Roberts,DE,Washington
+145,1986,NFL,1,11,CIN,Joe Kelly,LB,Washington
+146,1986,NFL,2,55,CHI,Vestee Jackson,DB,Washington
+147,1986,NFL,3,71,RAM,Hugh Millen,QB,Washington
+148,1986,NFL,5,132,NYJ,Ron Hadley,LB,Washington
+149,1985,NFL,1,8,TAM,Ron Holmes,DE,Washington
+150,1985,NFL,3,60,MIN,Tim Meamber,LB,Washington
+151,1985,NFL,3,81,SEA,Danny Greene,WR,Washington
+152,1985,NFL,6,153,HOU,Joe Krakoski,LB,Washington
+153,1985,NFL,7,188,RAI,Mark Pattison,WR,Washington
+154,1985,NFL,8,197,BUF,Jacque Robinson,FB,Washington
+155,1985,NFL,9,241,PIT,Fred Small,LB,Washington
+156,1984,NFL,2*,56,RAI,Stewart Hill,LB,Washington
+157,1984,NFL,3*,58,HOU,Lynn Madsen,DT,Washington
+158,1984,NFL,5,113,DAL,Steve Pelluer,QB,Washington
+159,1984,NFL,8,218,DEN,Scott Garnett,NT,Washington
+160,1984,NFL,9,225,TAM,Rick Mallory,G,Washington
+161,1983,NFL,2,53,CIN,Ray Horton,DB,Washington
+162,1983,NFL,3,82,RAI,Tony Caldwell,LB,Washington
+163,1983,NFL,4,87,RAM,Chuck Nelson,K,Washington
+164,1983,NFL,4,97,RAM,Vince Newsome,DB,Washington
+165,1983,NFL,5,127,MIN,Mark Stewart,LB,Washington
+166,1983,NFL,5,133,PIT,Paul Skansi,WR,Washington
+167,1983,NFL,6,156,ATL,Anthony Allen,WR,Washington
+168,1983,NFL,8,208,DET,Bill Stapleton,DB,Washington
+169,1983,NFL,10,273,DAL,Eric Moran,T,Washington
+170,1983,NFL,11,296,STL,Aaron Williams,WR,Washington
+171,1983,NFL,12,317,SEA,Don Dow,T,Washington
+172,1982,NFL,5,135,NYJ,Mark Jerue,LB,Washington
+173,1982,NFL,7,169,BAL,Fletcher Jenkins,DE,Washington
+174,1981,NFL,1,23,OAK,Curt Marsh,G,Washington
+175,1981,NFL,3,68,BAL,Randy Van Divier,T,Washington
+176,1981,NFL,4,90,WAS,Tom Flick,QB,Washington
+177,1981,NFL,9,222,NOR,Toussaint Tyler,RB,Washington
+178,1981,NFL,9,234,DEN,Rusty Olsen,DE,Washington
+179,1980,NFL,1,9,MIN,Doug Martin,DE,Washington
+180,1980,NFL,2,34,GNB,Mark Lee,DB,Washington
+181,1980,NFL,3,57,DET,Tom Turnure,C,Washington
+182,1980,NFL,5,127,SEA,Joe Steele,RB,Washington
+183,1980,NFL,7,181,NYG,Chris Linnin,DE,Washington
+184,1980,NFL,9,225,STL,Stafford Mays,DE,Washington
+185,1980,NFL,10,256,NYG,Joe Sanford,T,Washington
+186,1980,NFL,12,312,NYG,Mike Lansford,K,Washington
+187,1979,NFL,2,53,MIA,Jeff Toews,G,Washington
+188,1979,NFL,3,57,SEA,Michael Jackson,LB,Washington
+189,1979,NFL,6,140,KAN,Robert Gaines,WR,Washington
+190,1979,NFL,7,186,ATL,Roger Westlund,T,Washington
+191,1979,NFL,8,207,BAL,Nesby Glasgow,DB,Washington
+192,1978,NFL,1,16,CIN,Blair Bush,C,Washington
+193,1978,NFL,2,54,OAK,Dave Browning,DE,Washington
+194,1977,NFL,3,61,CHI,Robin Earl,TE,Washington
+195,1977,NFL,9,241,DEN,Charles Jackson,LB,Washington
+196,1977,NFL,11,305,DAL,Don Wardlow,TE,Washington
+197,1976,NFL,2,37,PIT,Ray Pinney,T,Washington
+198,1976,NFL,6,162,NYG,Dan Lloyd,LB,Washington
+199,1976,NFL,8,219,ATL,Frank Reed,DB,Washington
+200,1976,NFL,10,272,WAS,Paul Strohmeier,LB,Washington
+201,1976,NFL,14,400,RAM,Al Burleson,DB,Washington
+202,1976,NFL,15,414,ATL,Ron Olson,DB,Washington
+203,1976,NFL,17,461,SEA,Chris Rowland,QB,Washington
+204,1975,NFL,3,56,BAL,Dave Pear,NT,Washington
+205,1975,NFL,11,269,GNB,Bob Martin,DE,Washington
+206,1975,NFL,17,438,RAM,Skip Boyd,P,Washington
+207,1974,NFL,11,284,RAM,Rick Hayes,T,Washington
+208,1973,NFL,3,58,DET,John Brady,TE,Washington
+209,1973,NFL,6,148,STL,Phil Andre,DB,Washington
+210,1973,NFL,7,158,NOR,Bill Cahill,DB,Washington
+211,1973,NFL,12,304,DET,Tom Scott,WR,Washington
+212,1973,NFL,13,330,SFO,Alan Kelso,C,Washington
+213,1973,NFL,15,373,DEN,Calvin Jones,DB,Washington
+214,1973,NFL,16,393,RAM,Kurt Matter,DE,Washington
+215,1972,NFL,5,118,DEN,Jim Krieg,WR,Washington
+216,1971,NFL,2,37,SFO,Ernie Janet,G,Washington
+217,1971,NFL,2,40,CLE,Bo Cornell,LB,Washington
+218,1971,NFL,3,53,BUF,Bruce Jarvis,C,Washington
+219,1971,NFL,8,204,DET,Ken Lee,LB,Washington
+220,1970,NFL,2,52,KAN,Clyde Werner,LB,Washington
+221,1970,NFL,12,288,PIT,Rick Sharp,T,Washington
+222,1969,NFL,8,199,MIN,Harris Wood,FL,Washington
+223,1969,NFL,15,385,RAM,George Jugum,LB,Washington
+224,1968,NFL,2,44,NYJ,Steve Thompson,DT,Washington
+225,1968,NFL,5,135,RAM,Don Martin,K,Washington
+226,1968,NFL,7,189,PIT,Bill Glennon,DT,Washington
+227,1968,NFL,9,243,RAM,Bob Richardson,T,Washington
+228,1968,NFL,13,351,RAM,Dean Halverson,LB,Washington
+229,1967,NFL,1,16,STL,Dave Williams,WR,Washington
+230,1967,NFL,4,95,CHI,Tom Greenlee,DB,Washington
+231,1967,NFL,9,221,CHI,Greg Cass,C,Washington
+232,1967,NFL,11,281,PHI,Omar Parker,G,Washington
+233,1967,NFL,17,434,RAM,Bill Barnes,C,Washington
+234,1966,AFL,14,121,DEN,Fred Forsberg,LB,Washington
+235,1966,NFL,10,146,DAL,Mason Mitchell,HB,Washington
+236,1966,NFL,14,204,PHI,Ron Medved,DB,Washington
+237,1966,NFL,18,266,DAL,Steve Orr,T,Washington
+238,1965,NFL,3,30,SFO,Jim Norton,DE,Washington
+239,1965,AFL,5,38,SDG,Rick Redman,LB,Washington
+240,1965,NFL,7,87,PIT,Charlie Browning,HB,Washington
+241,1965,NFL,7,94,GNB,Junior Coffey,RB,Washington
+242,1965,AFL,16,122,HOU,Junior Coffey,RB,Washington
+243,1965,AFL,17,132,NYJ,Charlie Browning,HB,Washington
+244,1965,NFL,10,132,PHI,Rick Redman,LB,Washington
+245,1965,NFL,17,236,STL,Mike Melinkovich,DE,Washington
+246,1964,NFL,9,116,DAL,Jake Kupp,G,Washington
+247,1964,AFL,18,138,KAN,Jerry Knoll,T,Washington
+248,1964,NFL,12,164,STL,Rick Sortun,G,Washington
+249,1963,NFL,2,18,PHI,Ray Mansfield,C,Washington
+250,1963,AFL,5,37,DEN,Ray Mansfield,C,Washington
+251,1963,NFL,4,52,CHI,Charley Mitchell,HB,Washington
+252,1963,NFL,10,132,DAL,Rod Scheyer,T,Washington
+253,1963,AFL,18,141,DEN,Charley Mitchell,HB,Washington
+254,1963,NFL,19,258,DAL,Jim Stiger,HB,Washington
+255,1962,AFL,4,25,OAK,John Meyers,DT,Washington
+256,1962,NFL,3,31,RAM,John Meyers,DT,Washington
+257,1962,AFL,12,89,OAK,Jim Skaggs,G,Washington
+258,1962,NFL,10,139,PHI,Jim Skaggs,G,Washington
+259,1961,AFL,2,13,OAK,George Fleming,HB,Washington
+260,1961,NFL,4,46,NYG,Ben Davidson,DE,Washington
+261,1961,NFL,6,76,CHI,George Fleming,HB,Washington
+262,1961,NFL,6,82,GNB,Lee Folkins,TE,Washington
+263,1961,NFL,11,148,STL,Bill Kinnune,G,Washington
+264,1961,AFL,26,208,SDG,Bill Kinnune,G,Washington
+265,1961,AFL,27,213,DTX,Bob Schloredt,QB,Washington
+266,1961,AFL,28,224,SDG,Chuck Allen,LB,Washington
+267,1961,NFL,17,228,RAM,Chuck Allen,LB,Washington
+268,1961,NFL,20,277,NYG,Don McKeta,B,Washington
+269,1959,NFL,21,246,SFO,Luther Carr,B,Washington
+270,1959,NFL,21,248,RAM,Marv Bergmann,T,Washington
+271,1959,NFL,28,330,SFO,Mike McCluskey,B,Washington
+272,1959,NFL,30,357,RAM,Don Millich,B,Washington
+273,1958,NFL,3,30,RAM,Jim Jones,DB,Washington
+274,1958,NFL,5,57,NYG,Dick Day,T,Washington
+275,1957,NFL,3,27,RAM,George Strugar,DT,Washington
+276,1957,NFL,5,51,RAM,Dean Derby,DB,Washington
+277,1957,NFL,9,106,CRD,Don McCumby,T,Washington
+278,1957,NFL,18,207,GNB,Credell Green,B,Washington
+279,1956,NFL,23,267,SFO,Mike Monroe,B,Washington
+280,1955,NFL,14,169,CLE,Fred Robinson,G,Washington
+281,1954,NFL,8,94,RAM,George Black,E,Washington
+282,1954,NFL,9,98,CRD,Dean Chambers,T,Washington
+283,1954,NFL,11,130,RAM,Duane Wardlow,DE,Washington
+284,1954,NFL,29,338,CRD,Bill Albrecht,B,Washington
+285,1953,NFL,13,155,SFO,Bill Earley,B,Washington
+286,1953,NFL,14,160,CRD,Dick Sprague,B,Washington
+287,1953,NFL,26,313,RAM,Louie Yourkowski,T,Washington
+288,1952,NFL,1,9,SFO,Hugh McElhenny,HB,Washington
+289,1952,NFL,3,35,NYG,Don Heinrich,QB,Washington
+290,1951,NFL,10,121,RAM,Roland Kirkby,B,Washington
+291,1950,NFL,20,253,WAS,George Bayer,T,Washington
+292,1950,NFL,27,341,NYY,Chuck Olson,E,Washington
+293,1948,NFL,9,66,NYG,Dick Ottele,BB,Washington
+294,1948,NFL,14,121,GNB,Fred Provo,HB,Washington
+295,1948,NFL,25,230,RAM,Bob Levenhagen,G,Washington
+296,1947,NFL,8,63,RAM,Bill McGovern,C,Washington
+297,1947,NFL,11,95,CHI,Larry Hatch,B,Washington
+298,1947,NFL,14,116,DET,Dick Hagen,E,Washington
+299,1947,NFL,24,225,CHI,Gordon Berlin,C,Washington
+300,1946,NFL,8,67,DET,Keith DeCourcey,B,Washington
+301,1946,NFL,13,111,CRD,Lee Lewis,B,Washington
+302,1946,NFL,13,117,PHI,John Wingender,B,Washington
+303,1946,NFL,24,226,GNB,Maurice Stacy,B,Washington
+304,1946,NFL,26,246,GNB,John Norton,B,Washington
+305,1946,NFL,30,283,PIT,Gail Bruce,DE,Washington
+306,1945,NFL,4,31,BOS,Don Deeks,T,Washington
+307,1945,NFL,8,74,PHI,Sam Robinson,B,Washington
+308,1945,NFL,17,166,BOS,Arnie Weinmeister,DT,Washington
+309,1945,NFL,23,241,GNB,Bob Gilmore,B,Washington
+310,1944,NFL,7,60,GNB,Jack Tracy,E,Washington
+311,1944,NFL,13,130,RAM,Bob Erickson,B,Washington
+312,1944,NFL,19,191,NYG,Neil Brooks,B,Washington
+313,1943,NFL,7,52,PHI,Walt Harrison,C,Washington
+314,1943,NFL,18,162,PHI,Bob Friedman,T,Washington
+315,1943,NFL,20,185,RAM,Carl Falk,T,Washington
+316,1943,NFL,22,205,RAM,Mark McCorkle,B,Washington
+317,1943,NFL,27,258,GNB,Pete Susick,B,Washington
+318,1942,NFL,3,24,GNB,Ray Frankowski,G,Washington
+319,1942,NFL,6,43,PHI,Earl Younglove,E,Washington
+320,1942,NFL,10,81,PIT,Ernie Steele,HB,Washington
+321,1942,NFL,10,83,PHI,Jack Stackpool,FB,Washington
+322,1942,NFL,20,182,RAM,Gene Conley,T,Washington
+323,1941,NFL,1,4,RAM,Rudy Mucha,G,Washington
+324,1941,NFL,1,8,BKN,Dean McAdams,TB,Washington
+325,1941,NFL,3,19,RAM,Jay MacDowell,T,Washington
+326,1940,NFL,9,72,PHI,Don Jones,B,Washington
+327,1939,NFL,2,14,PHI,Chuck Newton,FB,Washington
+328,1939,NFL,10,88,WAS,Jimmy Johnston,B,Washington
+329,1939,NFL,11,100,NYG,Merl Miller,B,Washington
+330,1939,NFL,13,118,WAS,Steve Slivinski,G,Washington
+331,1939,NFL,14,127,DET,Art Means,G,Washington
+332,1939,NFL,19,172,PIT,Frank Peters,E,Washington
+333,1939,NFL,20,181,PIT,Tom Sheldrake,E,Washington
+334,1938,NFL,4,26,RAM,Vic Markov,T,Washington
+335,1938,NFL,11,99,WAS,Dick Johnston,E,Washington
+336,1937,NFL,3,22,BKN,Max Starcevich,G,Washington
+337,1937,NFL,4,40,RAM,John Wiatrak,C,Washington
+338,1937,NFL,5,46,WAS,Chuck Bond,T,Washington
+339,1937,NFL,6,56,WAS,Jimmie Cain,B,Washington
+340,1937,NFL,7,65,PIT,By Haines,HB,Washington
+341,1937,NFL,9,82,BKN,Ed Nowogroski,B,Washington
+1,2025,NFL,3,97,HOU,Jaylin Smith,CB,USC
+2,2025,NFL,4,116,HOU,Woody Marks,RB,USC
+3,2025,NFL,7,221,JAX,Jonah Monheim,OL,USC
+4,2024,NFL,1,1,CHI,Caleb Williams,QB,USC
+5,2024,NFL,3,78,HOU,Calen Bullock,SAF,USC
+6,2024,NFL,3,88,GNB,MarShawn Lloyd,RB,USC
+7,2024,NFL,6,215,SFO,Jarrett Kingston,OL,USC
+8,2024,NFL,7,225,LAC,Brenden Rice,WR,USC
+9,2024,NFL,7,238,HOU,Solomon Byrd,DE,USC
+10,2024,NFL,7,241,MIA,Tahj Washington,WR,USC
+11,2023,NFL,1,23,MIN,Jordan Addison,WR,USC
+12,2023,NFL,2,54,LAC,Tuli Tuipulotu,DL,USC
+13,2023,NFL,3,102,MIN,Mekhi Blackmon,CB,USC
+14,2023,NFL,7,229,BAL,Andrew Vorhees,OL,USC
+15,2022,NFL,1,8,ATL,Drake London,WR,USC
+16,2022,NFL,2,61,SFO,Drake Jackson,OLB,USC
+17,2022,NFL,6,201,ARI,Keaontay Ingram,RB,USC
+18,2021,NFL,1,14,NYJ,Alijah Vera-Tucker,OL,USC
+19,2021,NFL,4,106,JAX,Jay Tufele,DL,USC
+20,2021,NFL,4,112,DET,Amon-Ra St. Brown,WR,USC
+21,2021,NFL,5,180,SFO,Talanoa Hufanga,S,USC
+22,2021,NFL,6,189,PHI,Marlon Tuipulotu,DL,USC
+23,2020,NFL,1,18,MIA,Austin Jackson,T,USC
+24,2020,NFL,2,34,IND,Michael Pittman Jr.,WR,USC
+25,2019,NFL,3,92,NYJ,Chuma Edoga,T,USC
+26,2019,NFL,4,127,BAL,Iman Marshall,CB,USC
+27,2019,NFL,5,144,IND,Marvell Tell III,S,USC
+28,2019,NFL,5,162,MIN,Cameron Smith,LB,USC
+29,2018,NFL,1,3,NYJ,Sam Darnold,QB,USC
+30,2018,NFL,2,38,TAM,Ronald Jones II,RB,USC
+31,2018,NFL,2,48,LAC,Uchenna Nwosu,OLB,USC
+32,2018,NFL,3,79,SEA,Rasheem Green,DT,USC
+33,2017,NFL,1,18,TEN,Adoree' Jackson,CB,USC
+34,2017,NFL,2,62,PIT,JuJu Smith-Schuster,WR,USC
+35,2017,NFL,4,137,IND,Zach Banner,T,USC
+36,2017,NFL,6,218,KAN,Leon McQuay,S,USC
+37,2017,NFL,7,223,TAM,Stevie Tu'ikolovatu,NT,USC
+38,2016,NFL,2,53,WAS,Su'a Cravens,OLB,USC
+39,2016,NFL,3,66,SDG,Max Tuerk,C,USC
+40,2016,NFL,3,93,CLE,Cody Kessler,QB,USC
+41,2016,NFL,6,218,BUF,Kevon Seymour,CB,USC
+42,2015,NFL,1,6,NYJ,Leonard Williams,DE,USC
+43,2015,NFL,1,20,PHI,Nelson Agholor,WR,USC
+44,2015,NFL,4,120,CIN,Josh Shaw,CB,USC
+45,2015,NFL,4,125,BAL,Javorius Allen,RB,USC
+46,2015,NFL,6,198,CLE,Randall Telfer,TE,USC
+47,2015,NFL,7,219,CLE,Hayes Pullard,ILB,USC
+48,2014,NFL,2,39,JAX,Marqise Lee,WR,USC
+49,2014,NFL,3,70,SFO,Marcus Martin,C,USC
+50,2014,NFL,5,174,NYG,Devon Kennard,DE,USC
+51,2013,NFL,2,41,BUF,Robert Woods,WR,USC
+52,2013,NFL,3,71,STL,T.J. McDonald,DB,USC
+53,2013,NFL,4,98,PHI,Matt Barkley,QB,USC
+54,2013,NFL,4,121,IND,Khaled Holmes,C,USC
+55,2012,NFL,1,4,MIN,Matt Kalil,T,USC
+56,2012,NFL,1,28,GNB,Nick Perry,DE,USC
+57,2012,NFL,4,128,MIN,Rhett Ellison,RB,USC
+58,2011,NFL,1,9,DAL,Tyron Smith,T,USC
+59,2011,NFL,3,77,TEN,Jurrell Casey,DT,USC
+60,2011,NFL,3,89,SDG,Shareece Wright,DB,USC
+61,2011,NFL,4,102,CLE,Jordan Cameron,TE,USC
+62,2011,NFL,6,182,SFO,Ronald Johnson,WR,USC
+63,2011,NFL,6,187,TAM,Allen Bradford,RB,USC
+64,2011,NFL,7,240,PHI,Stanley Havili,RB,USC
+65,2011,NFL,7,241,OAK,David Ausberry,WR,USC
+66,2011,NFL,7,242,SEA,Malcolm Smith,LB,USC
+67,2010,NFL,2,49,SFO,Taylor Mays,DB,USC
+68,2010,NFL,2,64,NOR,Charles Brown,T,USC
+69,2010,NFL,3,77,TEN,Damian Williams,WR,USC
+70,2010,NFL,3,94,IND,Kevin Thomas,DB,USC
+71,2010,NFL,4,100,MIN,Everson Griffen,DE,USC
+72,2010,NFL,4,112,NYJ,Joe McKnight,RB,USC
+73,2010,NFL,6,185,SEA,Anthony McCoy,TE,USC
+74,2009,NFL,1,5,NYJ,Mark Sanchez,QB,USC
+75,2009,NFL,1,15,HOU,Brian Cushing,LB,USC
+76,2009,NFL,1,26,GNB,Clay Matthews,LB,USC
+77,2009,NFL,2,38,CIN,Rey Maualuga,LB,USC
+78,2009,NFL,2,56,IND,Fili Moala,DT,USC
+79,2009,NFL,3,87,MIA,Patrick Turner,WR,USC
+80,2009,NFL,4,104,CLE,Kaluka Maiava,LB,USC
+81,2009,NFL,4,117,TAM,Kyle Moore,DE,USC
+82,2009,NFL,5,172,DAL,David Buehler,K,USC
+83,2009,NFL,6,183,BUF,Cary Harris,DB,USC
+84,2009,NFL,6,189,SDG,Kevin Ellison,LB,USC
+85,2008,NFL,1,7,NOR,Sedrick Ellis,DT,USC
+86,2008,NFL,1,9,CIN,Keith Rivers,LB,USC
+87,2008,NFL,1,21,ATL,Sam Baker,T,USC
+88,2008,NFL,1,28,SEA,Lawrence Jackson,DE,USC
+89,2008,NFL,2,39,SFO,Chilo Rachal,G,USC
+90,2008,NFL,2,48,WAS,Fred Davis,TE,USC
+91,2008,NFL,2,63,NYG,Terrell Thomas,DB,USC
+92,2008,NFL,5,137,MIN,John David Booty,QB,USC
+93,2008,NFL,5,155,JAX,Thomas Williams,LB,USC
+94,2008,NFL,7,213,JAX,Chauncey Washington,RB,USC
+95,2007,NFL,2,45,CAR,Dwayne Jarrett,WR,USC
+96,2007,NFL,2,51,NYG,Steve Smith,WR,USC
+97,2007,NFL,2,59,CAR,Ryan Kalil,C,USC
+98,2007,NFL,5,143,WAS,Dallas Sartz,LB,USC
+99,2007,NFL,7,211,NWE,Oscar Lua,LB,USC
+100,2006,NFL,1,2,NOR,Reggie Bush,RB,USC
+101,2006,NFL,1,10,ARI,Matt Leinart,QB,USC
+102,2006,NFL,2,39,PHI,Winston Justice,T,USC
+103,2006,NFL,2,41,ARI,Deuce Lutui,G,USC
+104,2006,NFL,2,45,TEN,LenDale White,RB,USC
+105,2006,NFL,3,91,CIN,Frostee Rucker,DE,USC
+106,2006,NFL,3,93,STL,Dominique Byrd,TE,USC
+107,2006,NFL,4,101,OAK,Darnell Bing,DB,USC
+108,2006,NFL,5,163,SEA,David Kirtman,RB,USC
+109,2006,NFL,6,204,PHI,LaJuan Ramsey,DT,USC
+110,2006,NFL,7,217,DET,Fred Matua,G,USC
+111,2005,NFL,5*,1,MIA,Manuel Wright,DT,USC
+112,2005,NFL,1,10,DET,Mike Williams,WR,USC
+113,2005,NFL,1,31,PHI,Mike Patterson,DT,USC
+114,2005,NFL,2,37,DET,Shaun Cody,DT,USC
+115,2005,NFL,2,45,SEA,Lofa Tatupu,LB,USC
+116,2005,NFL,7,230,NWE,Matt Cassel,QB,USC
+117,2004,NFL,1,20,MIN,Kenechi Udeze,DE,USC
+118,2004,NFL,2,52,DAL,Jacob Rogers,T,USC
+119,2004,NFL,2,62,CAR,Keary Colbert,WR,USC
+120,2004,NFL,4,102,MIA,Will Poole,DB,USC
+121,2003,NFL,1,1,CIN,Carson Palmer,QB,USC
+122,2003,NFL,1,16,PIT,Troy Polamalu,DB,USC
+123,2003,NFL,3,96,OAK,Justin Fargas,FB,USC
+124,2003,NFL,6,203,NOR,Kareem Kelly,WR,USC
+125,2003,NFL,7,218,JAX,Malaefou MacKenzie,FB,USC
+126,2002,NFL,3,85,SEA,Kris Richard,DB,USC
+127,2002,NFL,6,175,DET,Chris Cash,DB,USC
+128,2001,NFL,4,122,DAL,Markus Steele,LB,USC
+129,2001,NFL,5,139,SDG,Zeke Moreno,LB,USC
+130,2001,NFL,7,221,NOR,Ennis Davis,DT,USC
+131,2000,NFL,1,29,JAX,R. Jay Soward,WR,USC
+132,2000,NFL,2,37,ATL,Travis Claridge,G,USC
+133,2000,NFL,5,143,NYJ,Windrell Hayes,WR,USC
+134,2000,NFL,5,166,NOR,Chad Morton,RB,USC
+135,2000,NFL,6,193,TAM,David Gibson,DB,USC
+136,1999,NFL,1,9,DET,Chris Claiborne,LB,USC
+137,1999,NFL,3,62,CLE,Daylon McCutcheon,DB,USC
+138,1999,NFL,4,108,KAN,Larry Parker,WR,USC
+139,1999,NFL,6,184,CHI,Rashard Cook,DB,USC
+140,1999,NFL,7,218,DEN,Billy Miller,TE,USC
+141,1998,NFL,2,45,TAM,Brian Kelly,DB,USC
+142,1997,NFL,1,2,OAK,Darrell Russell,DT,USC
+143,1997,NFL,2,38,CHI,John Allred,TE,USC
+144,1997,NFL,7,208,NYG,Matt Keneley,DT,USC
+145,1997,NFL,7,213,GNB,Chris Miller,WR,USC
+146,1996,NFL,1,1,NYJ,Keyshawn Johnson,WR,USC
+147,1996,NFL,1,27,GNB,John Michels,T,USC
+148,1996,NFL,2,46,SFO,Israel Ifeanyi,DE,USC
+149,1996,NFL,3,64,ARI,Johnny McWilliams,TE,USC
+150,1996,NFL,4,106,CAR,Norbert Davidds-Garrido,T,USC
+151,1996,NFL,7,240,GNB,Kyle Wachholtz,QB,USC
+152,1995,NFL,1,2,JAX,Tony Boselli,T,USC
+153,1995,NFL,3,73,GNB,Brian Williams,LB,USC
+154,1995,NFL,4,99,JAX,Rob Johnson,QB,USC
+155,1995,NFL,5,166,DAL,Edward Hervey,WR,USC
+156,1995,NFL,6,194,MIA,Jeff Kopp,LB,USC
+157,1995,NFL,7,247,PIT,Cole Ford,K,USC
+158,1994,NFL,1,4,NWE,Willie McGinest,DE,USC
+159,1994,NFL,1,21,DET,Johnnie Morton,WR,USC
+160,1994,NFL,2,59,NYG,Jason Sehorn,DB,USC
+161,1994,NFL,4,106,IND,Bradford Banta,TE,USC
+162,1993,NFL,1,7,CHI,Curtis Conway,WR,USC
+163,1993,NFL,4,102,HOU,Travis Hannah,WR,USC
+164,1993,NFL,8,212,WAS,Lamont Hollinquest,LB,USC
+165,1992,NFL,2,42,NYJ,Kurt Barber,LB,USC
+166,1992,NFL,7,196,WAS,Calvin Holmes,DB,USC
+167,1992,NFL,8,204,NWE,Scott Lockwood,RB,USC
+168,1992,NFL,10,267,MIA,Raoul Spears,RB,USC
+169,1992,NFL,11,284,TAM,Mazio Royster,RB,USC
+170,1991,NFL,1,11,NWE,Pat Harlow,T,USC
+171,1991,NFL,1,24,RAI,Todd Marinovich,QB,USC
+172,1991,NFL,3,76,WAS,Ricky Ervins,RB,USC
+173,1991,NFL,5,129,HOU,Gary Wellman,WR,USC
+174,1991,NFL,7,186,ATL,Mark Tucker,G,USC
+175,1991,NFL,9,227,DEN,Don Gibson,DT,USC
+176,1991,NFL,10,260,TAM,Pat O'Hara,QB,USC
+177,1991,NFL,11,293,NOR,Scott Ross,LB,USC
+178,1990,NFL,1,5,SDG,Junior Seau,LB,USC
+179,1990,NFL,1,6,CHI,Mark Carrier,DB,USC
+180,1990,NFL,2,35,DET,Dan Owens,DE,USC
+181,1990,NFL,3,61,CHI,Tim Ryan,DE,USC
+182,1990,NFL,4,94,IND,William Schultz,G,USC
+183,1990,NFL,5,137,MIA,Leroy Holt,RB,USC
+184,1990,NFL,7,178,CLE,Scott Galbraith,TE,USC
+185,1990,NFL,7,191,NYG,Aaron Emanuel,RB,USC
+186,1990,NFL,8,219,DEN,Brad Leggett,C,USC
+187,1990,NFL,10,267,NOR,Ernest Spears,DB,USC
+188,1989,NFL,4,110,WAS,Erik Affholter,WR,USC
+189,1989,NFL,6,141,DET,Rodney Peete,QB,USC
+190,1989,NFL,7,193,BUF,Chris Hale,DB,USC
+191,1989,NFL,8,208,DEN,Paul Green,TE,USC
+192,1989,NFL,12,332,BUF,Derrell Marshall,T,USC
+193,1988,NFL,1,8,NYJ,Dave Cadigan,G,USC
+194,1988,NFL,2,28,ATL,Marcus Cotton,LB,USC
+195,1987,NFL,2,34,STL,Tim McDonald,DB,USC
+196,1987,NFL,2,37,SFO,Jeff Bregel,G,USC
+197,1987,NFL,2,53,SDG,Lou Brock,DB,USC
+198,1987,NFL,8,204,SDG,Ron Brown,LB,USC
+199,1986,NFL,1,13,SDG,James FitzPatrick,T,USC
+200,1986,NFL,5,125,GNB,Matt Koart,DE,USC
+201,1986,NFL,5,133,SDG,Matt Johnson,DB,USC
+202,1986,NFL,5,134,DEN,Tony Colorito,NT,USC
+203,1986,NFL,9,236,GNB,Brent Moore,LB,USC
+204,1986,NFL,9,243,RAM,Elbert Watts,DB,USC
+205,1986,NFL,9,246,RAI,Zeph Lee,DB,USC
+206,1986,NFL,10,259,MIN,Joe Cormier,LB,USC
+207,1986,NFL,10,273,RAM,Garrett Breeland,LB,USC
+208,1985,NFL,1,5,IND,Duane Bickett,LB,USC
+209,1985,NFL,1,7,GNB,Ken Ruettgers,T,USC
+210,1985,NFL,3,68,NOR,Jack Del Rio,LB,USC
+211,1985,NFL,5,124,NYJ,Brian Luft,DT,USC
+212,1985,NFL,9,229,IND,Mark Boyer,TE,USC
+213,1984,NFL,2,30,TAM,Keith Browner,LB,USC
+214,1984,NFL,2*,54,DAL,Malcolm Moore,WR,USC
+215,1984,NFL,3,81,DAL,Fred Cornwell,TE,USC
+216,1984,NFL,6,155,BUF,Tony Slaton,C,USC
+217,1984,NFL,11,293,RAM,Michael Harper,WR,USC
+218,1983,NFL,1,9,HOU,Bruce Matthews,G,USC
+219,1983,NFL,1,19,MIN,Joey Browner,DB,USC
+220,1983,NFL,1,26,RAI,Don Mosebar,C,USC
+221,1983,NFL,3,57,BAL,George Achica,DT,USC
+222,1983,NFL,4,94,DET,August Curley,LB,USC
+223,1983,NFL,4,99,TAM,Kelly Thomas,T,USC
+224,1983,NFL,5,117,SFO,Riki Ellison,LB,USC
+225,1983,NFL,5,120,PHI,Byron Darby,DE,USC
+226,1983,NFL,7,171,RAM,Jeff Simmons,WR,USC
+227,1983,NFL,8,200,RAM,Troy West,DB,USC
+228,1983,NFL,12,327,GNB,John Harvey,DT,USC
+229,1982,NFL,1,3,CLE,Chip Banks,LB,USC
+230,1982,NFL,1,10,RAI,Marcus Allen,RB,USC
+231,1982,NFL,1,24,MIA,Roy Foster,G,USC
+232,1982,NFL,9,245,BUF,Dennis Edwards,DE,USC
+233,1982,NFL,10,257,CHI,Joe Turner,DB,USC
+234,1981,NFL,1,8,SFO,Ronnie Lott,DB,USC
+235,1981,NFL,1,11,CHI,Keith Van Horne,T,USC
+236,1981,NFL,1,15,DEN,Dennis Smith,DB,USC
+237,1981,NFL,3,71,NOR,Hoby Brenner,TE,USC
+238,1981,NFL,7,167,NOR,Kevin Williams,WR,USC
+239,1981,NFL,7,177,CHI,Jeff Fisher,DB,USC
+240,1981,NFL,7,181,DEN,Steve Busick,LB,USC
+241,1981,NFL,9,239,PIT,James Hunter,NT,USC
+242,1981,NFL,12,315,BAL,Eric Scoggins,LB,USC
+243,1980,NFL,9*,2,SDG,Billy Mullins,WR,USC
+244,1980,NFL,1,3,CIN,Anthony Munoz,T,USC
+245,1980,NFL,1,11,KAN,Brad Budde,G,USC
+246,1980,NFL,1,27,CLE,Charles White,RB,USC
+247,1980,NFL,2,45,NWE,Larry McGrew,LB,USC
+248,1980,NFL,3,64,NYG,Myron Lapka,NT,USC
+249,1980,NFL,4,88,BAL,Ray Butler,WR,USC
+250,1980,NFL,4,92,MIN,Dennis Johnson,LB,USC
+251,1980,NFL,4,109,CLE,Paul McDonald,QB,USC
+252,1980,NFL,6,144,BAL,Chris Foote,C,USC
+253,1979,NFL,2,49,ATL,Pat Howell,G,USC
+254,1979,NFL,4,100,ATL,Lynn Cain,RB,USC
+255,1979,NFL,4,110,PIT,Calvin Sweeney,WR,USC
+256,1979,NFL,5,115,BAL,Larry Braziel,DB,USC
+257,1979,NFL,5,124,CLE,Rich Dimler,DT,USC
+258,1979,NFL,6,155,DAL,Tim Lavender,DB,USC
+259,1979,NFL,8,214,HOU,Carter Hartwig,DB,USC
+260,1979,NFL,9,247,DAL,Garry Cobb,LB,USC
+261,1978,NFL,12*,2,SFO,Rod Connors,RB,USC
+262,1978,NFL,1,12,CLE,Clay Matthews,LB,USC
+263,1978,NFL,2,55,DEN,William Gay,DE,USC
+264,1978,NFL,5,131,CIN,Rob Hertel,QB,USC
+265,1978,NFL,7,168,KAN,Ricky Odom,DB,USC
+266,1978,NFL,7,171,BUF,Mario Celotto,LB,USC
+267,1978,NFL,8,215,NWE,Mosi Tatupu,RB,USC
+268,1978,NFL,11,298,CHI,Walt Underwood,DE,USC
+269,1978,NFL,11,306,DAL,Dennis Thurman,DB,USC
+270,1978,NFL,12,322,HOU,John Schuhmacher,G,USC
+271,1977,NFL,1,1,TAM,Ricky Bell,RB,USC
+272,1977,NFL,1,4,NYJ,Marvin Powell,T,USC
+273,1977,NFL,1,5,NYG,Gary Jeter,DE,USC
+274,1977,NFL,2,29,TAM,Dave Lewis,LB,USC
+275,1977,NFL,5,120,ATL,Shelton Diggs,WR,USC
+276,1977,NFL,5,130,RAM,Donnie Hickman,G,USC
+277,1977,NFL,6,140,CHI,Vince Evans,QB,USC
+278,1977,NFL,6,141,SFO,Mike Burns,DB,USC
+279,1977,NFL,7,173,CLE,Kenny Randle,WR,USC
+280,1977,NFL,7,181,SDG,Ron Bush,DB,USC
+281,1977,NFL,8,216,STL,Eric Williams,LB,USC
+282,1977,NFL,8,222,MIN,Clint Strozier,DB,USC
+283,1977,NFL,11,287,ATL,Dave Farmer,RB,USC
+284,1977,NFL,12,317,OAK,Rod Martin,LB,USC
+285,1976,NFL,3,69,CIN,Danny Reece,DB,USC
+286,1976,NFL,8,211,NYJ,Joe Davis,G,USC
+287,1976,NFL,12,328,GNB,Melvin Jackson,G,USC
+288,1976,NFL,16,454,OAK,Doug Hogan,DB,USC
+289,1975,NFL,2,37,NYJ,Anthony Davis,RB,USC
+290,1975,NFL,2,45,OAK,Charlie Phillips,DB,USC
+291,1975,NFL,2,47,GNB,Bill Bain,T,USC
+292,1975,NFL,2,52,MIN,Art Riley,DT,USC
+293,1975,NFL,3,68,NYJ,Richard Wood,LB,USC
+294,1975,NFL,4,86,NWE,Allen Carter,RB,USC
+295,1975,NFL,7,158,NYG,Jim Obradovich,TE,USC
+296,1975,NFL,7,176,RAM,Pat Haden,QB,USC
+297,1975,NFL,10,242,SDG,Otha Bradley,DT,USC
+298,1975,NFL,11,276,CIN,Marvin Cobb,DB,USC
+299,1975,NFL,13,322,SFO,Dale Mitchell,LB,USC
+300,1975,NFL,16,393,ATL,Steve Knutson,G,USC
+301,1975,NFL,16,394,CLE,John McKay,WR,USC
+302,1975,NFL,16,400,GNB,Bob McCaffrey,C,USC
+303,1974,NFL,1,21,PIT,Lynn Swann,WR,USC
+304,1974,NFL,1,25,MIN,Steve Riley,T,USC
+305,1974,NFL,4,88,NOR,Rod McNeill,RB,USC
+306,1974,NFL,6,154,HOU,Booker Brown,T,USC
+307,1974,NFL,8,194,GNB,Monte Doris,LB,USC
+308,1974,NFL,9,216,SFO,Manfred Moore,RB,USC
+309,1974,NFL,12,288,NYG,Jim Sims,LB,USC
+310,1974,NFL,12,297,PHI,Artimus Parker,DB,USC
+311,1974,NFL,15,366,SDG,Charles Anthony,LB,USC
+312,1973,NFL,1,6,PHI,Charle Young,TE,USC
+313,1973,NFL,1,11,NWE,Sam Cunningham,RB,USC
+314,1973,NFL,1,22,CLE,Pete Adams,G,USC
+315,1973,NFL,2,32,BUF,Jeff Winans,G,USC
+316,1973,NFL,4,82,NWE,Allen Gallaher,T,USC
+317,1973,NFL,5,105,HOU,Edesel Garrison,WR,USC
+318,1973,NFL,7,166,DEN,John Grant,DT,USC
+319,1973,NFL,8,205,OAK,Mike Rae,QB,USC
+320,1973,NFL,9,234,MIA,Karl Lorch,DE,USC
+321,1973,NFL,17,439,OAK,Mike Ryan,G,USC
+322,1972,NFL,2,31,NOR,Willie Hall,LB,USC
+323,1972,NFL,2,43,OAK,John Vella,T,USC
+324,1972,NFL,7,176,OAK,Skip Thomas,DB,USC
+325,1972,NFL,17,420,DEN,Lou Harris,RB,USC
+326,1972,NFL,17,422,STL,Kent Carter,LB,USC
+327,1972,NFL,17,431,ATL,Bill Holland,RB,USC
+328,1971,NFL,1,12,DEN,Marv Montgomery,T,USC
+329,1971,NFL,1,25,DAL,Tody Smith,DE,USC
+330,1971,NFL,2,48,DET,Charlie Weaver,LB,USC
+331,1971,NFL,3,55,SFO,Sam Dickerson,WR,USC
+332,1971,NFL,4,86,PIT,Gerry Mullins,G,USC
+333,1971,NFL,4,97,OAK,Clarence Davis,RB,USC
+334,1971,NFL,6,149,OAK,Greg Slough,LB,USC
+335,1971,NFL,6,152,DET,Herman Franklin,WR,USC
+336,1971,NFL,7,160,BUF,Bob Chandler,WR,USC
+337,1971,NFL,14,356,NYG,Charlie Evans,RB,USC
+338,1970,NFL,1,5,BUF,Al Cowlings,DE,USC
+339,1970,NFL,1,26,KAN,Sid Smith,C,USC
+340,1970,NFL,5,113,SFO,Gary McArthur,T,USC
+341,1970,NFL,6,137,CIN,Sandy Durko,DB,USC
+342,1970,NFL,6,149,DET,Tony Terry,DT,USC
+343,1970,NFL,7,169,ATL,Gary Orcutt,WR,USC
+344,1970,NFL,8,201,STL,Mike Holmgren,QB,USC
+345,1970,NFL,13,314,CHI,Jimmy Gunn,LB,USC
+346,1970,NFL,17,437,RAM,Don Crenshaw,DB,USC
+347,1969,NFL,1,1,BUF,O.J. Simpson,RB,USC
+348,1969,NFL,1,21,RAM,Bob Klein,TE,USC
+349,1969,NFL,5,116,GNB,Bill Hayhoe,T,USC
+350,1969,NFL,6,138,NOR,Bob Miller,TE,USC
+351,1969,NFL,8,189,NOR,Jim Lawrence,FL,USC
+352,1969,NFL,12,302,SFO,Jack O'Malley,T,USC
+353,1969,NFL,12,311,NYJ,Mike Battle,DB,USC
+354,1969,NFL,13,320,DET,Wilson Bowie,RB,USC
+355,1968,NFL,1,1,MIN,Ron Yary,T,USC
+356,1968,NFL,1,10,PIT,Mike Taylor,T,USC
+357,1968,NFL,1,14,PHI,Tim Rossovich,LB,USC
+358,1968,NFL,1,16,CHI,Mike Hull,RB,USC
+359,1968,NFL,1,24,DET,Earl McCullouch,WR,USC
+360,1968,NFL,3,68,PHI,Adrian Young,LB,USC
+361,1968,NFL,4,94,WAS,Dennis Crane,DT,USC
+362,1968,NFL,4,101,NYJ,Gary Magner,DT,USC
+363,1968,NFL,11,298,OAK,Chip Oliver,LB,USC
+364,1968,NFL,17,438,DEN,Steve Grady,RB,USC
+365,1968,NFL,17,439,NOR,James Ferguson,C,USC
+366,1967,NFL,4,89,PIT,Ray May,LB,USC
+367,1967,NFL,5,108,NOR,Don McCall,RB,USC
+368,1967,NFL,5,122,RAM,Nate Shaw,DB,USC
+369,1967,NFL,10,245,DET,Jerry Hayhoe,G,USC
+370,1967,NFL,13,324,PIT,Jim Homan,G,USC
+371,1966,AFL,1,7,OAK,Rod Sherman,WR,USC
+372,1966,NFL,2,18,RAM,Mike Garrett,RB,USC
+373,1966,NFL,4,54,BAL,Rod Sherman,WR,USC
+374,1966,AFL,9,81,BUF,Ed King,LB,USC
+375,1966,AFL,11,96,KAN,Denis Moore,DT,USC
+376,1966,NFL,10,151,NYG,Jeff Smith,LB,USC
+377,1966,AFL,20,178,KAN,Mike Garrett,RB,USC
+378,1966,NFL,13,198,GNB,Ed King,LB,USC
+379,1966,NFL,14,211,DET,Denis Moore,DT,USC
+380,1966,NFL,19,277,RAM,Homer Williams,FL,USC
+381,1966,NFL,19,288,GNB,Dave Moton,E,USC
+382,1965,AFL,3,19,OAK,Bob Svihus,T,USC
+383,1965,AFL,5,37,KAN,John Thomas,E,USC
+384,1965,NFL,4,48,PHI,Fred Hill,TE,USC
+385,1965,NFL,4,53,DAL,Bob Svihus,T,USC
+386,1965,AFL,16,123,OAK,Fred Hill,TE,USC
+387,1965,NFL,11,148,MIN,John Thomas,E,USC
+388,1965,NFL,15,197,NYG,Mike Giers,G,USC
+389,1965,NFL,17,233,RAM,Ed Blecksmith,B,USC
+390,1965,NFL,20,270,PIT,Craig Fertig,QB,USC
+391,1964,AFL,1,2,KAN,Pete Beathard,QB,USC
+392,1964,NFL,1,5,DET,Pete Beathard,QB,USC
+393,1964,NFL,2,19,MIN,Hal Bedsole,TE,USC
+394,1964,NFL,3,32,RAM,Willie Brown,WR,USC
+395,1964,AFL,5,40,SDG,Gary Kirner,G,USC
+396,1964,AFL,6,48,SDG,Willie Brown,WR,USC
+397,1964,AFL,8,58,KAN,Hal Bedsole,TE,USC
+398,1964,AFL,15,119,OAK,Mike Giers,T,USC
+399,1964,NFL,18,241,DAL,Theophile Viltz,DB,USC
+400,1963,NFL,10,136,PIT,Bill Nelsen,QB,USC
+401,1963,NFL,15,205,CLE,Lynn Reade,T,USC
+402,1962,NFL,3,32,CHI,Jim Bates,E,USC
+403,1962,AFL,6,48,SDG,Frank Buncom,LB,USC
+404,1962,NFL,5,68,RAM,Ben Wilson,FB,USC
+405,1962,NFL,6,80,DET,Mike Bundra,DT,USC
+406,1962,AFL,14,112,SDG,Jim Bates,HB,USC
+407,1962,NFL,12,156,RAM,Marv Marinovich,G,USC
+408,1962,AFL,28,217,OAK,Marv Marinovich,G,USC
+409,1962,AFL,28,224,SDG,Ben Wilson,FB,USC
+410,1962,AFL,34,268,BUF,Ben Charles,QB,USC
+411,1961,NFL,1,4,RAM,Marlin McKeever,LB,USC
+412,1961,AFL,3,23,SDG,Marlin McKeever,LB,USC
+413,1961,NFL,4,53,PHI,Dan Ficca,G,USC
+414,1961,NFL,10,140,PHI,Luther Hayes,E,USC
+415,1961,NFL,13,172,RAM,Mike McKeever,G,USC
+416,1961,AFL,27,215,SDG,Luther Hayes,E,USC
+417,1961,AFL,29,231,SDG,Dan Ficca,G,USC
+418,1961,AFL,30,240,SDG,Mike McKeever,G,USC
+419,1960,AFL,,0,BUF,Jim Hanna,E,USC
+420,1960,AFL,,0,BUF,Jim Conroy,FB,USC
+421,1960,AFL,,0,DEN,John Wilkins,T,USC
+422,1960,AFL,,0,DTX,Clark Holden,HB,USC
+423,1960,AFL,,0,BOS,Ron Mix,T,USC
+424,1960,AFL,,0,NYT,Angelo Coia,SE,USC
+425,1960,AFL,,0,HOU,Don Mattson,T,USC
+426,1960,AFL,,0,OAK,Al Bansavage,LB,USC
+427,1960,NFL,1,10,BAL,Ron Mix,T,USC
+428,1960,NFL,6,71,BAL,Al Bansavage,LB,USC
+429,1960,NFL,7,81,PHI,John Wilkins,T,USC
+430,1960,NFL,17,201,CHI,Jim Hanna,E,USC
+431,1960,NFL,20,237,CHI,Angelo Coia,SE,USC
+432,1959,NFL,4,41,SFO,Monte Clark,T,USC
+433,1959,NFL,18,211,PIT,John Seinturier,T,USC
+434,1959,NFL,26,303,CRD,Joe Chuha,C,USC
+435,1958,NFL,6,71,SFO,Henry Schmidt,DT,USC
+436,1958,NFL,9,100,PIT,Mike Henry,LB,USC
+437,1958,NFL,14,166,NYG,C.R. Roberts,FB,USC
+438,1958,NFL,17,205,DET,Walt Gurasich,G,USC
+439,1958,NFL,26,311,SFO,Hillard Hill,E,USC
+440,1958,NFL,27,321,NYG,Dick Bronson,T,USC
+441,1957,NFL,1,2,RAM,Jon Arnett,HB,USC
+442,1957,NFL,5,56,SFO,Karl Rubke,LB,USC
+443,1957,NFL,5,57,RAM,Dick Enright,G,USC
+444,1957,NFL,8,87,GNB,George Belotti,C,USC
+445,1957,NFL,27,314,PHI,Frank Hall,B,USC
+446,1956,NFL,2,14,RAM,Leon Clarke,E,USC
+447,1956,NFL,7,85,CLE,Chuck Griffith,E,USC
+448,1956,NFL,9,104,GNB,Gordy Duvall,B,USC
+449,1955,NFL,2,14,CRD,Lindon Crow,DB,USC
+450,1955,NFL,4,43,RAM,Ed Fouch,T,USC
+451,1955,NFL,5,50,CRD,Mario Da Re,T,USC
+452,1955,NFL,5,61,CLE,Aramis Dandoy,B,USC
+453,1955,NFL,7,79,RAM,Frank Clayton,B,USC
+454,1955,NFL,25,297,PHI,Frank Pavich,G,USC
+455,1955,NFL,29,340,WAS,Bing Bordier,E,USC
+456,1954,NFL,3,27,GNB,George Timberlake,LB,USC
+457,1954,NFL,3,32,RAM,Tom Nickoloff,E,USC
+458,1954,NFL,7,82,RAM,Charley Weeks,T,USC
+459,1954,NFL,11,131,SFO,John Skocko,E,USC
+460,1954,NFL,16,183,GNB,Des Koch,B,USC
+461,1954,NFL,30,353,NYG,Jim Gibson,T,USC
+462,1953,NFL,1,7,GNB,Al Carmichael,HB,USC
+463,1953,NFL,2,15,CRD,Jim Psaltis,DB,USC
+464,1953,NFL,2,24,RAM,Rudy Bukich,QB,USC
+465,1953,NFL,4,50,DET,Charlie Ane,T,USC
+466,1953,NFL,5,60,CLE,Bob Van Doren,DE,USC
+467,1953,NFL,6,63,BAL,Jimmy Sears,DB,USC
+468,1953,NFL,6,70,NYG,Bob Peviani,LB,USC
+469,1953,NFL,12,144,CLE,Elmer Willhoite,G,USC
+470,1953,NFL,22,257,WAS,Ed Pucci,G,USC
+471,1953,NFL,26,305,WAS,Walt Ashcraft,T,USC
+472,1953,NFL,26,308,GNB,George Bozanic,B,USC
+473,1953,NFL,27,325,RAM,Lou Welsh,C,USC
+474,1953,NFL,28,329,WAS,Bob Buckley,B,USC
+475,1953,NFL,29,346,SFO,Don Stillwell,E,USC
+476,1953,NFL,30,356,GNB,Al Barry,G,USC
+477,1952,NFL,1,11,NYG,Frank Gifford,HB,USC
+478,1952,NFL,11,122,DTX,Pat Cannamela,LB,USC
+479,1952,NFL,16,193,RAM,Bob Hooks,E,USC
+480,1952,NFL,17,201,SFO,Al Baldock,E,USC
+481,1952,NFL,22,254,NYG,Dean Schneider,B,USC
+482,1951,NFL,10,118,PIT,Paul Salata,,USC
+483,1951,NFL,11,126,SFO,Bill Jessup,E,USC
+484,1951,NFL,13,151,CRD,Volney Peters,DT,USC
+485,1951,NFL,16,188,PHI,Hal Hatfield,E,USC
+486,1951,NFL,26,304,WAS,Johnny Williams,DB,USC
+487,1950,NFL,11,137,RAM,Jay Roundy,B,USC
+488,1950,NFL,12,153,SFO,Don Burke,LB,USC
+489,1950,NFL,20,257,SFO,Jack Nix,E,USC
+490,1950,NFL,23,298,RAM,Jim Bird,T,USC
+491,1950,NFL,26,335,SFO,Jim Powers,DB,USC
+492,1950,NFL,27,352,PHI,Bill Martin,B,USC
+493,1950,NFL,30,387,SFO,Bob Stillwell,E,USC
+494,1949,NFL,13,128,WAS,Ed Henke,DE,USC
+495,1949,NFL,20,198,WAS,Oliver Fletcher,G,USC
+496,1949,NFL,21,211,PHI,Lou Futrell,B,USC
+497,1949,NFL,22,214,GNB,John Kordick,B,USC
+498,1948,NFL,9,67,DET,Don Doll,DB,USC
+499,1948,NFL,10,77,DET,Paul Cleary,E,USC
+500,1948,NFL,21,187,DET,Dean Dill,B,USC
+501,1948,NFL,24,216,NYG,Walter McCormick,C,USC
+502,1948,NFL,28,257,DET,George Schutte,T,USC
+503,1947,NFL,5,33,RAM,Gordon Gray,B,USC
+504,1947,NFL,6,39,WAS,Mike Garzoni,G,USC
+505,1947,NFL,16,141,GNB,Jim Callanan,E,USC
+506,1947,NFL,17,153,RAM,Don Hardy,E,USC
+507,1946,NFL,1,7,PHI,Leo Riggs,B,USC
+508,1946,NFL,3,23,PHI,Gordon Gray,E,USC
+509,1946,NFL,6,46,GNB,John Ferraro,T,USC
+510,1946,NFL,7,59,WAS,Bob Hendren,T,USC
+511,1946,NFL,8,69,WAS,George Callanan,B,USC
+512,1946,NFL,15,139,WAS,Harry Adelman,E,USC
+513,1946,NFL,18,165,NYG,Bob Morris,HB,USC
+514,1946,NFL,19,176,GNB,Joe Bradford,C,USC
+515,1946,NFL,21,199,WAS,John Pehar,T,USC
+516,1946,NFL,29,280,RAM,Jay Perrin,T,USC
+517,1945,NFL,1,8,WAS,Jim Hardy,QB,USC
+518,1945,NFL,15,150,WAS,Eddie Saenz,HB,USC
+519,1945,NFL,18,184,PHI,Quentin Klenk,T,USC
+520,1945,NFL,23,232,BOS,Wally Crittenden,B,USC
+521,1945,NFL,25,255,BOS,Jerry Whitney,B,USC
+522,1945,NFL,27,275,BOS,Hal Finney,B,USC
+523,1945,NFL,28,290,RAM,Pat West,FB,USC
+524,1945,NFL,28,292,WAS,Milford Dreblow,B,USC
+525,1945,NFL,30,317,NYG,Joe Wolf,C,USC
+526,1944,NFL,3,19,DET,Ralph Heywood,E,USC
+527,1944,NFL,3,23,WAS,Earl Audet,T,USC
+528,1944,NFL,6,49,GNB,Mickey McCardle,B,USC
+529,1944,NFL,8,76,BOS,Bob Musick,B,USC
+530,1944,NFL,12,118,PHI,Earle Parsons,HB,USC
+531,1944,NFL,16,155,BKN,Doug Essick,E,USC
+532,1944,NFL,16,163,RAM,John Aguirre,T,USC
+533,1944,NFL,18,177,BKN,Don Willer,T,USC
+534,1944,NFL,19,188,BKN,Howard Callanan,B,USC
+535,1944,NFL,20,205,CHI,Paul Taylor,B,USC
+536,1944,NFL,23,238,CHI,Dick Jamison,T,USC
+537,1944,NFL,25,254,BKN,Dick Manning,B,USC
+538,1943,NFL,9,78,GNB,Norm Verry,T,USC
+539,1943,NFL,17,158,GNB,Ron Thomas,G,USC
+540,1943,NFL,20,183,BKN,Bill Bledsoe,E,USC
+541,1942,NFL,1,7,BKN,Bobby Robertson,C,USC
+542,1942,NFL,10,82,RAM,Bob deLauer,C,USC
+543,1941,NFL,7,60,WAS,Al Krueger,HB,USC
+544,1941,NFL,9,76,NYG,Ben Sohn,G,USC
+545,1941,NFL,11,96,NYG,Bobby Peoples,B,USC
+546,1941,NFL,12,110,WAS,Jack Banta,HB,USC
+547,1940,NFL,1,6,DET,Doyle Nave,B,USC
+548,1940,NFL,1,10,NYG,Grenny Lansdell,HB,USC
+549,1940,NFL,3,21,DET,Bill Fisk,E,USC
+550,1940,NFL,5,36,DET,Harry Smith,T,USC
+551,1940,NFL,7,56,DET,Bob Winslow,DE,USC
+552,1940,NFL,9,78,WAS,Bob Hoffman,B,USC
+553,1940,NFL,11,98,WAS,Howard Stoecker,T,USC
+554,1940,NFL,12,109,GNB,Phil Gaspar,T,USC
+555,1940,NFL,13,119,GNB,Ambrose Schindler,B,USC
+556,1939,NFL,10,87,DET,Ray George,T,USC
+557,1939,NFL,14,128,WAS,Bob Hoffman,B,USC
+558,1939,NFL,18,168,WAS,Boyd Morgan,B,USC
+559,1939,NFL,19,177,DET,Tony Tonelli,C,USC
+560,1937,NFL,10,93,BKN,Gil Kuhn,T,USC
+1,2025,NFL,1,9,NOR,Kelvin Banks,OL,Texas
+2,2025,NFL,1,20,DEN,Jahdae Barron,CB,Texas
+3,2025,NFL,1,23,GNB,Matthew Golden,WR,Texas
+4,2025,NFL,2,43,SFO,Alfred Collins,DT,Texas
+5,2025,NFL,2,64,PHI,Andrew Mukuba,SAF,Texas
+6,2025,NFL,3,71,NOR,Vernon Broughton,DT,Texas
+7,2025,NFL,4,120,TEN,Gunnar Helm,TE,Texas
+8,2025,NFL,4,124,GNB,Barryn Sorrell,DE,Texas
+9,2025,NFL,5,149,DAL,Jaydon Blue,RB,Texas
+10,2025,NFL,6,207,PHI,Cameron Williams,OL,Texas
+11,2025,NFL,6,211,ARI,Hayden Conner,OL,Texas
+12,2025,NFL,7,231,MIA,Quinn Ewers,QB,Texas
+13,2024,NFL,1,16,SEA,Byron Murphy,DL,Texas
+14,2024,NFL,1,28,KAN,Xavier Worthy,WR,Texas
+15,2024,NFL,2,38,TEN,T'Vondre Sweat,DL,Texas
+16,2024,NFL,2,46,CAR,Jonathon Brooks,RB,Texas
+17,2024,NFL,2,52,IND,Adonai Mitchell,WR,Texas
+18,2024,NFL,4,101,CAR,Ja'Tavion Sanders,TE,Texas
+19,2024,NFL,5,162,ARI,Christian Jones,OL,Texas
+20,2024,NFL,5,167,JAX,Keilan Robinson,RB,Texas
+21,2024,NFL,5,175,NOR,Jaylan Ford,LB,Texas
+22,2024,NFL,6,195,PIT,Ryan Watts,SAF,Texas
+23,2024,NFL,6,213,LAR,Jordan Whittington,WR,Texas
+24,2023,NFL,1,8,ATL,Bijan Robinson,RB,Texas
+25,2023,NFL,3,90,DAL,DeMarvion Overshown,LB,Texas
+26,2023,NFL,4,115,CHI,Roschon Johnson,RB,Texas
+27,2023,NFL,6,194,KAN,Keondre Coburn,DT,Texas
+28,2023,NFL,7,249,PHI,Moro Ojomo,DE,Texas
+29,2021,NFL,2,51,WAS,Samuel Cosmi,OL,Texas
+30,2021,NFL,3,69,CIN,Joseph Ossai,LB,Texas
+31,2021,NFL,5,148,ATL,Ta'Quon Graham,DL,Texas
+32,2021,NFL,5,152,DEN,Caden Sterns,DB,Texas
+33,2021,NFL,6,218,IND,Sam Ehlinger,QB,Texas
+34,2020,NFL,3,70,MIA,Brandon Jones,S,Texas
+35,2020,NFL,3,88,CLE,Jordan Elliott,DT,Texas
+36,2020,NFL,3,92,BAL,Devin Duvernay,WR,Texas
+37,2020,NFL,5,165,JAX,Collin Johnson,WR,Texas
+38,2019,NFL,5,161,HOU,Charles Omenihu,DE,Texas
+39,2019,NFL,7,217,MIN,Kris Boyd,CB,Texas
+40,2018,NFL,2,50,DAL,Connor Williams,T,Texas
+41,2018,NFL,3,78,CIN,Malik Jefferson,OLB,Texas
+42,2018,NFL,5,149,SEA,Michael Dickson,P,Texas
+43,2018,NFL,6,190,BAL,DeShon Elliott,S,Texas
+44,2017,NFL,3,89,HOU,D'Onta Foreman,RB,Texas
+45,2016,NFL,4,116,IND,Hassan Ridgeway,DT,Texas
+46,2015,NFL,1,32,NWE,Malcom Brown,DT,Texas
+47,2015,NFL,3,84,PHI,Jordan Hicks,OLB,Texas
+48,2015,NFL,5,144,NYG,Mykkele Thompson,S,Texas
+49,2015,NFL,6,200,DET,Quandre Diggs,CB,Texas
+50,2015,NFL,7,246,DAL,Geoff Swaim,TE,Texas
+51,2013,NFL,1,15,NOR,Kenny Vaccaro,DB,Texas
+52,2013,NFL,3,78,BUF,Marquise Goodwin,WR,Texas
+53,2013,NFL,4,103,ARI,Alex Okafor,DE,Texas
+54,2012,NFL,4,119,WAS,Keenan Robinson,LB,Texas
+55,2012,NFL,6,204,CLE,Emmanuel Acho,LB,Texas
+56,2012,NFL,7,215,MIA,Kheeston Randall,DT,Texas
+57,2011,NFL,2,34,BUF,Aaron Williams,DB,Texas
+58,2011,NFL,3,95,PIT,Curtis Brown,DB,Texas
+59,2011,NFL,4,103,ARI,Sam Acho,DE,Texas
+60,2011,NFL,5,164,BAL,Chykie Brown,DB,Texas
+61,2010,NFL,1,14,SEA,Earl Thomas,DB,Texas
+62,2010,NFL,2,43,BAL,Sergio Kindle,LB,Texas
+63,2010,NFL,2,44,OAK,Lamarr Houston,DE,Texas
+64,2010,NFL,3,84,CIN,Jordan Shipley,WR,Texas
+65,2010,NFL,3,85,CLE,Colt McCoy,QB,Texas
+66,2010,NFL,4,131,CIN,Roddrick Muckelroy,LB,Texas
+67,2009,NFL,1,13,WAS,Brian Orakpo,LB,Texas
+68,2009,NFL,3,81,TAM,Roy Miller,DT,Texas
+69,2009,NFL,4,105,CHI,Henry Melton,DE,Texas
+70,2009,NFL,7,211,STL,Chris Ogbonnaya,RB,Texas
+71,2008,NFL,2,53,PIT,Limas Sweed,WR,Texas
+72,2008,NFL,3,73,KAN,Jamaal Charles,RB,Texas
+73,2008,NFL,3,91,GNB,Jermichael Finley,TE,Texas
+74,2008,NFL,4,130,PIT,Tony Hills,T,Texas
+75,2008,NFL,5,151,HOU,Frank Okam,DT,Texas
+76,2007,NFL,1,19,TEN,Michael Griffin,DB,Texas
+77,2007,NFL,1,20,NYG,Aaron Ross,DB,Texas
+78,2007,NFL,2,39,ATL,Justin Blalock,G,Texas
+79,2007,NFL,2,56,DEN,Tim Crowder,DE,Texas
+80,2007,NFL,4,102,MIN,Brian Robison,DE,Texas
+81,2007,NFL,5,147,SFO,Tarell Brown,DB,Texas
+82,2007,NFL,6,183,HOU,Kasey Studdard,G,Texas
+83,2006,NFL,1,3,TEN,Vince Young,QB,Texas
+84,2006,NFL,1,7,OAK,Michael Huff,DB,Texas
+85,2006,NFL,2,48,MIN,Cedric Griffin,DB,Texas
+86,2006,NFL,3,86,NWE,David Thomas,TE,Texas
+87,2006,NFL,5,141,DET,Jonathan Scott,T,Texas
+88,2006,NFL,7,226,MIA,Rodrique Wright,DT,Texas
+89,2005,NFL,1,4,CHI,Cedric Benson,RB,Texas
+90,2005,NFL,1,15,KAN,Derrick Johnson,LB,Texas
+91,2005,NFL,6,179,TEN,Bo Scaife,TE,Texas
+92,2004,NFL,1,7,DET,Roy Williams,WR,Texas
+93,2004,NFL,1,23,SEA,Marcus Tubbs,DT,Texas
+94,2004,NFL,4,110,CHI,Nathan Vasher,DB,Texas
+95,2004,NFL,7,211,HOU,Sloan Thomas,WR,Texas
+96,2003,NFL,3,66,DET,Cory Redding,DE,Texas
+97,2003,NFL,3,81,WAS,Derrick Dockery,G,Texas
+98,2003,NFL,3,97,TAM,Chris Simms,QB,Texas
+99,2003,NFL,4,123,NYG,Roderick Babers,DB,Texas
+100,2002,NFL,1,4,BUF,Mike Williams,T,Texas
+101,2002,NFL,1,5,SDG,Quentin Jammer,DB,Texas
+102,2001,NFL,1,2,ARI,Leonard Davis,T,Texas
+103,2001,NFL,1,19,PIT,Casey Hampton,NT,Texas
+104,2001,NFL,2,61,DET,Shaun Rogers,DT,Texas
+105,2000,NFL,6,191,BAL,Cedric Woodard,DT,Texas
+106,1999,NFL,1,5,NOR,Ricky Williams,RB,Texas
+107,1999,NFL,4,118,DAL,Wane McGarity,WR,Texas
+108,1999,NFL,4,125,MIN,Jay Humphrey,T,Texas
+109,1998,NFL,7,220,PHI,Chris Akins,DT,Texas
+110,1997,NFL,1,5,DET,Bryant Westbrook,DB,Texas
+111,1997,NFL,3,67,DEN,Dan Neil,G,Texas
+112,1997,NFL,3,89,NWE,Chris Carter,DB,Texas
+113,1997,NFL,5,158,STL,Taje Allen,DB,Texas
+114,1997,NFL,7,223,PIT,Mike Adams,WR,Texas
+115,1997,NFL,7,226,BUF,Pat Fitzgerald,TE,Texas
+116,1996,NFL,2,33,JAX,Tony Brackens,DE,Texas
+117,1996,NFL,5,139,NWE,John Elmore,G,Texas
+118,1995,NFL,1,29,CAR,Blake Brockermeyer,T,Texas
+119,1995,NFL,4,115,STL,Lovell Pinkney,TE,Texas
+120,1994,NFL,2,57,DET,Van Malone,DB,Texas
+121,1994,NFL,3,79,NOR,Winfred Tubbs,LB,Texas
+122,1993,NFL,7,175,CIN,Lance Gunn,DB,Texas
+123,1992,NFL,2,54,DEN,Shane Dronett,DT,Texas
+124,1992,NFL,2,55,BUF,James Patton,NT,Texas
+125,1992,NFL,3,75,PHI,Tommy Jeter,DT,Texas
+126,1992,NFL,4,110,DEN,Chuck Johnson,T,Texas
+127,1992,NFL,6,161,CHI,Mark Berry,DB,Texas
+128,1992,NFL,9,252,WAS,Boone Powell,LB,Texas
+129,1992,NFL,12,313,PHO,Lance Wilson,DT,Texas
+130,1991,NFL,1,9,SDG,Stanley Richard,DB,Texas
+131,1991,NFL,1,22,CHI,Stan Thomas,T,Texas
+132,1991,NFL,5,125,IND,Kerry Cash,TE,Texas
+133,1991,NFL,7,188,WAS,Keith Cash,TE,Texas
+134,1991,NFL,8,203,GNB,Johnny Walker,WR,Texas
+135,1991,NFL,8,213,RAI,Brian Jones,LB,Texas
+136,1991,NFL,12,317,SDG,Chris Samuels,RB,Texas
+137,1991,NFL,12,333,BUF,Stephen Clark,TE,Texas
+138,1990,NFL,5,127,KAN,Ken Hackemack,T,Texas
+139,1990,NFL,6,153,HOU,Tony Jones,WR,Texas
+140,1989,NFL,1,13,CLE,Eric Metcalf,RB,Texas
+141,1989,NFL,3,81,PHI,Britt Hager,LB,Texas
+142,1989,NFL,9,240,NWE,Darron Norris,RB,Texas
+143,1988,NFL,6,141,CIN,Paul Jetton,G,Texas
+144,1988,NFL,8,204,BUF,John Hagy,DB,Texas
+145,1987,NFL,5,124,DAL,Everett Gay,WR,Texas
+146,1987,NFL,6,165,CLE,Stephen Braggs,DB,Texas
+147,1987,NFL,11,291,DAL,Jeff Ward,K,Texas
+148,1987,NFL,11,304,WAS,Laron Brown,WR,Texas
+149,1987,NFL,12,333,CHI,Eric Jeffries,DB,Texas
+150,1986,NFL,3,59,STL,Gene Chilton,C,Texas
+151,1986,NFL,4,95,SDG,Ty Allert,LB,Texas
+152,1986,NFL,8,218,MIA,John Stuart,T,Texas
+153,1986,NFL,9,249,CHI,John Teltschik,P,Texas
+154,1986,NFL,10,269,DAL,Bryan Chester,G,Texas
+155,1986,NFL,12,307,DAL,Chris Duliban,LB,Texas
+156,1985,NFL,1,21,RAM,Jerry Gray,DB,Texas
+157,1985,NFL,5,127,CIN,Tony Degrate,NT,Texas
+158,1985,NFL,9,230,DET,June James,LB,Texas
+159,1985,NFL,10,263,WAS,Terry Orr,TE,Texas
+160,1984,NFL,1,6,SDG,Mossy Cade,DB,Texas
+161,1984,NFL,1*,17,STL,Mike Ruether,G,Texas
+162,1984,NFL,2,43,NWE,Ed Williams,LB,Texas
+163,1984,NFL,2,45,STL,Doug Dawson,G,Texas
+164,1984,NFL,3,57,TAM,Fred Acorn,DB,Texas
+165,1984,NFL,3,80,STL,Rick McIvor,QB,Texas
+166,1984,NFL,4,93,IND,Craig Curry,DB,Texas
+167,1984,NFL,5,117,KAN,Eric Holle,NT,Texas
+168,1984,NFL,5,123,NOR,Jitter Fields,DB,Texas
+169,1984,NFL,5,129,STL,Jeff Leiding,LB,Texas
+170,1984,NFL,7,180,MIN,John Haines,NT,Texas
+171,1984,NFL,8,199,SDG,Ray Woodard,DE,Texas
+172,1984,NFL,8,214,DET,David Jones,G,Texas
+173,1984,NFL,9,241,STL,John Walker,RB,Texas
+174,1984,NFL,9,243,SEA,Adam Schreiber,G,Texas
+175,1984,NFL,10,272,DEN,Bobby Micho,TE,Texas
+176,1984,NFL,10,276,PIT,Kirk McJunkin,T,Texas
+177,1984,NFL,12,314,KAN,Mark Lang,LB,Texas
+178,1983,NFL,6,152,CIN,Kiki DeAyala,LB,Texas
+179,1983,NFL,7,170,HOU,Herkie Walls,WR,Texas
+180,1982,NFL,1,1,NWE,Kenneth Sims,DE,Texas
+181,1982,NFL,2,33,SEA,Bruce Scholtz,LB,Texas
+182,1982,NFL,2,39,MIN,Terry Tausch,G,Texas
+183,1982,NFL,2,47,PHI,Lawrence Sampleton,TE,Texas
+184,1982,NFL,4,110,CIN,Rodney Tate,RB,Texas
+185,1982,NFL,5,115,CLE,Mike Baab,C,Texas
+186,1982,NFL,5,119,STL,Vance Bedford,DB,Texas
+187,1982,NFL,5,127,DET,William Graham,DB,Texas
+188,1982,NFL,7,181,RAM,Joe Shearin,G,Texas
+189,1982,NFL,8,202,RAM,A.J. Jones,RB,Texas
+190,1982,NFL,8,209,PIT,John Goodson,P,Texas
+191,1982,NFL,9,230,CHI,Mike Hatchett,DB,Texas
+192,1981,NFL,2,45,MIN,Robin Sendlein,LB,Texas
+193,1981,NFL,10,254,TAM,Ken McCune,DE,Texas
+194,1981,NFL,10,262,KAN,Les Studdard,C,Texas
+195,1980,NFL,1,2,NYJ,Lam Jones,WR,Texas
+196,1980,NFL,1,17,RAM,Johnnie Johnson,DB,Texas
+197,1980,NFL,1,24,BAL,Derrick Hatchett,DB,Texas
+198,1980,NFL,3,73,NWE,Steve McMichael,DT,Texas
+199,1980,NFL,4,84,SFO,Ricky Churchman,DB,Texas
+200,1980,NFL,6,142,STL,Bill Acker,NT,Texas
+201,1980,NFL,12,306,PIT,Charles Vaclavik,DB,Texas
+202,1979,NFL,1,11,NOR,Russell Erxleben,P,Texas
+203,1979,NFL,8,215,MIA,Glenn Blackwood,DB,Texas
+204,1978,NFL,1,1,HOU,Earl Campbell,RB,Texas
+205,1978,NFL,3,74,CHI,Brad Shearer,DT,Texas
+206,1978,NFL,7,167,ATL,Alfred Jackson,WR,Texas
+207,1978,NFL,9,245,BAL,Dave Studdard,T,Texas
+208,1977,NFL,1,16,NWE,Raymond Clayborn,DB,Texas
+209,1977,NFL,5,131,STL,Ernest Lee,DT,Texas
+210,1977,NFL,6,150,KAN,Rick Burleson,DE,Texas
+211,1977,NFL,12,328,STL,Rick Fenlaw,LB,Texas
+212,1976,NFL,3,77,NOR,Bob Simmons,G,Texas
+213,1976,NFL,11,315,STL,Marty Akins,DB,Texas
+214,1976,NFL,13,365,BUF,Will Wilcox,G,Texas
+215,1976,NFL,14,388,KAN,Rick Thurman,T,Texas
+216,1975,NFL,2,38,DET,Doug English,DT,Texas
+217,1975,NFL,5,105,BAL,Roosevelt Leaks,RB,Texas
+218,1975,NFL,11,264,CHI,Mike Dean,K,Texas
+219,1974,NFL,6,135,NYJ,Bill Wyman,C,Texas
+220,1974,NFL,10,244,SFO,Glen Gaspard,LB,Texas
+221,1973,NFL,1,3,PHI,Jerry Sisemore,T,Texas
+222,1973,NFL,6,144,NYJ,Travis Roach,G,Texas
+223,1973,NFL,13,316,NWE,Alan Lowry,DB,Texas
+224,1973,NFL,17,417,HOU,Randy Braband,LB,Texas
+225,1972,NFL,2,30,RAM,Jim Bertelsen,RB,Texas
+226,1972,NFL,4,95,RAM,Eddie Phillips,DB,Texas
+227,1971,NFL,2,38,WAS,Cotton Speyrer,WR,Texas
+228,1971,NFL,2,52,BAL,Bill Atessis,DE,Texas
+229,1971,NFL,4,83,PHI,Happy Feller,K,Texas
+230,1971,NFL,4,84,NYJ,Willie Zapalac,LB,Texas
+231,1971,NFL,4,90,RAM,Steve Worster,RB,Texas
+232,1971,NFL,7,162,NYJ,Scott Palmer,DT,Texas
+233,1971,NFL,12,294,BAL,Bobby Wuensch,T,Texas
+234,1971,NFL,13,317,PHI,Danny Lester,DB,Texas
+235,1971,NFL,14,345,ATL,Deryl Comer,TE,Texas
+236,1970,NFL,1,21,CLE,Bob McKay,T,Texas
+237,1970,NFL,2,31,HOU,Lee Brooks,DT,Texas
+238,1970,NFL,2,50,OAK,Ted Koy,TE,Texas
+239,1969,NFL,3,69,PHI,Bill Bradley,DB,Texas
+240,1969,NFL,5,130,NYJ,Chris Gilbert,RB,Texas
+241,1969,NFL,14,353,CHI,Ronnie Ehrig,DB,Texas
+242,1969,NFL,16,405,HOU,Loyd Wainscott,LB,Texas
+243,1968,NFL,6,139,CIN,Howard Fest,G,Texas
+244,1968,NFL,15,398,NYJ,Ronnie Ehrig,DB,Texas
+245,1967,NFL,7,171,NYJ,John Elliott,DT,Texas
+246,1967,NFL,7,173,SDG,Dave Conway,K,Texas
+247,1967,NFL,8,196,NYJ,Gene Bledsoe,G,Texas
+248,1966,NFL,1,1,ATL,Tommy Nobis,LB,Texas
+249,1966,AFL,1,5,HOU,Tommy Nobis,LB,Texas
+250,1966,AFL,2,17,SDG,Diron Talbert,DT,Texas
+251,1966,NFL,5,66,RAM,Diron Talbert,DT,Texas
+252,1966,AFL,8,68,NYJ,Pete Lammons,TE,Texas
+253,1966,NFL,7,104,NYG,Phil Harris,DB,Texas
+254,1966,NFL,14,213,CLE,Pete Lammons,TE,Texas
+255,1965,AFL,3,18,HOU,Ernie Koy,RB,Texas
+256,1965,AFL,5,36,NYJ,George Sauer,SE,Texas
+257,1965,NFL,11,141,NYG,Ernie Koy,RB,Texas
+258,1965,NFL,14,183,NYG,Olen Underwood,LB,Texas
+259,1964,NFL,1,4,DAL,Scott Appleton,DT,Texas
+260,1964,AFL,1,6,HOU,Scott Appleton,DT,Texas
+261,1964,AFL,6,42,KAN,Duke Carlisle,DB,Texas
+262,1964,NFL,5,60,GNB,Duke Carlisle,B,Texas
+263,1964,AFL,20,153,KAN,Sandy Sands,E,Texas
+264,1964,NFL,12,159,MIN,Sandy Sands,E,Texas
+265,1963,AFL,2,11,DEN,Ray Poage,TE,Texas
+266,1963,AFL,3,22,HOU,Jerry Cook,HB,Texas
+267,1963,NFL,3,31,MIN,Ray Poage,TE,Texas
+268,1963,NFL,6,75,BAL,Jerry Cook,B,Texas
+269,1963,AFL,12,96,NYJ,Tommy Lucas,E,Texas
+270,1963,AFL,21,166,HOU,Staley Faulkner,T,Texas
+271,1963,NFL,14,191,CLE,Staley Faulkner,T,Texas
+272,1963,NFL,20,272,DAL,Tommy Lucas,E,Texas
+273,1962,AFL,10,75,DTX,Jimmy Saxton,HB,Texas
+274,1962,AFL,10,79,HOU,Bob Moses,E,Texas
+275,1962,NFL,7,89,PIT,Jack Collins,HB,Texas
+276,1962,AFL,12,95,HOU,Jack Collins,HB,Texas
+277,1962,NFL,11,146,STL,Jimmy Saxton,HB,Texas
+278,1962,NFL,13,172,DAL,Bob Moses,E,Texas
+279,1962,AFL,34,271,HOU,Don Talbert,T,Texas
+280,1961,AFL,5,40,HOU,Monte Lee,LB,Texas
+281,1961,NFL,8,100,DAL,Don Talbert,T,Texas
+282,1960,AFL,,0,BUF,Rene Ramirez,HB,Texas
+283,1960,AFL,,0,BUF,Babe Dreymala,T,Texas
+284,1960,AFL,,0,DEN,Maurice Doke,G,Texas
+285,1960,AFL,,0,DEN,Mike Dowdle,LB,Texas
+286,1960,AFL,,0,NYT,Larry Stephens,DE,Texas
+287,1960,AFL,,0,HOU,Clair Branch,HB,Texas
+288,1960,AFL,,0,HOU,Jerry Muennink,C,Texas
+289,1960,AFL,,0,OAK,Bobby Lackey,QB,Texas
+290,1960,AFL,,0,OAK,George Blanch,HB,Texas
+291,1960,NFL,2,18,CLE,Larry Stephens,DE,Texas
+292,1960,NFL,8,92,PHI,Monte Lee,LB,Texas
+293,1960,NFL,15,179,SFO,Mike Dowdle,LB,Texas
+294,1959,NFL,28,328,DET,Vince Matthews,B,Texas
+295,1959,NFL,29,345,CHI,Eddie Southern,E,Texas
+296,1958,NFL,20,238,NYG,Joe Clements,B,Texas
+297,1958,NFL,30,354,RAM,Walt Fondren,B,Texas
+298,1957,NFL,15,170,PHI,Mort Moriarty,E,Texas
+299,1956,NFL,1,10,CHI,Menan (Tex) Schriewer,E,Texas
+300,1956,NFL,5,55,BAL,Herb Gray,E,Texas
+301,1956,NFL,19,222,PHI,Delano Womack,B,Texas
+302,1956,NFL,24,286,WAS,Johnny Tatum,C,Texas
+303,1955,NFL,2,22,PHI,Buck Lansford,G,Texas
+304,1955,NFL,5,55,RAM,Edward Kelley,DB,Texas
+305,1955,NFL,6,70,PHI,Billy Quinn,B,Texas
+306,1955,NFL,13,151,RAM,Dave Parkinson,B,Texas
+307,1955,NFL,15,171,BAL,Jerry Peterson,DT,Texas
+308,1955,NFL,20,237,SFO,Glen Dyer,B,Texas
+309,1954,NFL,9,105,PHI,Phil Branch,G,Texas
+310,1954,NFL,13,150,CHI,Julius Seaholm,G,Texas
+311,1954,NFL,16,188,WAS,Gilmer Spring,E,Texas
+312,1953,NFL,1,10,SFO,Tom Stolhandske,LB,Texas
+313,1953,NFL,1,13,DET,Harley Sewell,G,Texas
+314,1953,NFL,4,44,GNB,Gib Dawson,HB,Texas
+315,1953,NFL,8,96,CLE,Carlton Massey,DE,Texas
+316,1953,NFL,15,177,SFO,Charley Genthner,T,Texas
+317,1953,NFL,17,200,GNB,Bill Georges,E,Texas
+318,1952,NFL,3,28,GNB,Bobby Dillon,DB,Texas
+319,1952,NFL,4,47,NYG,Don Menasco,DB,Texas
+320,1952,NFL,9,98,DTX,Jim Lansford,T,Texas
+321,1952,NFL,9,109,RAM,Byron Townsend,B,Texas
+322,1952,NFL,12,135,GNB,Bill Wilson,T,Texas
+323,1952,NFL,12,143,NYG,Dick Ochoa,B,Texas
+324,1952,NFL,14,158,NYG,Paul Williams,E,Texas
+325,1952,NFL,14,162,PIT,June Davis,G,Texas
+326,1952,NFL,20,230,NYG,John Adams,E,Texas
+327,1952,NFL,22,263,NYG,Bob Raley,B,Texas
+328,1952,NFL,30,359,NYG,Joe Arnold,G,Texas
+329,1951,NFL,1,11,RAM,Bud McFadin,DT,Texas
+330,1951,NFL,2,22,NYY,Ken Jackson,T,Texas
+331,1951,NFL,7,85,NYG,Joel Williams,C,Texas
+332,1951,NFL,15,182,NYG,Gene Vykukal,T,Texas
+333,1951,NFL,17,203,NYY,Dick Rowan,C,Texas
+334,1951,NFL,21,255,CLE,Ray Stone,E,Texas
+335,1951,NFL,25,297,DET,Dick Harris,C,Texas
+336,1950,NFL,3,33,NYG,Randy Clay,HB,Texas
+337,1950,NFL,4,51,RAM,Ben Procter,E,Texas
+338,1950,NFL,8,93,BCL,Dick Harris,C,Texas
+339,1950,NFL,10,119,BCL,Errol Fry,G,Texas
+340,1950,NFL,13,158,BCL,Ray Stone,E,Texas
+341,1950,NFL,25,322,CHI,Perry Samuels,B,Texas
+342,1950,NFL,26,330,DET,Bobby Coy Lee,B,Texas
+343,1950,NFL,28,364,CLE,Billy Pyle,B,Texas
+344,1949,NFL,1,11,CHI,Dick Harris,C,Texas
+345,1949,NFL,10,98,WAS,Vic Vasicek,LB,Texas
+346,1948,NFL,1,3,CHI,Bobby Layne,QB,Texas
+347,1948,NFL,1,10,CHI,Max Bumgardner,DE,Texas
+348,1948,NFL,3,22,PHI,Paul Campbell,QB,Texas
+349,1948,NFL,15,135,CRD,George Petrovich,G,Texas
+350,1948,NFL,16,141,GNB,Travis Raven,B,Texas
+351,1948,NFL,17,151,WAS,Dale Schwartzkopf,E,Texas
+352,1948,NFL,19,171,GNB,Charley Tatom,T,Texas
+353,1948,NFL,21,190,RAM,Ray Borneman,B,Texas
+354,1948,NFL,21,194,CHI,Ralph (Peppy) Blount,E,Texas
+355,1948,NFL,22,198,WAS,Joel Williams,C,Texas
+356,1948,NFL,30,276,NYG,Ed Kelley,T,Texas
+357,1947,NFL,2,13,BOS,Walt Heap,B,Texas
+358,1947,NFL,6,45,CHI,Harlan Wetz,T,Texas
+359,1947,NFL,8,59,WAS,Hank Harris,G,Texas
+360,1947,NFL,19,174,NYG,Frank Guess,B,Texas
+361,1947,NFL,20,184,NYG,Tom Landry,DB,Texas
+362,1947,NFL,20,185,CHI,Bill Cromer,B,Texas
+363,1947,NFL,23,215,CHI,Al Lawler,HB,Texas
+364,1947,NFL,24,217,BOS,Ed Heap,T,Texas
+365,1947,NFL,28,265,CHI,Joe Billy Baumgardner,HB,Texas
+366,1946,NFL,7,55,NYG,Jim Plyler,T,Texas
+367,1945,NFL,13,126,CHI,Ralph Ellsworth,B,Texas
+368,1945,NFL,19,196,NYG,Glenn Morries,T,Texas
+369,1945,NFL,27,276,CRD,Don Fambrough,B,Texas
+370,1945,NFL,27,281,CHI,Ray Jones,B,Texas
+371,1944,NFL,2,13,BKN,Jim Callahan,TB,Texas
+372,1944,NFL,3,18,BKN,Ralph Park,B,Texas
+373,1944,NFL,5,36,PHI,Joe Parker,E,Texas
+374,1944,NFL,7,61,WAS,Hal Fischer,G,Texas
+375,1944,NFL,8,67,BKN,Jack Sachse,C,Texas
+376,1944,NFL,16,158,NYG,Ralph Ellsworth,B,Texas
+377,1944,NFL,17,165,CRD,Joe Magliolo,LB,Texas
+378,1944,NFL,18,180,NYG,Marcel Gres,T,Texas
+379,1944,NFL,21,209,CRD,Jack West,E,Texas
+380,1944,NFL,23,232,BKN,Bucky Gillenwater,T,Texas
+381,1944,NFL,28,296,BOS,Aubrey Gill,C,Texas
+382,1944,NFL,32,330,BOS,Walton Roberts,B,Texas
+383,1943,NFL,5,38,GNB,Roy McKay,TB,Texas
+384,1943,NFL,7,53,CRD,Stan Mauldin,T,Texas
+385,1943,NFL,10,82,PHI,Zuehl Conoly,G,Texas
+386,1943,NFL,18,167,PHP,Jackie Field,B,Texas
+387,1943,NFL,25,232,PHI,Joe Schwarting,E,Texas
+388,1943,NFL,27,257,PHP,Jack Freeman,G,Texas
+389,1943,NFL,29,272,PHI,Wally Scott,E,Texas
+390,1943,NFL,29,279,CHI,Lou Wayne,E,Texas
+391,1943,NFL,30,287,PHP,Fritz Lobpries,G,Texas
+392,1942,NFL,1,6,WAS,Spec Sanders,TB,Texas
+393,1942,NFL,2,11,PIT,Vern Martin,BB,Texas
+394,1942,NFL,4,26,PIT,Mal Kutner,E,Texas
+395,1942,NFL,6,42,RAM,Mike Sweeney,E,Texas
+396,1942,NFL,6,44,CRD,Chal Daniel,G,Texas
+397,1942,NFL,8,67,BKN,Preston Flanagan,E,Texas
+398,1942,NFL,11,93,PHI,Noble Doss,HB,Texas
+399,1942,NFL,14,128,NYG,Pete Layden,B,Texas
+400,1942,NFL,15,138,NYG,Buddy Jungmichel,G,Texas
+401,1942,NFL,17,154,CRD,Jackie Crain,B,Texas
+402,1941,NFL,8,69,BKN,Glenn Jackson,C,Texas
+403,1941,NFL,10,81,PHI,Don Williams,G,Texas
+404,1940,NFL,5,35,RAM,Park Myers,T,Texas
+405,1939,NFL,22,200,NYG,Jack Rhodes,G,Texas
+406,1938,NFL,3,19,PIT,Red Wolfe,FB,Texas
+1,1991,NFL,5,138,BUF,Shawn Wilbourn,DB,Long Beach State
+2,1989,NFL,4,87,GNB,Jeff Graham,QB,Long Beach State
+3,1989,NFL,12,322,SEA,R.J. Kors,DB,Long Beach State
+4,1987,NFL,3,66,PIT,Charles Lockett,WR,Long Beach State
+5,1986,NFL,4,99,CIN,Doug Gaynor,QB,Long Beach State
+6,1985,NFL,3,69,SDG,John Hendy,DB,Long Beach State
+7,1984,NFL,3*,67,MIN,David Howard,LB,Long Beach State
+8,1984,NFL,8,216,SEA,John Puzar,C,Long Beach State
+9,1982,NFL,9,235,ATL,Mike Horan,P,Long Beach State
+10,1981,NFL,3,60,NYJ,Ben Rudolph,DT,Long Beach State
+11,1981,NFL,7,170,SEA,Ron Johnson,WR,Long Beach State
+12,1978,NFL,1,24,SFO,Dan Bunz,LB,Long Beach State
+13,1977,NFL,4,92,KAN,Mark Bailey,RB,Long Beach State
+14,1976,NFL,3,68,DET,Russ Bolinger,G,Long Beach State
+15,1976,NFL,9,253,DET,Leanell Jones,TE,Long Beach State
+16,1976,NFL,10,273,PHI,Herb Lusk II,RB,Long Beach State
+17,1975,NFL,8,202,STL,Louis Lauriano,DB,Long Beach State
+18,1974,NFL,14,341,SDG,Greg Bailey,DB,Long Beach State
+19,1974,NFL,15,372,SFO,Leonard Gray,TE,Long Beach State
+20,1973,NFL,3,63,STL,Terry Metcalf,RB,Long Beach State
+21,1972,NFL,6,153,KAN,John Kahler,DE,Long Beach State
+22,1972,NFL,7,167,CHI,Jim Fassel,QB,Long Beach State
+23,1972,NFL,11,270,SDG,John Turner,TE,Long Beach State
+24,1972,NFL,16,407,RAM,Jim Kirby,WR,Long Beach State
+25,1971,NFL,1,13,SDG,Leon Burns,RB,Long Beach State
+26,1971,NFL,12,297,WAS,Jeff Severson,DB,Long Beach State
+27,1970,NFL,6,146,SDG,Billy Parks,WR,Long Beach State
+28,1968,NFL,9,220,CIN,Phil Johnson,DB,Long Beach State
+29,1967,NFL,9,225,SDG,Steve Newell,WR,Long Beach State
+30,1966,AFL,15,135,SDG,Shelly Novack,E,Long Beach State
+31,1966,AFL,17,153,SDG,Ron Ogle,DT,Long Beach State
+32,1966,NFL,12,173,DAL,Les Shy,RB,Long Beach State
+33,1965,AFL,11,87,BOS,Roy Schmidt,G,Long Beach State
+34,1965,NFL,13,178,GNB,Roy Schmidt,G,Long Beach State
+35,1962,AFL,29,226,DEN,Lynn Hoyem,G,Long Beach State
+36,1961,NFL,19,254,DAL,Lynn Hoyem,G,Long Beach State
+1,2023,NFL,6,198,SEA,Jerrick Reed,S,New Mexico
+2,2018,NFL,7,229,MIA,Jason Sanders,K,New Mexico
+3,2010,NFL,7,229,WAS,Erik Cook,C,New Mexico
+4,2009,NFL,4,112,HOU,Glover Quin,DB,New Mexico
+5,2009,NFL,6,200,NYG,DeAndre Wright,DB,New Mexico
+6,2008,NFL,4,106,BAL,Marcus Smith,WR,New Mexico
+7,2007,NFL,3,68,TAM,Quincy Black,LB,New Mexico
+8,2006,NFL,2,51,MIN,Ryan Cook,C,New Mexico
+9,2006,NFL,7,216,BUF,Terrance Pennington,T,New Mexico
+10,2005,NFL,4,134,STL,Claude Terrell,G,New Mexico
+11,2005,NFL,6,176,CLE,Nick Speegle,LB,New Mexico
+12,2002,NFL,5,136,HOU,Jarrod Baxter,FB,New Mexico
+13,2001,NFL,6,194,BAL,Joe Maese,C,New Mexico
+14,2000,NFL,1,9,CHI,Brian Urlacher,LB,New Mexico
+15,2000,NFL,7,226,NWE,Casey Tisdale,LB,New Mexico
+16,1998,NFL,3,80,MIN,Ramos McDonald,DB,New Mexico
+17,1998,NFL,6,156,GNB,Scott McGarrahan,DB,New Mexico
+18,1996,NFL,3,73,CAR,Winslow Oliver,RB,New Mexico
+19,1996,NFL,6,173,NWE,Chris Griffin,TE,New Mexico
+20,1995,NFL,3,70,DET,David Sloan,TE,New Mexico
+21,1995,NFL,3,80,ARI,Stoney Case,QB,New Mexico
+22,1991,NFL,12,329,KAN,Ron Shipley,G,New Mexico
+23,1990,NFL,6,140,NYJ,Terance Mathis,WR,New Mexico
+24,1985,NFL,10,269,DEN,Buddy Funck,QB,New Mexico
+25,1984,NFL,7,178,DET,Jimmie Carter,LB,New Mexico
+26,1984,NFL,7,192,NWE,Derwin Williams,WR,New Mexico
+27,1981,NFL,4,96,MIA,Brad Wright,QB,New Mexico
+28,1981,NFL,5,127,PIT,Ricky Martin,WR,New Mexico
+29,1981,NFL,12,316,CHI,Bob Shupryt,LB,New Mexico
+30,1980,NFL,3,81,STL,Charles Baker,LB,New Mexico
+31,1980,NFL,4,106,HOU,Chris Combs,TE,New Mexico
+32,1979,NFL,8,195,KAN,Mike Williams,TE,New Mexico
+33,1977,NFL,1,21,PIT,Robin Cole,LB,New Mexico
+34,1977,NFL,5,137,DAL,Andy Frederick,T,New Mexico
+35,1977,NFL,7,180,MIA,Bruce Herron,LB,New Mexico
+36,1977,NFL,9,235,KAN,Dave Green,T,New Mexico
+37,1976,NFL,4,93,SEA,Steve Myer,QB,New Mexico
+38,1976,NFL,17,477,BUF,Bob Berg,K,New Mexico
+39,1974,NFL,6,134,GNB,Don Woods,RB,New Mexico
+40,1973,NFL,9,221,MIN,Larry Dibbles,DE,New Mexico
+41,1973,NFL,17,427,RAM,Fred Henry,RB,New Mexico
+42,1971,NFL,3,69,DAL,Sam Scarber,RB,New Mexico
+43,1971,NFL,10,259,DAL,Rodney Wallace,T,New Mexico
+44,1970,NFL,11,282,RAM,David Bookert,RB,New Mexico
+45,1969,NFL,13,336,DAL,Rene Matison,FL,New Mexico
+46,1968,NFL,9,222,DEN,Paul Smith,DT,New Mexico
+47,1968,NFL,12,316,CHI,Emilio Vallez,TE,New Mexico
+48,1967,NFL,12,309,PHI,Ben Monroe,QB,New Mexico
+49,1966,AFL,14,123,NYJ,Stan Quintana,DB,New Mexico
+50,1966,NFL,11,162,MIN,Stan Quintana,DB,New Mexico
+51,1965,AFL,10,79,BOS,Dave Hettema,T,New Mexico
+52,1965,AFL,14,108,NYJ,Gary Plumlee,DT,New Mexico
+53,1965,NFL,16,212,SFO,Dave Hettema,T,New Mexico
+54,1964,NFL,15,205,STL,Cliff Stallings,B,New Mexico
+55,1963,NFL,15,200,PHI,George Heard,E,New Mexico
+56,1960,AFL,,0,BUF,Don Black,E,New Mexico
+57,1960,AFL,,0,NYT,Don Perkins,FB,New Mexico
+58,1960,AFL,,0,HOU,Bob Crandall,HB,New Mexico
+59,1960,AFL,,0,HOU,Ron Morrison,DT,New Mexico
+60,1960,NFL,7,73,RAM,Ron Morrison,DT,New Mexico
+61,1960,NFL,9,106,BAL,Don Perkins,FB,New Mexico
+62,1958,NFL,29,341,CHI,Glen Hakes,G,New Mexico
+63,1955,NFL,12,145,CLE,Jack Eaton,T,New Mexico
+64,1955,NFL,17,194,CRD,Larry White,C,New Mexico
+65,1953,NFL,14,170,DET,Jack Barger,T,New Mexico
+66,1953,NFL,28,328,CRD,Mike Prokopiak,B,New Mexico
+67,1952,NFL,27,317,PHI,Chuck Hill,B,New Mexico
+68,1949,NFL,12,112,DET,Virgil Boteler,C,New Mexico
+69,1948,NFL,19,174,PHI,Rudy Krall,B,New Mexico
+70,1946,NFL,13,113,PIT,George Poppin,T,New Mexico
+71,1945,NFL,27,283,PHI,Bill Thompson,T,New Mexico
+72,1939,NFL,7,51,CRD,Bill Dwyer,B,New Mexico
+73,1939,NFL,18,167,DET,Dutch Niemant,B,New Mexico
+1,2024,NFL,2,63,KAN,Kingsley Suamataia,OL,Brigham Young
+2,2023,NFL,4,106,IND,Blake Freeland,OL,Brigham Young
+3,2023,NFL,5,164,MIN,Jaren Hall,QB,Brigham Young
+4,2023,NFL,5,177,LAR,Puka Nacua,WR,Brigham Young
+5,2022,NFL,5,151,ATL,Tyler Allgeier,RB,Brigham Young
+6,2021,NFL,1,2,NYJ,Zach Wilson,QB,Brigham Young
+7,2021,NFL,3,70,CAR,Brady Christensen,OL,Brigham Young
+8,2021,NFL,7,250,CHI,Khyiris Tonga,DL,Brigham Young
+9,2021,NFL,7,251,TAM,Chris Wilcox,DB,Brigham Young
+10,2021,NFL,7,258,WAS,Dax Milne,WR,Brigham Young
+11,2019,NFL,3,80,CLE,Sione Takitaki,LB,Brigham Young
+12,2018,NFL,3,70,SFO,Fred Warner,OLB,Brigham Young
+13,2017,NFL,4,134,GNB,Jamaal Williams,RB,Brigham Young
+14,2016,NFL,3,70,BAL,Bronson Kaufusi,DE,Brigham Young
+15,2014,NFL,2,40,DET,Kyle Van Noy,LB,Brigham Young
+16,2013,NFL,1,5,DET,Ezekiel Ansah,DE,Brigham Young
+17,2010,NFL,7*,1,CHI,Harvey Unga,RB,Brigham Young
+18,2010,NFL,4,114,BAL,Dennis Pitta,TE,Brigham Young
+19,2009,NFL,4,127,IND,Austin Collie,WR,Brigham Young
+20,2009,NFL,7,215,CIN,Fui Vakapuna,RB,Brigham Young
+21,2008,NFL,4,123,NYG,Bryan Kehl,LB,Brigham Young
+22,2007,NFL,2,40,MIA,John Beck,QB,Brigham Young
+23,2006,NFL,7,218,ARI,Todd Watkins,WR,Brigham Young
+24,2005,NFL,4,125,GNB,Brady Poppinga,LB,Brigham Young
+25,2005,NFL,5,172,PHI,Scott Young,G,Brigham Young
+26,2005,NFL,7,228,PIT,Shaun Nua,DE,Brigham Young
+27,2004,NFL,7,240,NOR,Colby Bockwoldt,LB,Brigham Young
+28,2003,NFL,6,204,OAK,Dustin Rykert,T,Brigham Young
+29,2003,NFL,7,234,NWE,Spencer Nead,FB,Brigham Young
+30,2002,NFL,2,55,OAK,Doug Jolley,TE,Brigham Young
+31,2002,NFL,2,61,BUF,Ryan Denney,DE,Brigham Young
+32,2002,NFL,5,163,SFO,Brandon Doman,QB,Brigham Young
+33,2002,NFL,7,214,DET,Luke Staley,RB,Brigham Young
+34,2002,NFL,7,242,PIT,Brett Keisel,DE,Brigham Young
+35,2001,NFL,7,216,NWE,Owen Pochman,K,Brigham Young
+36,2001,NFL,7,246,ARI,Tevita Ofahengaue,TE,Brigham Young
+37,2000,NFL,1,28,IND,Rob Morris,LB,Brigham Young
+38,2000,NFL,3,93,TEN,Byron Frisch,DE,Brigham Young
+39,2000,NFL,5,138,IND,Matt Johnson,G,Brigham Young
+40,1999,NFL,1,14,KAN,John Tait,T,Brigham Young
+41,1999,NFL,6,188,OAK,Daren Yancey,DT,Brigham Young
+42,1999,NFL,7,244,MIA,Joe Wong,G,Brigham Young
+43,1998,NFL,5,149,NYJ,Eric Bateman,T,Brigham Young
+44,1998,NFL,6,183,NYJ,Dustin Johnson,FB,Brigham Young
+45,1998,NFL,7,211,NWE,Jason Andersen,G,Brigham Young
+46,1997,NFL,6,174,SEA,Itula Mili,TE,Brigham Young
+47,1996,NFL,3,95,DAL,Mike Ulufale,DT,Brigham Young
+48,1995,NFL,3,87,CHI,Evan Pilgrim,G,Brigham Young
+49,1995,NFL,4,127,SFO,Tim Hanshaw,G,Brigham Young
+50,1995,NFL,6,181,ATL,Travis Hall,DT,Brigham Young
+51,1995,NFL,6,190,OAK,Eli Herring,T,Brigham Young
+52,1995,NFL,7,213,CIN,John Walsh,QB,Brigham Young
+53,1993,NFL,4,92,IND,Derwin Gray,DB,Brigham Young
+54,1992,NFL,9,230,GNB,Ty Detmer,QB,Brigham Young
+55,1991,NFL,6,143,RAM,Neal Fort,T,Brigham Young
+56,1991,NFL,7,172,ATL,Brian Mitchell,DB,Brigham Young
+57,1991,NFL,11,295,CIN,Chris Smith,TE,Brigham Young
+58,1990,NFL,3,76,WAS,Mohammed Elewonibi,T,Brigham Young
+59,1989,NFL,3,80,MIN,John Hunter,T,Brigham Young
+60,1989,NFL,8,210,NWE,Rodney Rice,DB,Brigham Young
+61,1989,NFL,8,215,RAM,Warren Wheat,G,Brigham Young
+62,1988,NFL,5,126,MIA,Rodney Thomas,DB,Brigham Young
+63,1988,NFL,12,313,NYG,David Futrell,DT,Brigham Young
+64,1988,NFL,12,319,PHI,Steve Kaufusi,DE,Brigham Young
+65,1987,NFL,1,11,NOR,Shawn Knight,DE,Brigham Young
+66,1987,NFL,1,17,CIN,Jason Buck,DE,Brigham Young
+67,1987,NFL,7,170,IND,Mark Bellini,WR,Brigham Young
+68,1987,NFL,9,249,CHI,Lakei Heimuli,RB,Brigham Young
+69,1986,NFL,3,72,GNB,Robbie Bosco,QB,Brigham Young
+70,1986,NFL,5,123,CIN,Leon White,LB,Brigham Young
+71,1986,NFL,8,213,WAS,Kurt Gouveia,LB,Brigham Young
+72,1986,NFL,9,230,CIN,Cary Whittingham,LB,Brigham Young
+73,1986,NFL,10,254,STL,Vai Sikahema,RB,Brigham Young
+74,1986,NFL,11,305,CHI,Glen Kozlowski,WR,Brigham Young
+75,1986,NFL,12,320,SDG,Jeff Sprowls,DB,Brigham Young
+76,1985,NFL,1,28,NWE,Trevor Matich,C,Brigham Young
+77,1985,NFL,4,106,MIN,Kyle Morrell,DB,Brigham Young
+78,1985,NFL,5,131,STL,Louis Wong,G,Brigham Young
+79,1985,NFL,5,138,HOU,Lee Johnson,P,Brigham Young
+80,1985,NFL,7,184,DAL,Jim Herrmann,DE,Brigham Young
+81,1984,NFL,1*,1,TAM,Steve Young,QB,Brigham Young
+82,1984,NFL,1*,22,SEA,Gordon Hudson,TE,Brigham Young
+83,1984,NFL,1,24,SFO,Todd Shell,LB,Brigham Young
+84,1984,NFL,11,307,SFO,Kirk Pendleton,WR,Brigham Young
+85,1983,NFL,4,90,SFO,Tom Holmoe,DB,Brigham Young
+86,1983,NFL,12,329,SDG,Chuck Ehin,NT,Brigham Young
+87,1982,NFL,1,5,CHI,Jim McMahon,QB,Brigham Young
+88,1982,NFL,4,106,DEN,Dan Plater,WR,Brigham Young
+89,1981,NFL,2,42,DEN,Clay Brown,TE,Brigham Young
+90,1981,NFL,3,81,DAL,Glen Titensor,G,Brigham Young
+91,1981,NFL,4,87,SEA,Scott Phillips,WR,Brigham Young
+92,1981,NFL,4,106,HOU,Nick Eyre,T,Brigham Young
+93,1981,NFL,6,166,NOR,Glen Redd,LB,Brigham Young
+94,1981,NFL,8,195,NYJ,Lloyd Jones,WR,Brigham Young
+95,1981,NFL,8,196,SEA,Eric Lane,RB,Brigham Young
+96,1980,NFL,1,15,OAK,Marc Wilson,QB,Brigham Young
+97,1980,NFL,2,55,WAS,Mat Mendenhall,DE,Brigham Young
+98,1979,NFL,8,199,STL,Larry Miller,LB,Brigham Young
+99,1979,NFL,10,275,PIT,Tod Thompson,TE,Brigham Young
+100,1978,NFL,2,56,DAL,Todd Christensen,TE,Brigham Young
+101,1978,NFL,3,73,HOU,Gifford Nielsen,QB,Brigham Young
+102,1978,NFL,6,158,CHI,Mekeli Ieremia,DT,Brigham Young
+103,1978,NFL,9,241,PIT,Lance Reynolds,T,Brigham Young
+104,1977,NFL,5,136,NOR,Dave Hubbard,T,Brigham Young
+105,1977,NFL,8,199,NYG,Bill Rice,DT,Brigham Young
+106,1977,NFL,11,295,SFO,Brian Billick,TE,Brigham Young
+107,1976,NFL,3,83,STL,Brad Oates,T,Brigham Young
+108,1976,NFL,6,169,ATL,Stan Varner,DT,Brigham Young
+109,1976,NFL,8,222,KAN,Orrin Olsen,C,Brigham Young
+110,1976,NFL,10,267,TAM,Sid Smith,LB,Brigham Young
+111,1976,NFL,17,485,RAM,Gary Shaw,DB,Brigham Young
+112,1975,NFL,3,64,CIN,Gary Sheide,QB,Brigham Young
+113,1975,NFL,3,74,SFO,Wayne Baker,DT,Brigham Young
+114,1975,NFL,4,93,BAL,Paul Linford,DT,Brigham Young
+115,1974,NFL,10,254,PIT,Dave Atkinson,DB,Brigham Young
+116,1974,NFL,14,359,DAL,Doug Richards,DB,Brigham Young
+117,1973,NFL,2,46,DAL,Golden Richards,WR,Brigham Young
+118,1973,NFL,3,54,DEN,Paul Howard,G,Brigham Young
+119,1973,NFL,3,66,NOR,Pete Van Valkenberg,RB,Brigham Young
+120,1973,NFL,15,383,DET,Dan Hansen,DB,Brigham Young
+121,1972,NFL,2,38,PIT,Gordon Gravelle,T,Brigham Young
+122,1972,NFL,4,82,STL,Jeff Lyman,LB,Brigham Young
+123,1971,NFL,3,58,NYJ,Chris Farasopoulos,DB,Brigham Young
+124,1970,NFL,14,349,DEN,Jeff Slipp,DE,Brigham Young
+125,1969,NFL,8,198,SFO,Mike Loper,T,Brigham Young
+126,1968,NFL,5,120,DET,Phil Odle,WR,Brigham Young
+127,1968,NFL,9,233,SFO,Casey Boyett,E,Brigham Young
+128,1968,NFL,13,332,BOS,Max Huber,T,Brigham Young
+129,1968,NFL,17,449,SFO,Dennis Patera,K,Brigham Young
+130,1967,NFL,3,64,WAS,Curg Belcher,DB,Brigham Young
+131,1967,NFL,6,142,CHI,Virgil Carter,QB,Brigham Young
+132,1967,NFL,11,269,DEN,Lou Andrus,LB,Brigham Young
+133,1967,NFL,14,363,OAK,Casey Boyett,E,Brigham Young
+134,1966,AFL,10,84,BOS,Dennis Brewster,T,Brigham Young
+135,1966,NFL,6,85,CHI,Dennis Brewster,T,Brigham Young
+136,1964,AFL,21,168,SDG,Allen Robinson,HB,Brigham Young
+137,1964,NFL,16,216,DET,Allan Robinson,HB,Brigham Young
+138,1963,NFL,17,236,DET,Gene Frantz,B,Brigham Young
+139,1962,AFL,19,146,OAK,Kent Horne,T,Brigham Young
+140,1962,NFL,11,152,PHI,George Horne,T,Brigham Young
+141,1960,AFL,,0,DEN,Lonnie Dennis,G,Brigham Young
+142,1960,AFL,,0,DTX,Howard Ringwood,HB,Brigham Young
+143,1960,AFL,,0,DTX,John Kapele,DE,Brigham Young
+144,1960,NFL,7,78,PIT,Lonnie Dennis,G,Brigham Young
+145,1960,NFL,10,114,PIT,John Kapele,DE,Brigham Young
+146,1957,NFL,18,215,DET,Jay Weenig,G,Brigham Young
+147,1955,NFL,17,200,NYG,Bob Bills,B,Brigham Young
+148,1954,NFL,22,265,DET,Dewey Brundage,DE,Brigham Young
+149,1952,NFL,14,165,DET,Ray Oliverson,B,Brigham Young
+150,1951,NFL,14,162,SFO,Rex Berry,DB,Brigham Young
+151,1949,NFL,16,152,DET,Kimball Merrill,T,Brigham Young
+152,1948,NFL,31,289,GNB,Gayland (Mike) Mills,E,Brigham Young
+153,1947,NFL,16,136,DET,Reed Nilsen,C,Brigham Young
+154,1947,NFL,19,171,CRD,Scotty Deeds,B,Brigham Young
+155,1947,NFL,28,257,BOS,Dick Chatterton,B,Brigham Young
+156,1946,NFL,14,124,CHI,Dick Chatterton,B,Brigham Young
+157,1942,NFL,16,146,WAS,Dean (Dee) Chipman,B,Brigham Young
+158,1942,NFL,17,151,PIT,Garth Chamberlain,G,Brigham Young
+159,1939,NFL,21,192,DET,Merrill Waters,E,Brigham Young
+160,1938,NFL,9,73,BKN,John Stringham,B,Brigham Young
+1,2022,NFL,3,87,ARI,Cameron Thomas,DE,San Diego State
+2,2022,NFL,4,112,NYG,Daniel Bellinger,TE,San Diego State
+3,2022,NFL,6,180,BUF,Matt Araiza,P,San Diego State
+4,2022,NFL,6,186,CHI,Zachary Thomas,OL,San Diego State
+5,2021,NFL,4,108,ATL,Darren Hall,CB,San Diego State
+6,2020,NFL,5,156,WAS,Keith Ismael,C,San Diego State
+7,2019,NFL,3,86,HOU,Kahale Warring,TE,San Diego State
+8,2018,NFL,1,27,SEA,Rashaad Penny,RB,San Diego State
+9,2018,NFL,7,237,DET,Nick Bawden,RB,San Diego State
+10,2017,NFL,4,122,BAL,Nico Siragusa,G,San Diego State
+11,2017,NFL,4,132,PHI,Donnel Pumphrey,RB,San Diego State
+12,2017,NFL,5,149,ATL,Damontae Kazee,CB,San Diego State
+13,2015,NFL,4,130,SEA,Terry Poole,G,San Diego State
+14,2014,NFL,5,152,NYG,Nat Berhe,DB,San Diego State
+15,2014,NFL,6,208,SEA,Eric Pinkins,DB,San Diego State
+16,2013,NFL,2,47,DAL,Gavin Escobar,TE,San Diego State
+17,2013,NFL,3,68,CLE,Leon McFadden,DB,San Diego State
+18,2013,NFL,7,209,OAK,Brice Butler,WR,San Diego State
+19,2012,NFL,3,67,DEN,Ronnie Hillman,RB,San Diego State
+20,2012,NFL,4,129,OAK,Miles Burris,LB,San Diego State
+21,2012,NFL,6,185,ARI,Ryan Lindley,QB,San Diego State
+22,2012,NFL,7,218,KAN,Jerome Long,DT,San Diego State
+23,2011,NFL,3,82,SDG,Vincent Brown,WR,San Diego State
+24,2011,NFL,7,249,ARI,DeMarco Sampson,WR,San Diego State
+25,2009,NFL,7,246,CHI,Lance Louis,G,San Diego State
+26,2008,NFL,3,94,NWE,Kevin O'Connell,QB,San Diego State
+27,2008,NFL,6,189,SEA,Tyler Schmitt,LB,San Diego State
+28,2008,NFL,7,217,GNB,Brett Swain,WR,San Diego State
+29,2008,NFL,7,226,OAK,Chaz Schilens,WR,San Diego State
+30,2006,NFL,3,94,IND,Freddy Keiaho,LB,San Diego State
+31,2006,NFL,6,190,KAN,Jeff Webb,WR,San Diego State
+32,2005,NFL,2,63,PHI,Matt McCoy,LB,San Diego State
+33,2005,NFL,3,78,OAK,Kirk Morrison,LB,San Diego State
+34,2005,NFL,4,115,GNB,Marviel Underwood,DB,San Diego State
+35,2004,NFL,5,152,DEN,Jeff Shoate,DB,San Diego State
+36,2003,NFL,5,169,MIA,J.R. Tolver,WR,San Diego State
+37,2002,NFL,2,50,HOU,Chester Pitts,T,San Diego State
+38,2002,NFL,6,197,OAK,Larry Ned,RB,San Diego State
+39,2002,NFL,6,200,GNB,Mike Houghton,G,San Diego State
+40,2000,NFL,5,149,GNB,Kabeer Gbaja-Biamila,DE,San Diego State
+41,2000,NFL,7,220,STL,Andrew Kline,G,San Diego State
+42,2000,NFL,7,240,MIN,Mike Malano,C,San Diego State
+43,1998,NFL,1,7,NOR,Kyle Turley,T,San Diego State
+44,1998,NFL,4,96,STL,Az-Zahir Hakim,WR,San Diego State
+45,1998,NFL,7,199,ATL,Ephraim Salaam,T,San Diego State
+46,1997,NFL,2,53,PIT,Will Blackwell,WR,San Diego State
+47,1997,NFL,5,150,IND,Nate Jacquet,WR,San Diego State
+48,1997,NFL,5,154,PIT,George Jones,RB,San Diego State
+49,1997,NFL,6,201,CHI,Ricky Parker,DB,San Diego State
+50,1996,NFL,5,166,OAK,La'Roi Glover,DT,San Diego State
+51,1996,NFL,7,250,WAS,DeAndre Maxwell,WR,San Diego State
+52,1995,NFL,6,204,NYG,Jamal Duff,DE,San Diego State
+53,1994,NFL,1,2,IND,Marshall Faulk,RB,San Diego State
+54,1994,NFL,2,30,CIN,Darnay Scott,WR,San Diego State
+55,1994,NFL,7,195,CIN,Ramondo Stallings,DE,San Diego State
+56,1992,NFL,2,52,CLE,Patrick Rowe,WR,San Diego State
+57,1992,NFL,6,168,WAS,Ray Rowe,TE,San Diego State
+58,1992,NFL,8,213,KAN,Jim Jennings,G,San Diego State
+59,1991,NFL,1,16,SEA,Dan McGwire,QB,San Diego State
+60,1991,NFL,4,85,CLE,Pio Sagapolutele,DT,San Diego State
+61,1991,NFL,6,142,DEN,Nick Subis,T,San Diego State
+62,1990,NFL,8,203,DET,Roman Fortin,C,San Diego State
+63,1990,NFL,12,313,DET,Robert Claiborne,WR,San Diego State
+64,1989,NFL,5,135,RAM,Alfred Jackson,WR,San Diego State
+65,1988,NFL,7,193,WAS,Harold Hicks,DB,San Diego State
+66,1988,NFL,9,246,NOR,Clarence Nunn,DB,San Diego State
+67,1988,NFL,10,274,NOR,Todd Santos,QB,San Diego State
+68,1988,NFL,12,315,WAS,Wayne Ross,P,San Diego State
+69,1988,NFL,12,326,SEA,Dave Des Rochers,T,San Diego State
+70,1987,NFL,3,62,STL,Robert Awalt,TE,San Diego State
+71,1986,NFL,2,43,CLE,Webster Slaughter,WR,San Diego State
+72,1986,NFL,4,98,GNB,Dan Knight,T,San Diego State
+73,1986,NFL,5,130,NYG,Vince Warren,WR,San Diego State
+74,1985,NFL,2,33,WAS,Tory Nixon,DB,San Diego State
+75,1985,NFL,3,62,DET,James Johnson,LB,San Diego State
+76,1985,NFL,3,71,GNB,Rich Moran,G,San Diego State
+77,1985,NFL,9,235,NYJ,Mike Waters,TE,San Diego State
+78,1984,NFL,2*,37,NYJ,Jim Sandusky,WR,San Diego State
+79,1984,NFL,3*,60,PHI,Thomas Carter,LB,San Diego State
+80,1984,NFL,3,79,BUF,Sean McNanie,DE,San Diego State
+81,1984,NFL,3*,81,DAL,Jeff Spek,TE,San Diego State
+82,1984,NFL,11,300,DET,Mike Saxon,P,San Diego State
+83,1983,NFL,3,60,DEN,Clint Sampson,WR,San Diego State
+84,1983,NFL,3,79,PIT,Todd Seabaugh,LB,San Diego State
+85,1983,NFL,4,85,BAL,Phil Smith,WR,San Diego State
+86,1983,NFL,4,111,RAM,Doug Reed,DE,San Diego State
+87,1983,NFL,10,270,TAM,Darius Durham,WR,San Diego State
+88,1982,NFL,2,48,BUF,Matt Kofler,QB,San Diego State
+89,1982,NFL,2,49,WAS,Vernon Dean,DB,San Diego State
+90,1981,NFL,6,150,CHI,Reuben Henderson,DB,San Diego State
+91,1981,NFL,12,305,NOR,Jim Wilks,DE,San Diego State
+92,1980,NFL,7,188,PHI,Terrell Ward,DB,San Diego State
+93,1980,NFL,10,263,CLE,Kevin Fidel,C,San Diego State
+94,1979,NFL,4,103,WAS,Don Warren,TE,San Diego State
+95,1979,NFL,6,156,OAK,Henry Williams,DB,San Diego State
+96,1979,NFL,8,204,CLE,Kent Perkov,DE,San Diego State
+97,1978,NFL,2,45,CIN,Deacon Turner,RB,San Diego State
+98,1978,NFL,2,53,RAM,Ron Smith,WR,San Diego State
+99,1978,NFL,3,75,MIN,Whip Walton,LB,San Diego State
+100,1978,NFL,5,116,GNB,Mike Douglass,LB,San Diego State
+101,1978,NFL,5,120,NYG,Terry Jackson,DB,San Diego State
+102,1978,NFL,5,125,ATL,Dennis Pearson,WR,San Diego State
+103,1977,NFL,11,284,NYG,Bill Helms,TE,San Diego State
+104,1976,NFL,3,73,DAL,Duke Fergerson,WR,San Diego State
+105,1976,NFL,4,107,DEN,Craig Penrose,QB,San Diego State
+106,1976,NFL,6,170,NWE,Greg Boyd,DE,San Diego State
+107,1976,NFL,11,300,PHI,Mike Gilbert,DT,San Diego State
+108,1976,NFL,13,363,DET,Mel Jacobs,WR,San Diego State
+109,1976,NFL,16,443,SFO,Reggie Lewis,DE,San Diego State
+110,1975,NFL,2,28,RAM,Monte Jackson,DB,San Diego State
+111,1974,NFL,3,68,DEN,Claudie Minor,T,San Diego State
+112,1974,NFL,6,133,SDG,Jesse Freitas,QB,San Diego State
+113,1973,NFL,1,15,CIN,Isaac Curtis,WR,San Diego State
+114,1973,NFL,4,90,NYJ,Bill Ferguson,LB,San Diego State
+115,1973,NFL,6,133,RAM,Jim Peterson,LB,San Diego State
+116,1973,NFL,12,288,PHI,Joe Lavender,DB,San Diego State
+117,1972,NFL,1,7,GNB,Willie Buchanon,DB,San Diego State
+118,1972,NFL,2,49,NWE,Tom Reynolds,WR,San Diego State
+119,1972,NFL,4,84,STL,Martin Imhof,DE,San Diego State
+120,1972,NFL,4,90,DAL,Robert West,WR,San Diego State
+121,1972,NFL,6,141,SDG,Bruce Ward,G,San Diego State
+122,1972,NFL,13,330,CLE,Brian Sipe,QB,San Diego State
+123,1972,NFL,14,361,MIN,Marv Owens,WR,San Diego State
+124,1971,NFL,2,33,ATL,Ken Burrow,WR,San Diego State
+125,1971,NFL,2,50,PHI,Henry Allison,G,San Diego State
+126,1971,NFL,5,108,PHI,Tom Shellabarger,T,San Diego State
+127,1971,NFL,6,137,ATL,Tom Hayes,DB,San Diego State
+128,1971,NFL,8,195,SDG,Leon Van Gorkum,DE,San Diego State
+129,1971,NFL,16,397,ATL,Lindsey James,RB,San Diego State
+130,1970,NFL,2,30,BUF,Dennis Shaw,QB,San Diego State
+131,1970,NFL,4,104,CIN,Billie Hayes,DB,San Diego State
+132,1970,NFL,7,166,NOR,Lon Woodard,DE,San Diego State
+133,1970,NFL,12,306,NYJ,Bill Pierson,C,San Diego State
+134,1969,NFL,1,13,NYG,Fred Dryer,DE,San Diego State
+135,1969,NFL,3,75,OAK,Lloyd Edwards,TE,San Diego State
+136,1969,NFL,7,179,KAN,Tom Nettles,FL,San Diego State
+137,1969,NFL,12,290,PIT,Doug Fisher,LB,San Diego State
+138,1968,NFL,1,9,BUF,Haven Moses,WR,San Diego State
+139,1968,NFL,5,121,GNB,Steve Duich,G,San Diego State
+140,1968,NFL,12,303,NOR,John Beck,DB,San Diego State
+141,1968,NFL,13,354,CIN,Teddy Washington,RB,San Diego State
+142,1967,NFL,1,25,GNB,Don Horn,QB,San Diego State
+143,1967,NFL,2,31,ATL,Leo Carroll,DE,San Diego State
+144,1967,NFL,2,35,PIT,Don Shy,RB,San Diego State
+145,1967,NFL,2,36,CHI,Bob Jones,WR,San Diego State
+146,1967,NFL,2,48,SDG,Bob Howard,DB,San Diego State
+147,1967,NFL,6,147,SDG,Nate Johns,FL,San Diego State
+148,1967,NFL,7,174,PHI,John Williams,DB,San Diego State
+149,1967,NFL,15,381,SDG,Craig Scoggins,E,San Diego State
+150,1966,AFL,3,26,SDG,Jeff Staggs,LB,San Diego State
+151,1966,AFL,8,70,OAK,Ray Schmautz,B,San Diego State
+152,1966,AFL,9,80,OAK,Clifton Kinney,LB,San Diego State
+153,1966,AFL,13,117,SDG,Houston Ridge,DE,San Diego State
+154,1966,NFL,11,168,GNB,Ralph Wenzel,G,San Diego State
+155,1966,NFL,13,195,MIN,Larry Martin,DT,San Diego State
+156,1965,AFL,1,6,SDG,Gary Garrison,WR,San Diego State
+157,1965,AFL,2,14,SDG,Larry Martin,DT,San Diego State
+158,1965,NFL,6,77,PHI,Gary Garrison,WR,San Diego State
+159,1965,AFL,12,94,SDG,Jim Allison,RB,San Diego State
+160,1965,AFL,12,95,BOS,Leon Standridge,E,San Diego State
+161,1965,AFL,16,126,SDG,John Godden,LB,San Diego State
+162,1965,NFL,18,240,SFO,Leon Standridge,E,San Diego State
+163,1964,AFL,17,136,SDG,John Farris,G,San Diego State
+164,1964,NFL,11,147,RAM,John Farris,G,San Diego State
+165,1964,AFL,26,203,NYJ,John Butler,FB,San Diego State
+166,1964,NFL,20,274,BAL,John Butler,FB,San Diego State
+167,1963,AFL,21,161,OAK,Neal Petties,E,San Diego State
+168,1963,NFL,14,187,BAL,Neal Petties,E,San Diego State
+169,1963,NFL,17,229,BAL,Kern Carson,HB,San Diego State
+170,1963,AFL,29,229,DEN,Kern Carson,HB,San Diego State
+171,1955,NFL,17,202,SFO,Bob Newton,G,San Diego State
+172,1954,NFL,4,46,RAM,Norm Nygaard,B,San Diego State
+173,1953,NFL,17,202,SFO,Hugh Latham,T,San Diego State
+174,1952,NFL,4,49,RAM,Skeet Quinlan,HB,San Diego State
+175,1952,NFL,21,253,RAM,Art Preston,B,San Diego State
+1,2025,NFL,2,33,CLE,Carson Schwesinger,LB,UCLA
+2,2025,NFL,2,52,TEN,Oluwafemi Oladejo,DE,UCLA
+3,2025,NFL,6,205,WAS,Kain Medrano,LB,UCLA
+4,2025,NFL,7,217,DAL,Jay Toia,DT,UCLA
+5,2025,NFL,7,248,NOR,Moliki Matavao,TE,UCLA
+6,2024,NFL,1,15,IND,Laiatu Latu,DL,UCLA
+7,2024,NFL,6,183,NYG,Darius Muasau,LB,UCLA
+8,2023,NFL,2,52,SEA,Zach Charbonnet,RB,UCLA
+9,2023,NFL,4,122,ARI,Jon Gaines,OL,UCLA
+10,2023,NFL,5,140,CLE,Dorian Thompson-Robinson,QB,UCLA
+11,2023,NFL,5,144,NWE,Atonio Mafi,OL,UCLA
+12,2022,NFL,3,80,DEN,Greg Dulcich,TE,UCLA
+13,2022,NFL,3,92,GNB,Sean Rhyan,OL,UCLA
+14,2022,NFL,5,160,LAC,Otito Ogbonnia,DT,UCLA
+15,2022,NFL,5,163,TEN,Kyle Philips,WR,UCLA
+16,2022,NFL,6,211,LAR,Quentin Lake,DB,UCLA
+17,2022,NFL,7,250,LVR,Brittain Brown,RB,UCLA
+18,2021,NFL,3,75,DAL,Osa Odighizuwa,DL,UCLA
+19,2021,NFL,6,211,CLE,Demetric Felton,RB,UCLA
+20,2020,NFL,3,91,NWE,Devin Asiasi,TE,UCLA
+21,2020,NFL,4,110,NYG,Darnay Holmes,CB,UCLA
+22,2020,NFL,4,112,LAC,Joshua Kelley,RB,UCLA
+23,2019,NFL,7,254,ARI,Caleb Wilson,TE,UCLA
+24,2018,NFL,1,10,ARI,Josh Rosen,QB,UCLA
+25,2018,NFL,1,15,OAK,Kolton Miller,T,UCLA
+26,2018,NFL,4,122,BAL,Kenny Young,LB,UCLA
+27,2018,NFL,5,155,LAC,Scott Quessenberry,C,UCLA
+28,2018,NFL,5,162,BAL,Jordan Lasley,WR,UCLA
+29,2017,NFL,1,26,ATL,Takkarist McKinley,DE,UCLA
+30,2017,NFL,3,81,WAS,Fabian Moreau,CB,UCLA
+31,2017,NFL,3,88,OAK,Eddie Vanderdoes,DT,UCLA
+32,2017,NFL,5,155,TEN,Jayon Brown,LB,UCLA
+33,2017,NFL,6,211,NWE,Conor McDermott,T,UCLA
+34,2016,NFL,1,27,GNB,Kenny Clark,DT,UCLA
+35,2016,NFL,2,36,JAX,Myles Jack,OLB,UCLA
+36,2016,NFL,5,148,TAM,Caleb Benenoch,T,UCLA
+37,2016,NFL,5,149,NYG,Paul Perkins,RB,UCLA
+38,2016,NFL,5,154,CLE,Jordan Payton,WR,UCLA
+39,2016,NFL,7,222,TEN,Aaron Wallace,OLB,UCLA
+40,2016,NFL,7,231,MIA,Thomas Duarte,TE,UCLA
+41,2016,NFL,7,238,ATL,Devin Fuller,WR,UCLA
+42,2015,NFL,2,45,MIN,Eric Kendricks,ILB,UCLA
+43,2015,NFL,3,74,NYG,Owamagbe Odighizuwa,DE,UCLA
+44,2015,NFL,5,147,GNB,Brett Hundley,QB,UCLA
+45,2014,NFL,1,9,MIN,Anthony Barr,LB,UCLA
+46,2014,NFL,2,33,HOU,Xavier Su'a-Filo,G,UCLA
+47,2014,NFL,4,108,SEA,Cassius Marsh,DE,UCLA
+48,2014,NFL,4,115,NYJ,Shaquelle Evans,WR,UCLA
+49,2014,NFL,6,192,PIT,Jordan Zumwalt,LB,UCLA
+50,2013,NFL,1,26,GNB,Datone Jones,DE,UCLA
+51,2013,NFL,4,125,GNB,Johnathan Franklin,RB,UCLA
+52,2013,NFL,5,155,MIN,Jeff Locke,P,UCLA
+53,2013,NFL,6,196,MIN,Jeff Baca,G,UCLA
+54,2011,NFL,2,39,TEN,Akeem Ayers,LB,UCLA
+55,2011,NFL,2,45,DEN,Rahim Moore,DB,UCLA
+56,2011,NFL,6,184,ARI,David Carter,DT,UCLA
+57,2010,NFL,2,35,TAM,Brian Price,DT,UCLA
+58,2010,NFL,4,104,TEN,Alterraun Verner,DB,UCLA
+59,2010,NFL,7,219,WAS,Terrence Austin,WR,UCLA
+60,2008,NFL,3,88,PIT,Bruce Davis,LB,UCLA
+61,2008,NFL,5,153,NWE,Matthew Slater,WR,UCLA
+62,2008,NFL,7,249,WAS,Chris Horton,DB,UCLA
+63,2007,NFL,5,160,KAN,Justin Medlock,K,UCLA
+64,2006,NFL,1,28,JAX,Marcedes Lewis,TE,UCLA
+65,2006,NFL,2,60,JAX,Maurice Jones-Drew,RB,UCLA
+66,2006,NFL,7,228,KAN,Jarrad Page,DB,UCLA
+67,2005,NFL,4,120,WAS,Manuel White,RB,UCLA
+68,2005,NFL,5,171,CAR,Ben Emanuel,DB,UCLA
+69,2005,NFL,6,190,CIN,Tab Perry,WR,UCLA
+70,2005,NFL,6,195,GNB,Craig Bragg,WR,UCLA
+71,2004,NFL,3,89,PHI,Matt Ware,DB,UCLA
+72,2004,NFL,4,130,STL,Brandon Chillar,LB,UCLA
+73,2004,NFL,5,133,SDG,Dave Ball,DE,UCLA
+74,2004,NFL,5,139,NOR,Rodney Leisle,DT,UCLA
+75,2003,NFL,3,76,CAR,Mike Seidman,TE,UCLA
+76,2003,NFL,3,82,CAR,Ricky Manning,DB,UCLA
+77,2002,NFL,1,31,STL,Robert Thomas,LB,UCLA
+78,2002,NFL,2,34,CAR,DeShaun Foster,RB,UCLA
+79,2002,NFL,3,92,GNB,Marques Anderson,DB,UCLA
+80,2002,NFL,5,147,OAK,Kenyon Coleman,DE,UCLA
+81,2002,NFL,6,210,CHI,Bryan Fletcher,TE,UCLA
+82,2002,NFL,7,230,WAS,Jeff Grau,C,UCLA
+83,2001,NFL,1,25,PHI,Freddie Mitchell,WR,UCLA
+84,2000,NFL,4,103,PIT,Danny Farmer,WR,UCLA
+85,1999,NFL,1,12,CHI,Cade McNown,QB,UCLA
+86,1999,NFL,3,74,PIT,Kris Farris,T,UCLA
+87,1999,NFL,3,84,KAN,Larry Atkins,LB,UCLA
+88,1998,NFL,1,24,NYG,Shaun Williams,DB,UCLA
+89,1998,NFL,3,69,WAS,Skip Hicks,RB,UCLA
+90,1998,NFL,7,217,CHI,Chad Overhauser,T,UCLA
+91,1996,NFL,1,4,BAL,Jonathan Ogden,T,UCLA
+92,1996,NFL,3,80,MIA,Karim Abdul-Jabbar,RB,UCLA
+93,1996,NFL,3,90,GNB,Mike Flanagan,C,UCLA
+94,1996,NFL,4,98,KAN,Donnie Edwards,LB,UCLA
+95,1995,NFL,1,10,SFO,J.J. Stokes,WR,UCLA
+96,1995,NFL,5,142,NYJ,Carl Greenwood,DB,UCLA
+97,1994,NFL,1,10,ARI,Jamir Miller,LB,UCLA
+98,1994,NFL,2,37,PHI,Bruce Walker,NT,UCLA
+99,1994,NFL,2,63,SDG,Vaughn Parker,T,UCLA
+100,1994,NFL,5,143,NOR,Craig Novitsky,G,UCLA
+101,1994,NFL,5,144,PHI,Marvin Goodwin,DB,UCLA
+102,1993,NFL,2,30,SEA,Carlton Gray,DB,UCLA
+103,1993,NFL,5,122,RAM,Sean LaChapelle,WR,UCLA
+104,1993,NFL,5,126,DEN,Kevin Williams,RB,UCLA
+105,1993,NFL,7,193,NOR,Othello Henderson,DB,UCLA
+106,1992,NFL,1,25,DEN,Tommy Maddox,QB,UCLA
+107,1992,NFL,4,90,NWE,Dion Lambert,DB,UCLA
+108,1992,NFL,5,113,IND,Maury Toy,RB,UCLA
+109,1992,NFL,5,139,BUF,Matt Darby,DB,UCLA
+110,1992,NFL,6,148,TAM,James Malone,LB,UCLA
+111,1992,NFL,7,185,RAI,Kevin Smith,TE,UCLA
+112,1991,NFL,1,2,CLE,Eric Turner,DB,UCLA
+113,1991,NFL,2,31,RAM,Roman Phifer,LB,UCLA
+114,1991,NFL,8,199,ATL,Randy Austin,TE,UCLA
+115,1991,NFL,9,246,MIA,Scott Miller,WR,UCLA
+116,1991,NFL,11,288,NYJ,Rocen Keeton,LB,UCLA
+117,1990,NFL,5,125,NOR,Charles Arbuckle,TE,UCLA
+118,1990,NFL,6,143,SDG,Frank Cornish,C,UCLA
+119,1990,NFL,8,208,BUF,Marvcus Patton,LB,UCLA
+120,1990,NFL,10,265,BUF,Mike Lodish,NT,UCLA
+121,1990,NFL,12,325,GNB,Kirk Maggio,P,UCLA
+122,1989,NFL,1,1,DAL,Troy Aikman,QB,UCLA
+123,1989,NFL,2,34,PIT,Carnell Lake,DB,UCLA
+124,1989,NFL,2,35,CIN,Eric Ball,RB,UCLA
+125,1989,NFL,2,53,RAM,Darryl Henley,DB,UCLA
+126,1989,NFL,4,94,PHO,Jim Wahler,NT,UCLA
+127,1989,NFL,11,283,KAN,Marcus Turner,DB,UCLA
+128,1989,NFL,12,326,NYG,Eric Smith,LB,UCLA
+129,1988,NFL,1,14,RAM,Gaston Green,RB,UCLA
+130,1988,NFL,2,41,DAL,Ken Norton Jr.,LB,UCLA
+131,1988,NFL,2,46,RAM,Flipper Anderson,WR,UCLA
+132,1988,NFL,4,98,SDG,David Richards,G,UCLA
+133,1988,NFL,5,131,RAI,Dennis Price,DB,UCLA
+134,1988,NFL,5,137,RAM,James Washington,DB,UCLA
+135,1988,NFL,9,222,ATL,James Primus,RB,UCLA
+136,1988,NFL,9,248,DEN,Mel Farr,RB,UCLA
+137,1988,NFL,10,254,DET,Paco Craig,WR,UCLA
+138,1988,NFL,12,317,DAL,Ben Hummel,LB,UCLA
+139,1987,NFL,7,185,SEA,Derek Tennell,TE,UCLA
+140,1987,NFL,8,200,IND,Chuckie Miller,DB,UCLA
+141,1987,NFL,11,284,SDG,Joe Goebel,C,UCLA
+142,1987,NFL,12,310,SDG,Marcus Greenwood,RB,UCLA
+143,1986,NFL,1,18,DAL,Mike Sherrard,WR,UCLA
+144,1986,NFL,2,32,STL,John Lee,K,UCLA
+145,1986,NFL,3,74,DAL,Mark Walen,DT,UCLA
+146,1986,NFL,4,97,SDG,Tommy Taylor,LB,UCLA
+147,1986,NFL,6,144,RAM,Robert Jenkins,T,UCLA
+148,1986,NFL,8,195,RAM,Steve Jarecki,LB,UCLA
+149,1986,NFL,11,291,SEA,David Norrie,QB,UCLA
+150,1985,NFL,6,142,MIN,Steve Bono,QB,UCLA
+151,1985,NFL,6,161,RAM,Mike Young,WR,UCLA
+152,1985,NFL,7,169,BUF,Ron Pitts,DB,UCLA
+153,1985,NFL,10,274,RAM,Duval Love,G,UCLA
+154,1985,NFL,11,297,DAL,Neal Dellocono,LB,UCLA
+155,1985,NFL,12,326,NYG,Herb Welch,DB,UCLA
+156,1984,NFL,1*,8,IND,Paul Bergmann,TE,UCLA
+157,1984,NFL,1,18,CLE,Don Rogers,DB,UCLA
+158,1984,NFL,2*,30,TAM,Kevin Nelson,RB,UCLA
+159,1984,NFL,2*,34,KAN,Lupe Sanchez,DB,UCLA
+160,1984,NFL,3*,71,CLE,Doug West,LB,UCLA
+161,1984,NFL,3,83,WAS,Jay Schroeder,QB,UCLA
+162,1984,NFL,11,283,NYG,Frank Cephous,RB,UCLA
+163,1984,NFL,11,302,SEA,Steve Gemza,T,UCLA
+164,1984,NFL,12,319,NWE,Harper Howell,TE,UCLA
+165,1983,NFL,3,59,SFO,Blanchard Montgomery,LB,UCLA
+166,1983,NFL,3,78,NYJ,Jo-Jo Townsell,WR,UCLA
+167,1983,NFL,3,81,CIN,Jimmy Turner,DB,UCLA
+168,1983,NFL,5,138,RAI,Dokie Williams,WR,UCLA
+169,1983,NFL,8,204,KAN,Irv Eatman,T,UCLA
+170,1983,NFL,9,244,PIT,Blake Wingle,G,UCLA
+171,1983,NFL,10,267,NWE,Tom Ramsey,QB,UCLA
+172,1982,NFL,1,16,STL,Luis Sharpe,T,UCLA
+173,1982,NFL,3,62,CHI,Tim Wrightman,TE,UCLA
+174,1982,NFL,8,208,DET,Martin Moss,DE,UCLA
+175,1982,NFL,9,249,DAL,Joe Gary,DT,UCLA
+176,1982,NFL,11,285,RAM,Ricky Coffman,WR,UCLA
+177,1981,NFL,1,3,NYJ,Freeman McNeil,RB,UCLA
+178,1981,NFL,1,4,SEA,Kenny Easley,DB,UCLA
+179,1981,NFL,5,129,DET,Larry Lee,G,UCLA
+180,1981,NFL,9,243,HOU,Avon Riley,LB,UCLA
+181,1981,NFL,9,248,OAK,Curt Mohl,T,UCLA
+182,1981,NFL,11,286,SFO,Ronnie DeBose,TE,UCLA
+183,1981,NFL,12,328,RAM,Jairo Penaranda,RB,UCLA
+184,1980,NFL,3,68,MIN,Brent Boyd,G,UCLA
+185,1979,NFL,1,18,SEA,Manu Tuiasosopo,DT,UCLA
+186,1979,NFL,1,21,PHI,Jerry Robinson,LB,UCLA
+187,1979,NFL,2,29,SFO,James Owens,RB,UCLA
+188,1979,NFL,2,35,STL,Theotis Brown,RB,UCLA
+189,1979,NFL,4,98,NYJ,Johnny Lynn,DB,UCLA
+190,1979,NFL,7,168,CIN,Max Montoya,G,UCLA
+191,1979,NFL,11,294,OAK,Bruce Davis,T,UCLA
+192,1978,NFL,3,78,RAM,Frank Corral,K,UCLA
+193,1978,NFL,7,169,NYJ,Levi Armstrong,DB,UCLA
+194,1978,NFL,8,222,DAL,Homer Butler,WR,UCLA
+195,1978,NFL,12,330,RAM,Gus Coppens,T,UCLA
+196,1977,NFL,3,79,RAM,Wendell Tyler,RB,UCLA
+197,1977,NFL,4,85,CIN,Rick Walker,TE,UCLA
+198,1977,NFL,12,318,KAN,Raymond Burks,LB,UCLA
+199,1976,NFL,2,41,KAN,Cliff Frazier,DT,UCLA
+200,1976,NFL,2,42,SFO,Randy Cross,G,UCLA
+201,1976,NFL,4,103,CHI,John Sciarra,DB,UCLA
+202,1976,NFL,9,246,ATL,Phil McKinnely,T,UCLA
+203,1976,NFL,11,299,CHI,Norm Andersen,WR,UCLA
+204,1976,NFL,13,353,PHI,Terry Tautolo,LB,UCLA
+205,1976,NFL,15,412,PHI,Brett White,P,UCLA
+206,1976,NFL,15,430,DAL,Dale Curry,LB,UCLA
+207,1975,NFL,6,132,ATL,Fulton Kuykendall,LB,UCLA
+208,1975,NFL,9,222,PIT,Eugene Clark,G,UCLA
+209,1975,NFL,15,384,WAS,Art Kuehn,C,UCLA
+210,1975,NFL,17,428,NWE,Myke Horton,T,UCLA
+211,1974,NFL,1,10,SFO,Bill Sandifer,DT,UCLA
+212,1974,NFL,1,17,MIN,Fred McNeill,LB,UCLA
+213,1974,NFL,3,72,DAL,Cal Peterson,LB,UCLA
+214,1974,NFL,3,76,RAM,Al Oliver,T,UCLA
+215,1974,NFL,4,100,PIT,Jimmy Allen,DB,UCLA
+216,1974,NFL,6,148,OAK,James McAlister,RB,UCLA
+217,1974,NFL,6,151,DAL,Jimmy Bright,DB,UCLA
+218,1974,NFL,7,166,SFO,Kermit Johnson,RB,UCLA
+219,1974,NFL,7,169,DET,Efren Herrera,K,UCLA
+220,1974,NFL,11,281,CIN,Ed Kezirian,T,UCLA
+221,1974,NFL,11,286,MIA,Gerry Roberts,DE,UCLA
+222,1974,NFL,12,310,RAM,Roger Freberg,G,UCLA
+223,1973,NFL,5,107,CHI,Allan Ellis,DB,UCLA
+224,1973,NFL,5,126,DAL,Bruce Walton,T,UCLA
+225,1973,NFL,12,287,HOU,Brad Lyman,WR,UCLA
+226,1973,NFL,12,290,NWE,Bruce Barnes,P,UCLA
+227,1973,NFL,13,332,DAL,John Smith,WR,UCLA
+228,1973,NFL,15,386,GNB,Reggie Echols,WR,UCLA
+229,1972,NFL,4,89,NYJ,Ed Galigher,DT,UCLA
+230,1972,NFL,4,100,OAK,Dave Dalby,C,UCLA
+231,1972,NFL,5,125,RAM,Bob Christiansen,DT,UCLA
+232,1972,NFL,6,133,CHI,Bob Pifferini,LB,UCLA
+233,1971,NFL,10,253,OAK,Tim Oesterling,DT,UCLA
+234,1971,NFL,14,354,KAN,Bruce Bergey,DE,UCLA
+235,1970,NFL,3,54,CHI,George Farmer,WR,UCLA
+236,1970,NFL,3,56,BOS,Mike Ballou,LB,UCLA
+237,1970,NFL,4,97,NYG,Wes Grant,DE,UCLA
+238,1970,NFL,5,129,MIN,Greg Jones,RB,UCLA
+239,1970,NFL,9,216,CIN,Bill Bolden,RB,UCLA
+240,1970,NFL,9,231,DAL,Zenon Andrusyshyn,P,UCLA
+241,1970,NFL,10,258,OAK,Gordon Bosserman,T,UCLA
+242,1970,NFL,14,360,RAM,Bob Geddes,LB,UCLA
+243,1969,NFL,7,168,GNB,Larry Agajanian,DT,UCLA
+244,1969,NFL,7,169,CHI,Ron Copeland,WR,UCLA
+245,1969,NFL,14,362,OAK,Harold Busby,E,UCLA
+246,1968,NFL,2,30,RAM,Gary Beban,QB,UCLA
+247,1968,NFL,11,285,STL,Larry Slagle,G,UCLA
+248,1968,NFL,17,436,CIN,Don Manning,LB,UCLA
+249,1967,NFL,1,7,DET,Mel Farr,RB,UCLA
+250,1967,NFL,9,216,MIA,John Richardson,DT,UCLA
+251,1966,NFL,8,119,SFO,Dick Witcher,WR,UCLA
+252,1965,NFL,17,229,DAL,Mitch Johnson,T,UCLA
+253,1964,NFL,8,101,DAL,Al Geverink,HB,UCLA
+254,1964,AFL,24,191,OAK,Kent Francisco,T,UCLA
+255,1964,NFL,14,196,CHI,Kent Francisco,T,UCLA
+256,1963,AFL,1,5,DEN,Kermit Alexander Jr.,DB,UCLA
+257,1963,NFL,1,8,SFO,Kermit Alexander Jr.,DB,UCLA
+258,1963,NFL,9,113,RAM,Mel Profit,E,UCLA
+259,1963,AFL,16,128,KAN,Mel Profit,E,UCLA
+260,1963,AFL,19,145,OAK,Tony Fiorentino,G,UCLA
+261,1962,AFL,9,67,DTX,Marshall Shirk,T,UCLA
+262,1962,NFL,9,114,MIN,Marshall Shirk,T,UCLA
+263,1962,NFL,14,189,CHI,Andy Von Sonn,LB,UCLA
+264,1962,AFL,27,210,DEN,Andy Von Sonn,LB,UCLA
+265,1962,NFL,20,268,RAM,Foster Andersen,T,UCLA
+266,1961,NFL,1,6,SFO,Jimmy Johnson,DB,UCLA
+267,1961,NFL,1,11,SFO,Billy Kilmer,QB,UCLA
+268,1961,AFL,4,32,SDG,Jimmy Johnson,DB,UCLA
+269,1961,AFL,5,39,SDG,Billy Kilmer,QB,UCLA
+270,1961,NFL,7,88,RAM,Bobby Smith,DB,UCLA
+271,1961,AFL,21,167,SDG,Gene Gaines,HB,UCLA
+272,1961,AFL,26,205,NYT,Bobby Smith,DB,UCLA
+273,1960,AFL,,0,BUF,Marv Luster,E,UCLA
+274,1960,AFL,,0,HOU,Paul Oglesby,T,UCLA
+275,1960,AFL,,0,OAK,Ray Smith,FB,UCLA
+276,1960,NFL,9,97,RAM,Marv Luster,E,UCLA
+277,1960,NFL,10,113,STL,Paul Oglesby,T,UCLA
+278,1959,NFL,9,106,CLE,Kirk Wilson,B,UCLA
+279,1959,NFL,13,149,DET,Jim Steffen,DB,UCLA
+280,1959,NFL,17,199,PIT,Bill Leeka,T,UCLA
+281,1959,NFL,24,282,SFO,Craig Chudy,E,UCLA
+282,1959,NFL,28,333,RAM,Rafer Johnson,B,UCLA
+283,1958,NFL,14,163,RAM,Bill Mason,B,UCLA
+284,1958,NFL,20,231,CRD,Jim Matheny,C,UCLA
+285,1958,NFL,23,274,BAL,Phil Parslow,B,UCLA
+286,1958,NFL,26,302,GNB,Esker Harris,G,UCLA
+287,1957,NFL,2,20,BAL,Don Shinnick,LB,UCLA
+288,1957,NFL,3,37,CHI,Ronnie Knox,QB,UCLA
+289,1957,NFL,18,214,CRD,Hal Smith,DT,UCLA
+290,1957,NFL,21,243,RAM,Pat Pinkston,E,UCLA
+291,1956,NFL,10,117,NYG,Johnny Hermann,DB,UCLA
+292,1956,NFL,11,132,RAM,Jim Decker,B,UCLA
+293,1956,NFL,12,142,WAS,Gil Moreno,T,UCLA
+294,1956,NFL,17,202,CHI,Tom Adams,E,UCLA
+295,1956,NFL,18,210,CRD,Jim Brown,G,UCLA
+296,1956,NFL,19,226,CHI,John Smith,B,UCLA
+297,1956,NFL,22,265,CLE,Sam (First Down) Brown,B,UCLA
+298,1956,NFL,25,301,CLE,Bob Davenport,B,UCLA
+299,1956,NFL,26,304,SFO,Rommie Loudd,LB,UCLA
+300,1956,NFL,26,312,RAM,Hardiman Cureton,T,UCLA
+301,1956,NFL,29,338,DET,Doug Peters,B,UCLA
+302,1955,NFL,2,18,RAM,Bob Long,LB,UCLA
+303,1955,NFL,2,24,DET,Jim Salsbury,G,UCLA
+304,1955,NFL,11,127,RAM,Joe Ray,T,UCLA
+305,1954,NFL,4,44,DET,Bill Stits,DB,UCLA
+306,1954,NFL,8,91,PIT,Paul Cameron,DB,UCLA
+307,1954,NFL,8,97,DET,Milt Davis,DB,UCLA
+308,1954,NFL,9,100,NYG,Pete O'Garro,E,UCLA
+309,1953,NFL,1,9,RAM,Donn Moomaw,C,UCLA
+310,1953,NFL,12,145,RAM,Chuck Doud,G,UCLA
+311,1953,NFL,19,229,RAM,Jack Ellena,G,UCLA
+312,1953,NFL,25,296,GNB,Ike Jones,E,UCLA
+313,1953,NFL,25,299,SFO,Ernie Stockert,E,UCLA
+314,1953,NFL,28,327,BAL,Joe Sabol,B,UCLA
+315,1952,NFL,14,167,NYG,Hal Mitchell,T,UCLA
+316,1952,NFL,19,223,WAS,Joe Marvin,B,UCLA
+317,1951,NFL,18,215,NYY,Bob Watson,E,UCLA
+318,1951,NFL,24,287,NYY,James Stroschein,DE,UCLA
+319,1951,NFL,28,334,PIT,Howie Hansen,B,UCLA
+320,1950,NFL,10,124,NYG,Bob Wilkinson,E,UCLA
+321,1950,NFL,10,131,PHI,Ernie Johnson,B,UCLA
+322,1949,NFL,22,218,WAS,Bill Clements,E,UCLA
+323,1948,NFL,5,33,PHI,Jack Myers,FB,UCLA
+324,1947,NFL,1,4,WAS,Cal Rossi,B,UCLA
+325,1947,NFL,1,6,GNB,Ernie Case,QB,UCLA
+326,1947,NFL,3,20,GNB,Burr Baldwin,E,UCLA
+327,1947,NFL,3,21,RAM,Don Paul,LB,UCLA
+328,1947,NFL,8,58,PIT,Jerry Shipkey,LB,UCLA
+329,1947,NFL,9,68,WAS,Roy Kurrasch,E,UCLA
+330,1947,NFL,13,113,RAM,Mike Dimitro,G,UCLA
+331,1947,NFL,20,183,RAM,Bernie Reiges,B,UCLA
+332,1947,NFL,21,193,RAM,Leon McLaughlin,C,UCLA
+333,1946,NFL,1,9,WAS,Cal Rossi,B,UCLA
+334,1946,NFL,5,40,RAM,Don Paul,C,UCLA
+335,1946,NFL,7,57,PHI,George Robotham,E,UCLA
+336,1946,NFL,20,187,DET,Don Malmberg,T,UCLA
+337,1946,NFL,22,205,NYG,Bill Stiers,B,UCLA
+338,1946,NFL,28,263,PIT,Bob Hansen,E,UCLA
+339,1946,NFL,30,286,GNB,Al Sparlis,G,UCLA
+340,1945,NFL,10,97,NYG,Vic Smith,B,UCLA
+341,1945,NFL,11,103,RAM,Tom Fears,E,UCLA
+342,1945,NFL,12,116,CHI,Jack Boyd,B,UCLA
+343,1945,NFL,13,129,PHI,Bill Chambers,G,UCLA
+344,1945,NFL,22,221,PIT,Don Malmberg,B,UCLA
+345,1944,NFL,5,42,RAM,Bob Waterfield,QB,UCLA
+346,1944,NFL,8,74,PHI,George Phillips,LB,UCLA
+347,1944,NFL,12,112,DET,Jack Lescoulie,G,UCLA
+348,1944,NFL,20,204,WAS,Dave Brown,E,UCLA
+349,1944,NFL,23,234,PHI,Milt Smith,DB,UCLA
+350,1943,NFL,7,58,GNB,Ken Snelling,FB,UCLA
+351,1943,NFL,9,75,RAM,Al Solari,B,UCLA
+352,1943,NFL,27,251,DET,Chuck Fears,T,UCLA
+353,1941,NFL,11,92,CRD,Jack Sommers,C,UCLA
+354,1941,NFL,14,126,GNB,Del Lyman,T,UCLA
+355,1939,NFL,14,123,RAM,John Ryland,C,UCLA
+356,1937,NFL,7,62,BKN,Fred Funk,B,UCLA
+357,1936,NFL,2,17,DET,Chuck Cheshire,B,UCLA
+1,2020,NFL,5,172,DET,Jason Huntley,RB,New Mexico State
+2,2018,NFL,4,132,BAL,Jaleel Scott,WR,New Mexico State
+3,2013,NFL,7,208,JAX,Jeremy Harris,DB,New Mexico State
+4,2012,NFL,6,196,DET,Jonte Green,DB,New Mexico State
+5,2011,NFL,4,131,GNB,Davon House,DB,New Mexico State
+6,2003,NFL,7,246,OAK,Siddeeq Shabazz,DB,New Mexico State
+7,2001,NFL,5,161,BAL,Chris Barnes,RB,New Mexico State
+8,1996,NFL,7,239,SFO,Sean Manuel,TE,New Mexico State
+9,1996,NFL,7,254,SFO,Sam Manuel,LB,New Mexico State
+10,1995,NFL,6,177,SDG,Troy Sienkiewicz,G,New Mexico State
+11,1994,NFL,5,137,SDG,Aaron Laing,TE,New Mexico State
+12,1991,NFL,10,277,BUF,Tony De Lorenzo,G,New Mexico State
+13,1988,NFL,4,91,SDG,Joe Campbell,DE,New Mexico State
+14,1985,NFL,7,172,CIN,Kim Locklin,RB,New Mexico State
+15,1985,NFL,12,322,CIN,Louis Garza,T,New Mexico State
+16,1984,NFL,3,76,SEA,Fredd Young,LB,New Mexico State
+17,1984,NFL,7,177,CIN,Leo Barker,LB,New Mexico State
+18,1983,NFL,9,247,NYJ,Bobby Humphery,DB,New Mexico State
+19,1982,NFL,6,145,RAM,Kerry Locklin,TE,New Mexico State
+20,1982,NFL,11,299,SDG,Anthony Watson,DB,New Mexico State
+21,1978,NFL,9,246,RAM,Andre Anderson,DE,New Mexico State
+22,1978,NFL,11,280,KAN,Ray Milo,DB,New Mexico State
+23,1977,NFL,2,42,DET,Walt Williams,DB,New Mexico State
+24,1977,NFL,5,128,SDG,Cliff Olander,QB,New Mexico State
+25,1976,NFL,3,80,MIA,Duriel Harris,WR,New Mexico State
+26,1976,NFL,10,279,DET,Bill Bowerman,QB,New Mexico State
+27,1975,NFL,2,46,STL,Jim Germany,RB,New Mexico State
+28,1973,NFL,4,93,CLE,Andy Dorris,DE,New Mexico State
+29,1972,NFL,4,92,PHI,Po James,RB,New Mexico State
+30,1972,NFL,6,139,NYJ,Joey Jackson,DE,New Mexico State
+31,1972,NFL,14,344,STL,Pat McTeer,K,New Mexico State
+32,1971,NFL,5,122,SFO,George Wells,LB,New Mexico State
+33,1969,NFL,4,96,HOU,Roy Gerela,K,New Mexico State
+34,1969,NFL,4,100,OAK,Ruby Jackson,T,New Mexico State
+35,1969,NFL,7,162,BOS,Rick Hackley,T,New Mexico State
+36,1969,NFL,12,305,STL,Howard Taylor,RB,New Mexico State
+37,1969,NFL,14,356,SDG,Bill Ackman,DT,New Mexico State
+38,1968,NFL,4,96,STL,Joe Schmiesing,DE,New Mexico State
+39,1968,NFL,7,174,PIT,Doug Dalton,RB,New Mexico State
+40,1968,NFL,14,370,CHI,Harold Gargus,DT,New Mexico State
+41,1967,NFL,7,178,PHI,Bob Crenshaw,G,New Mexico State
+42,1966,AFL,7,54,HOU,Pep Menefee,WR,New Mexico State
+43,1966,NFL,13,189,PHI,Jim Bohl,HB,New Mexico State
+44,1966,NFL,17,259,CLE,Gene Modzelewski,T,New Mexico State
+45,1965,NFL,11,146,WAS,Willie Adams,DE,New Mexico State
+46,1963,NFL,5,65,SFO,Jim (Preacher) Pilot,B,New Mexico State
+47,1963,AFL,14,112,KAN,Jim (Preacher) Pilot,HB,New Mexico State
+48,1962,NFL,2,19,STL,Bobby Jackson,FB,New Mexico State
+49,1962,AFL,7,56,SDG,Bobby Jackson,FB,New Mexico State
+50,1962,AFL,13,103,HOU,Royce Cassell,E,New Mexico State
+51,1961,AFL,1,4,DEN,Bob Gaiters,HB,New Mexico State
+52,1961,NFL,2,17,NYG,Bob Gaiters,HB,New Mexico State
+53,1961,AFL,8,64,SDG,Charley Johnson,QB,New Mexico State
+54,1961,AFL,22,175,HOU,Bob Kelly,T,New Mexico State
+55,1961,AFL,23,181,DTX,Lou Zivkovich,T,New Mexico State
+56,1961,AFL,24,185,DEN,E.A. Simms,E,New Mexico State
+57,1961,NFL,15,203,BAL,E.A. Sims,E,New Mexico State
+58,1961,NFL,19,256,RAM,Lou Zivkovich,T,New Mexico State
+59,1960,AFL,,0,DTX,Louis Kelley,FB,New Mexico State
+60,1960,AFL,,0,HOU,George Mulholland,E,New Mexico State
+61,1960,AFL,,0,OAK,Pervis Atkins,FL,New Mexico State
+62,1960,AFL,,0,LAC,Billy Locklin,LB,New Mexico State
+63,1960,NFL,3,30,RAM,Pervis Atkins,FL,New Mexico State
+64,1960,NFL,10,109,STL,Charley Johnson,QB,New Mexico State
+65,1959,NFL,11,128,RAM,Joe Kelly,B,New Mexico State
+66,1954,NFL,26,304,BAL,Jesus Esparza,T,New Mexico State
+67,1948,NFL,3,20,PIT,Jerry Nuzum,HB,New Mexico State
+1,2025,NFL,7,241,DEN,Caleb Lohner,TE,Utah
+2,2024,NFL,2,60,BUF,Cole Bishop,SAF,Utah
+3,2024,NFL,3,76,DEN,Jonah Elliss,DE,Utah
+4,2024,NFL,4,132,DET,Sione Vaki,SAF,Utah
+5,2024,NFL,6,179,SEA,Sataoa Laumea,OL,Utah
+6,2024,NFL,7,235,DEN,Devaughn Vele,WR,Utah
+7,2023,NFL,1,25,BUF,Dalton Kincaid,TE,Utah
+8,2023,NFL,4,113,ATL,Clark Phillips,CB,Utah
+9,2023,NFL,4,118,WAS,Braeden Daniels,OL,Utah
+10,2022,NFL,1,27,JAX,Devin Lloyd,LB,Utah
+11,2020,NFL,2,50,CHI,Jaylon Johnson,CB,Utah
+12,2020,NFL,3,85,IND,Julian Blackmon,S,Utah
+13,2020,NFL,3,86,BUF,Zack Moss,RB,Utah
+14,2020,NFL,3,104,LAR,Terrell Burgess,S,Utah
+15,2020,NFL,4,114,ARI,Leki Fotu,DT,Utah
+16,2020,NFL,5,179,DAL,Bradlee Anae,DE,Utah
+17,2020,NFL,6,197,DET,John Penisini,DT,Utah
+18,2019,NFL,2,47,SEA,Marquise Blair,S,Utah
+19,2019,NFL,3,88,SEA,Cody Barton,LB,Utah
+20,2019,NFL,4,110,SFO,Mitch Wishnowsky,P,Utah
+21,2019,NFL,5,145,TAM,Matt Gay,K,Utah
+22,2019,NFL,7,240,IND,Jackson Barton,T,Utah
+23,2018,NFL,6,181,CHI,Kylie Fitts,DE,Utah
+24,2017,NFL,1,20,DEN,Garett Bolles,T,Utah
+25,2017,NFL,2,42,NOR,Marcus Williams,S,Utah
+26,2017,NFL,4,121,SFO,Joe Williams,RB,Utah
+27,2017,NFL,5,164,MIA,Isaac Asiata,G,Utah
+28,2017,NFL,5,173,PIT,Brian Allen,DB,Utah
+29,2017,NFL,5,176,CIN,JJ Dielman,C,Utah
+30,2017,NFL,6,190,LAC,Sam Tevi,T,Utah
+31,2017,NFL,6,202,SFO,Pita Taumoepenu,OLB,Utah
+32,2016,NFL,4,136,DEN,Devontae Booker,RB,Utah
+33,2015,NFL,2,47,PHI,Eric Rowe,CB,Utah
+34,2015,NFL,2,51,CLE,Nate Orchard,DE,Utah
+35,2015,NFL,3,66,TEN,Jeremiah Poutasi,G,Utah
+36,2015,NFL,6,184,TAM,Kaelin Clay,WR,Utah
+37,2014,NFL,4,116,OAK,Keith McGill,DB,Utah
+38,2014,NFL,7,233,NYJ,Trevor Reilly,LB,Utah
+39,2013,NFL,1,14,CAR,Star Lotulelei,DT,Utah
+40,2013,NFL,7,212,PHI,Joe Kruger,DE,Utah
+41,2012,NFL,2*,1,CLE,Josh Gordon,WR,Utah
+42,2012,NFL,3,95,OAK,Tony Bergstrom,T,Utah
+43,2010,NFL,2,40,MIA,Koa Misi,LB,Utah
+44,2010,NFL,2,45,DEN,Zane Beadles,G,Utah
+45,2010,NFL,5,148,TEN,Robert Johnson,DB,Utah
+46,2010,NFL,5,156,BAL,David Reed,WR,Utah
+47,2010,NFL,5,166,PIT,Stevenson Sylvester,LB,Utah
+48,2010,NFL,7,223,CAR,R.J. Stanford,DB,Utah
+49,2009,NFL,2,57,BAL,Paul Kruger,DE,Utah
+50,2009,NFL,2,61,MIA,Sean Smith,DB,Utah
+51,2009,NFL,6,188,HOU,Brice McCain,DB,Utah
+52,2009,NFL,7,252,CIN,Freddie Brown,WR,Utah
+53,2007,NFL,2,37,SDG,Eric Weddle,DB,Utah
+54,2007,NFL,4,108,MIA,Paul Soliai,DT,Utah
+55,2006,NFL,7,245,TEN,Spencer Toone,LB,Utah
+56,2006,NFL,7,246,TEN,Quinton Ganther,RB,Utah
+57,2005,NFL,1,1,SFO,Alex Smith,QB,Utah
+58,2005,NFL,3,88,NYJ,Sione Pouha,DT,Utah
+59,2005,NFL,6,204,PIT,Chris Kemoeatu,G,Utah
+60,2005,NFL,7,225,TAM,Paris Warren,WR,Utah
+61,2005,NFL,7,233,CIN,Jonathan Fanene,DE,Utah
+62,2003,NFL,1,8,CAR,Jordan Gross,T,Utah
+63,2003,NFL,6,187,BUF,Lauvale Sape,DT,Utah
+64,2003,NFL,7,258,BAL,Antwoine Sanders,DB,Utah
+65,2002,NFL,3,87,WAS,Cliff Russell,WR,Utah
+66,2002,NFL,4,132,MIN,Edward Ta'amu,G,Utah
+67,2001,NFL,2,60,TEN,Andre Dyson,DB,Utah
+68,2001,NFL,3,74,CAR,Steve Smith Sr.,WR,Utah
+69,2000,NFL,6,178,PHI,John Frank,DE,Utah
+70,2000,NFL,6,189,DEN,Mike Anderson,RB,Utah
+71,2000,NFL,7,218,NYJ,Richard Seals,DT,Utah
+72,1999,NFL,7,222,TEN,Phil Glover,LB,Utah
+73,1998,NFL,1,16,TEN,Kevin Dyson,WR,Utah
+74,1998,NFL,6,178,PIT,Chris Fuamatu-Ma'afala,RB,Utah
+75,1996,NFL,7,246,NOR,Henry Lusk,TE,Utah
+76,1995,NFL,1,20,DET,Luther Elliss,DT,Utah
+77,1995,NFL,5,165,ARI,Lance Scott,C,Utah
+78,1995,NFL,7,219,JAX,Curtis Marsh,WR,Utah
+79,1995,NFL,7,239,STL,Bronzell Miller,DE,Utah
+80,1994,NFL,4,105,WAS,Kurt Haws,TE,Utah
+81,1994,NFL,7,201,ATL,Jamal Anderson,RB,Utah
+82,1992,NFL,11,301,HOU,Anthony Davis,LB,Utah
+83,1990,NFL,4,93,MIA,Scott Mitchell,QB,Utah
+84,1986,NFL,5,122,PIT,Erroll Tucker,DB,Utah
+85,1986,NFL,8,200,NOR,Filipo Mokofisi,LB,Utah
+86,1984,NFL,5,127,RAI,Andy Parker,TE,Utah
+87,1982,NFL,2,55,NWE,Darryl Haley,T,Utah
+88,1982,NFL,3,71,GNB,Del Rodgers,RB,Utah
+89,1982,NFL,6,144,SEA,Jack Campbell,T,Utah
+90,1982,NFL,9,239,MIA,Steve Clark,G,Utah
+91,1982,NFL,10,276,MIA,Wayne Jones,G,Utah
+92,1981,NFL,2,55,PHI,Dean Miraldi,T,Utah
+93,1981,NFL,3,61,STL,Jeff Griffin,DB,Utah
+94,1981,NFL,10,261,MIA,Steve Folsom,TE,Utah
+95,1980,NFL,10,268,WAS,Lewis Walker,RB,Utah
+96,1979,NFL,8,208,GNB,Rick Partridge,P,Utah
+97,1976,NFL,16,446,DEN,John Huddleston,LB,Utah
+98,1975,NFL,11,285,MIN,Ike Spencer,RB,Utah
+99,1975,NFL,13,317,CLE,Willie Armstead,WR,Utah
+100,1974,NFL,5,116,GNB,Steve Odom,WR,Utah
+101,1974,NFL,8,197,NYJ,Ron Rydalch,DT,Utah
+102,1974,NFL,13,337,MIN,Gary Keller,DT,Utah
+103,1974,NFL,14,361,WAS,Don Van Galder,QB,Utah
+104,1973,NFL,8,185,NOR,Bob Peterson,G,Utah
+105,1972,NFL,3,78,DAL,Marv Bateman,P,Utah
+106,1972,NFL,16,416,DAL,Gordon Longmire,QB,Utah
+107,1971,NFL,1,17,STL,Norm Thompson,DB,Utah
+108,1971,NFL,16,394,BUF,Billy Hunter,DB,Utah
+109,1971,NFL,17,436,DET,Gordon Jolley,G,Utah
+110,1970,NFL,13,328,GNB,Dave Smith,RB,Utah
+111,1970,NFL,14,345,STL,Ray Groth,WR,Utah
+112,1969,NFL,3,57,CIN,Speedy Thomas,WR,Utah
+113,1969,NFL,4,89,MIA,Norm McBride,DE,Utah
+114,1969,NFL,11,279,STL,Gary Kerl,LB,Utah
+115,1968,NFL,4,110,OAK,Charlie Smith,RB,Utah
+116,1968,NFL,10,251,BUF,Jerry Lawson,DB,Utah
+117,1968,NFL,10,265,KAN,Jack Gehrke,WR,Utah
+118,1968,NFL,12,301,CIN,Bob Trumpy,TE,Utah
+119,1967,NFL,5,130,GNB,Richard Tate,DB,Utah
+120,1967,NFL,15,384,OAK,Ben Woodson,HB,Utah
+121,1966,AFL,9,77,NYJ,John Stipech,T,Utah
+122,1966,NFL,12,175,WAS,John Stipech,LB,Utah
+123,1965,AFL,2,14,SDG,Roy Jefferson,WR,Utah
+124,1965,NFL,2,18,PIT,Roy Jefferson,WR,Utah
+125,1965,AFL,6,43,OAK,Greg Kent,T,Utah
+126,1965,NFL,7,92,DET,Greg Kent,T,Utah
+127,1965,NFL,7,96,STL,Frank Roy,G,Utah
+128,1965,NFL,14,184,SFO,Frank Andruski,HB,Utah
+129,1964,NFL,10,139,GNB,Allen Jacobs,FB,Utah
+130,1964,AFL,26,205,BUF,Allen Jacobs,FB,Utah
+131,1964,NFL,16,223,GNB,Andrew Ireland,B,Utah
+132,1963,NFL,3,29,RAM,Dave Costa,DT,Utah
+133,1963,AFL,7,49,OAK,Dave Costa,DT,Utah
+134,1963,AFL,9,69,DEN,Marv Fleming,TE,Utah
+135,1963,NFL,11,154,GNB,Marv Fleming,TE,Utah
+136,1963,NFL,15,202,DAL,Jerry Overton,DB,Utah
+137,1962,AFL,3,17,OAK,Ed Pine,LB,Utah
+138,1962,NFL,2,22,SFO,Ed Pine,LB,Utah
+139,1961,AFL,10,74,OAK,Ken Peterson,T,Utah
+140,1961,NFL,14,183,MIN,Ken Petersen,G,Utah
+141,1961,NFL,17,230,PIT,Terry Nofsinger,QB,Utah
+142,1960,AFL,,0,BUF,Bob Coogan,T,Utah
+143,1960,AFL,,0,BUF,Larry Wilson,DB,Utah
+144,1960,AFL,,0,OAK,Tony Polychronis,T,Utah
+145,1960,NFL,7,74,STL,Larry Wilson,DB,Utah
+146,1960,NFL,18,216,NYG,Tony Polychronis,T,Utah
+147,1959,NFL,1,10,NYG,Lee Grosscup,QB,Utah
+148,1958,NFL,6,65,CHI,Merrill Douglas,FB,Utah
+149,1958,NFL,21,247,PIT,Everett Jones,G,Utah
+150,1958,NFL,23,275,SFO,Larry Fields,B,Utah
+151,1956,NFL,5,53,RAM,Herb Nakken,B,Utah
+152,1956,NFL,26,313,CLE,Jack Kammerman,E,Utah
+153,1955,NFL,13,156,DET,Don Henderson,T,Utah
+154,1955,NFL,24,278,CRD,Max Pierce,B,Utah
+155,1954,NFL,7,85,DET,Jack Cross,B,Utah
+156,1954,NFL,16,189,PHI,Charlie Grant,C,Utah
+157,1954,NFL,19,223,PIT,Don Rydalch,B,Utah
+158,1954,NFL,20,241,DET,Jim Durrant,G,Utah
+159,1953,NFL,13,154,PHI,Ray Westort,G,Utah
+160,1953,NFL,17,204,CLE,George Bean,B,Utah
+161,1953,NFL,21,244,WAS,Jim Dublinski,C,Utah
+162,1952,NFL,7,82,DET,Wes Gardner,C,Utah
+163,1952,NFL,8,93,DET,Tom Dublinski,QB,Utah
+164,1951,NFL,23,275,NYY,Dave Cunningham,B,Utah
+165,1950,NFL,20,254,NYG,Joe Tangaro,T,Utah
+166,1949,NFL,4,34,GNB,Bob Summerhays,LB,Utah
+167,1949,NFL,22,212,DET,Gil Tobler,B,Utah
+168,1948,NFL,19,167,DET,Barney Hafen,DE,Utah
+169,1948,NFL,20,179,BOS,Frank Nelson,B,Utah
+170,1948,NFL,22,202,PIT,Tally Stevens,E,Utah
+171,1947,NFL,32,297,GNB,Ralph Olsen,DE,Utah
+172,1946,NFL,5,39,WAS,Gay Adelt,B,Utah
+173,1946,NFL,13,114,CHI,Reed Nostrum,T,Utah
+174,1946,NFL,15,135,NYG,Stan Stapley,T,Utah
+175,1946,NFL,19,177,PHI,Lawrence Mauss,C,Utah
+176,1946,NFL,30,287,DET,Tom Panos,G,Utah
+177,1945,NFL,31,323,NYG,Bill Broderick,T,Utah
+178,1944,NFL,4,30,DET,George Bettridge,B,Utah
+179,1944,NFL,27,281,WAS,Nick Pappas,T,Utah
+180,1943,NFL,18,165,RAM,Bert Davis,C,Utah
+181,1943,NFL,32,299,CHI,Woody Peterson,B,Utah
+182,1942,NFL,8,61,PIT,Floyd Spendlove,T,Utah
+183,1942,NFL,15,135,DET,Mac Speedie,E,Utah
+184,1940,NFL,9,71,CRD,Luke Pappas,T,Utah
+185,1940,NFL,10,87,CHI,Tom Pace,B,Utah
+186,1940,NFL,14,125,RAM,Pete Bogden,E,Utah
+187,1939,NFL,6,43,RAM,Barney McGarry,G,Utah
+188,1938,NFL,6,46,DET,Karl Schleckman,T,Utah
+189,1938,NFL,9,74,PIT,Paul McDonough,E,Utah

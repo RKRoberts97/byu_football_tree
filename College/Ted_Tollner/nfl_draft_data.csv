@@ -1,0 +1,736 @@
+Rk,Year,Lg,Rnd,Pick,Tm,Player,Pos,School,Coach
+1,2025,NFL,3,97,HOU,Jaylin Smith,CB,USC,Ted Tollner
+2,2025,NFL,4,116,HOU,Woody Marks,RB,USC,Ted Tollner
+3,2025,NFL,7,221,JAX,Jonah Monheim,OL,USC,Ted Tollner
+4,2024,NFL,1,1,CHI,Caleb Williams,QB,USC,Ted Tollner
+5,2024,NFL,3,78,HOU,Calen Bullock,SAF,USC,Ted Tollner
+6,2024,NFL,3,88,GNB,MarShawn Lloyd,RB,USC,Ted Tollner
+7,2024,NFL,6,215,SFO,Jarrett Kingston,OL,USC,Ted Tollner
+8,2024,NFL,7,225,LAC,Brenden Rice,WR,USC,Ted Tollner
+9,2024,NFL,7,238,HOU,Solomon Byrd,DE,USC,Ted Tollner
+10,2024,NFL,7,241,MIA,Tahj Washington,WR,USC,Ted Tollner
+11,2023,NFL,1,23,MIN,Jordan Addison,WR,USC,Ted Tollner
+12,2023,NFL,2,54,LAC,Tuli Tuipulotu,DL,USC,Ted Tollner
+13,2023,NFL,3,102,MIN,Mekhi Blackmon,CB,USC,Ted Tollner
+14,2023,NFL,7,229,BAL,Andrew Vorhees,OL,USC,Ted Tollner
+15,2022,NFL,1,8,ATL,Drake London,WR,USC,Ted Tollner
+16,2022,NFL,2,61,SFO,Drake Jackson,OLB,USC,Ted Tollner
+17,2022,NFL,6,201,ARI,Keaontay Ingram,RB,USC,Ted Tollner
+18,2021,NFL,1,14,NYJ,Alijah Vera-Tucker,OL,USC,Ted Tollner
+19,2021,NFL,4,106,JAX,Jay Tufele,DL,USC,Ted Tollner
+20,2021,NFL,4,112,DET,Amon-Ra St. Brown,WR,USC,Ted Tollner
+21,2021,NFL,5,180,SFO,Talanoa Hufanga,S,USC,Ted Tollner
+22,2021,NFL,6,189,PHI,Marlon Tuipulotu,DL,USC,Ted Tollner
+23,2020,NFL,1,18,MIA,Austin Jackson,T,USC,Ted Tollner
+24,2020,NFL,2,34,IND,Michael Pittman Jr.,WR,USC,Ted Tollner
+25,2019,NFL,3,92,NYJ,Chuma Edoga,T,USC,Ted Tollner
+26,2019,NFL,4,127,BAL,Iman Marshall,CB,USC,Ted Tollner
+27,2019,NFL,5,144,IND,Marvell Tell III,S,USC,Ted Tollner
+28,2019,NFL,5,162,MIN,Cameron Smith,LB,USC,Ted Tollner
+29,2018,NFL,1,3,NYJ,Sam Darnold,QB,USC,Ted Tollner
+30,2018,NFL,2,38,TAM,Ronald Jones II,RB,USC,Ted Tollner
+31,2018,NFL,2,48,LAC,Uchenna Nwosu,OLB,USC,Ted Tollner
+32,2018,NFL,3,79,SEA,Rasheem Green,DT,USC,Ted Tollner
+33,2017,NFL,1,18,TEN,Adoree' Jackson,CB,USC,Ted Tollner
+34,2017,NFL,2,62,PIT,JuJu Smith-Schuster,WR,USC,Ted Tollner
+35,2017,NFL,4,137,IND,Zach Banner,T,USC,Ted Tollner
+36,2017,NFL,6,218,KAN,Leon McQuay,S,USC,Ted Tollner
+37,2017,NFL,7,223,TAM,Stevie Tu'ikolovatu,NT,USC,Ted Tollner
+38,2016,NFL,2,53,WAS,Su'a Cravens,OLB,USC,Ted Tollner
+39,2016,NFL,3,66,SDG,Max Tuerk,C,USC,Ted Tollner
+40,2016,NFL,3,93,CLE,Cody Kessler,QB,USC,Ted Tollner
+41,2016,NFL,6,218,BUF,Kevon Seymour,CB,USC,Ted Tollner
+42,2015,NFL,1,6,NYJ,Leonard Williams,DE,USC,Ted Tollner
+43,2015,NFL,1,20,PHI,Nelson Agholor,WR,USC,Ted Tollner
+44,2015,NFL,4,120,CIN,Josh Shaw,CB,USC,Ted Tollner
+45,2015,NFL,4,125,BAL,Javorius Allen,RB,USC,Ted Tollner
+46,2015,NFL,6,198,CLE,Randall Telfer,TE,USC,Ted Tollner
+47,2015,NFL,7,219,CLE,Hayes Pullard,ILB,USC,Ted Tollner
+48,2014,NFL,2,39,JAX,Marqise Lee,WR,USC,Ted Tollner
+49,2014,NFL,3,70,SFO,Marcus Martin,C,USC,Ted Tollner
+50,2014,NFL,5,174,NYG,Devon Kennard,DE,USC,Ted Tollner
+51,2013,NFL,2,41,BUF,Robert Woods,WR,USC,Ted Tollner
+52,2013,NFL,3,71,STL,T.J. McDonald,DB,USC,Ted Tollner
+53,2013,NFL,4,98,PHI,Matt Barkley,QB,USC,Ted Tollner
+54,2013,NFL,4,121,IND,Khaled Holmes,C,USC,Ted Tollner
+55,2012,NFL,1,4,MIN,Matt Kalil,T,USC,Ted Tollner
+56,2012,NFL,1,28,GNB,Nick Perry,DE,USC,Ted Tollner
+57,2012,NFL,4,128,MIN,Rhett Ellison,RB,USC,Ted Tollner
+58,2011,NFL,1,9,DAL,Tyron Smith,T,USC,Ted Tollner
+59,2011,NFL,3,77,TEN,Jurrell Casey,DT,USC,Ted Tollner
+60,2011,NFL,3,89,SDG,Shareece Wright,DB,USC,Ted Tollner
+61,2011,NFL,4,102,CLE,Jordan Cameron,TE,USC,Ted Tollner
+62,2011,NFL,6,182,SFO,Ronald Johnson,WR,USC,Ted Tollner
+63,2011,NFL,6,187,TAM,Allen Bradford,RB,USC,Ted Tollner
+64,2011,NFL,7,240,PHI,Stanley Havili,RB,USC,Ted Tollner
+65,2011,NFL,7,241,OAK,David Ausberry,WR,USC,Ted Tollner
+66,2011,NFL,7,242,SEA,Malcolm Smith,LB,USC,Ted Tollner
+67,2010,NFL,2,49,SFO,Taylor Mays,DB,USC,Ted Tollner
+68,2010,NFL,2,64,NOR,Charles Brown,T,USC,Ted Tollner
+69,2010,NFL,3,77,TEN,Damian Williams,WR,USC,Ted Tollner
+70,2010,NFL,3,94,IND,Kevin Thomas,DB,USC,Ted Tollner
+71,2010,NFL,4,100,MIN,Everson Griffen,DE,USC,Ted Tollner
+72,2010,NFL,4,112,NYJ,Joe McKnight,RB,USC,Ted Tollner
+73,2010,NFL,6,185,SEA,Anthony McCoy,TE,USC,Ted Tollner
+74,2009,NFL,1,5,NYJ,Mark Sanchez,QB,USC,Ted Tollner
+75,2009,NFL,1,15,HOU,Brian Cushing,LB,USC,Ted Tollner
+76,2009,NFL,1,26,GNB,Clay Matthews,LB,USC,Ted Tollner
+77,2009,NFL,2,38,CIN,Rey Maualuga,LB,USC,Ted Tollner
+78,2009,NFL,2,56,IND,Fili Moala,DT,USC,Ted Tollner
+79,2009,NFL,3,87,MIA,Patrick Turner,WR,USC,Ted Tollner
+80,2009,NFL,4,104,CLE,Kaluka Maiava,LB,USC,Ted Tollner
+81,2009,NFL,4,117,TAM,Kyle Moore,DE,USC,Ted Tollner
+82,2009,NFL,5,172,DAL,David Buehler,K,USC,Ted Tollner
+83,2009,NFL,6,183,BUF,Cary Harris,DB,USC,Ted Tollner
+84,2009,NFL,6,189,SDG,Kevin Ellison,LB,USC,Ted Tollner
+85,2008,NFL,1,7,NOR,Sedrick Ellis,DT,USC,Ted Tollner
+86,2008,NFL,1,9,CIN,Keith Rivers,LB,USC,Ted Tollner
+87,2008,NFL,1,21,ATL,Sam Baker,T,USC,Ted Tollner
+88,2008,NFL,1,28,SEA,Lawrence Jackson,DE,USC,Ted Tollner
+89,2008,NFL,2,39,SFO,Chilo Rachal,G,USC,Ted Tollner
+90,2008,NFL,2,48,WAS,Fred Davis,TE,USC,Ted Tollner
+91,2008,NFL,2,63,NYG,Terrell Thomas,DB,USC,Ted Tollner
+92,2008,NFL,5,137,MIN,John David Booty,QB,USC,Ted Tollner
+93,2008,NFL,5,155,JAX,Thomas Williams,LB,USC,Ted Tollner
+94,2008,NFL,7,213,JAX,Chauncey Washington,RB,USC,Ted Tollner
+95,2007,NFL,2,45,CAR,Dwayne Jarrett,WR,USC,Ted Tollner
+96,2007,NFL,2,51,NYG,Steve Smith,WR,USC,Ted Tollner
+97,2007,NFL,2,59,CAR,Ryan Kalil,C,USC,Ted Tollner
+98,2007,NFL,5,143,WAS,Dallas Sartz,LB,USC,Ted Tollner
+99,2007,NFL,7,211,NWE,Oscar Lua,LB,USC,Ted Tollner
+100,2006,NFL,1,2,NOR,Reggie Bush,RB,USC,Ted Tollner
+101,2006,NFL,1,10,ARI,Matt Leinart,QB,USC,Ted Tollner
+102,2006,NFL,2,39,PHI,Winston Justice,T,USC,Ted Tollner
+103,2006,NFL,2,41,ARI,Deuce Lutui,G,USC,Ted Tollner
+104,2006,NFL,2,45,TEN,LenDale White,RB,USC,Ted Tollner
+105,2006,NFL,3,91,CIN,Frostee Rucker,DE,USC,Ted Tollner
+106,2006,NFL,3,93,STL,Dominique Byrd,TE,USC,Ted Tollner
+107,2006,NFL,4,101,OAK,Darnell Bing,DB,USC,Ted Tollner
+108,2006,NFL,5,163,SEA,David Kirtman,RB,USC,Ted Tollner
+109,2006,NFL,6,204,PHI,LaJuan Ramsey,DT,USC,Ted Tollner
+110,2006,NFL,7,217,DET,Fred Matua,G,USC,Ted Tollner
+111,2005,NFL,5*,1,MIA,Manuel Wright,DT,USC,Ted Tollner
+112,2005,NFL,1,10,DET,Mike Williams,WR,USC,Ted Tollner
+113,2005,NFL,1,31,PHI,Mike Patterson,DT,USC,Ted Tollner
+114,2005,NFL,2,37,DET,Shaun Cody,DT,USC,Ted Tollner
+115,2005,NFL,2,45,SEA,Lofa Tatupu,LB,USC,Ted Tollner
+116,2005,NFL,7,230,NWE,Matt Cassel,QB,USC,Ted Tollner
+117,2004,NFL,1,20,MIN,Kenechi Udeze,DE,USC,Ted Tollner
+118,2004,NFL,2,52,DAL,Jacob Rogers,T,USC,Ted Tollner
+119,2004,NFL,2,62,CAR,Keary Colbert,WR,USC,Ted Tollner
+120,2004,NFL,4,102,MIA,Will Poole,DB,USC,Ted Tollner
+121,2003,NFL,1,1,CIN,Carson Palmer,QB,USC,Ted Tollner
+122,2003,NFL,1,16,PIT,Troy Polamalu,DB,USC,Ted Tollner
+123,2003,NFL,3,96,OAK,Justin Fargas,FB,USC,Ted Tollner
+124,2003,NFL,6,203,NOR,Kareem Kelly,WR,USC,Ted Tollner
+125,2003,NFL,7,218,JAX,Malaefou MacKenzie,FB,USC,Ted Tollner
+126,2002,NFL,3,85,SEA,Kris Richard,DB,USC,Ted Tollner
+127,2002,NFL,6,175,DET,Chris Cash,DB,USC,Ted Tollner
+128,2001,NFL,4,122,DAL,Markus Steele,LB,USC,Ted Tollner
+129,2001,NFL,5,139,SDG,Zeke Moreno,LB,USC,Ted Tollner
+130,2001,NFL,7,221,NOR,Ennis Davis,DT,USC,Ted Tollner
+131,2000,NFL,1,29,JAX,R. Jay Soward,WR,USC,Ted Tollner
+132,2000,NFL,2,37,ATL,Travis Claridge,G,USC,Ted Tollner
+133,2000,NFL,5,143,NYJ,Windrell Hayes,WR,USC,Ted Tollner
+134,2000,NFL,5,166,NOR,Chad Morton,RB,USC,Ted Tollner
+135,2000,NFL,6,193,TAM,David Gibson,DB,USC,Ted Tollner
+136,1999,NFL,1,9,DET,Chris Claiborne,LB,USC,Ted Tollner
+137,1999,NFL,3,62,CLE,Daylon McCutcheon,DB,USC,Ted Tollner
+138,1999,NFL,4,108,KAN,Larry Parker,WR,USC,Ted Tollner
+139,1999,NFL,6,184,CHI,Rashard Cook,DB,USC,Ted Tollner
+140,1999,NFL,7,218,DEN,Billy Miller,TE,USC,Ted Tollner
+141,1998,NFL,2,45,TAM,Brian Kelly,DB,USC,Ted Tollner
+142,1997,NFL,1,2,OAK,Darrell Russell,DT,USC,Ted Tollner
+143,1997,NFL,2,38,CHI,John Allred,TE,USC,Ted Tollner
+144,1997,NFL,7,208,NYG,Matt Keneley,DT,USC,Ted Tollner
+145,1997,NFL,7,213,GNB,Chris Miller,WR,USC,Ted Tollner
+146,1996,NFL,1,1,NYJ,Keyshawn Johnson,WR,USC,Ted Tollner
+147,1996,NFL,1,27,GNB,John Michels,T,USC,Ted Tollner
+148,1996,NFL,2,46,SFO,Israel Ifeanyi,DE,USC,Ted Tollner
+149,1996,NFL,3,64,ARI,Johnny McWilliams,TE,USC,Ted Tollner
+150,1996,NFL,4,106,CAR,Norbert Davidds-Garrido,T,USC,Ted Tollner
+151,1996,NFL,7,240,GNB,Kyle Wachholtz,QB,USC,Ted Tollner
+152,1995,NFL,1,2,JAX,Tony Boselli,T,USC,Ted Tollner
+153,1995,NFL,3,73,GNB,Brian Williams,LB,USC,Ted Tollner
+154,1995,NFL,4,99,JAX,Rob Johnson,QB,USC,Ted Tollner
+155,1995,NFL,5,166,DAL,Edward Hervey,WR,USC,Ted Tollner
+156,1995,NFL,6,194,MIA,Jeff Kopp,LB,USC,Ted Tollner
+157,1995,NFL,7,247,PIT,Cole Ford,K,USC,Ted Tollner
+158,1994,NFL,1,4,NWE,Willie McGinest,DE,USC,Ted Tollner
+159,1994,NFL,1,21,DET,Johnnie Morton,WR,USC,Ted Tollner
+160,1994,NFL,2,59,NYG,Jason Sehorn,DB,USC,Ted Tollner
+161,1994,NFL,4,106,IND,Bradford Banta,TE,USC,Ted Tollner
+162,1993,NFL,1,7,CHI,Curtis Conway,WR,USC,Ted Tollner
+163,1993,NFL,4,102,HOU,Travis Hannah,WR,USC,Ted Tollner
+164,1993,NFL,8,212,WAS,Lamont Hollinquest,LB,USC,Ted Tollner
+165,1992,NFL,2,42,NYJ,Kurt Barber,LB,USC,Ted Tollner
+166,1992,NFL,7,196,WAS,Calvin Holmes,DB,USC,Ted Tollner
+167,1992,NFL,8,204,NWE,Scott Lockwood,RB,USC,Ted Tollner
+168,1992,NFL,10,267,MIA,Raoul Spears,RB,USC,Ted Tollner
+169,1992,NFL,11,284,TAM,Mazio Royster,RB,USC,Ted Tollner
+170,1991,NFL,1,11,NWE,Pat Harlow,T,USC,Ted Tollner
+171,1991,NFL,1,24,RAI,Todd Marinovich,QB,USC,Ted Tollner
+172,1991,NFL,3,76,WAS,Ricky Ervins,RB,USC,Ted Tollner
+173,1991,NFL,5,129,HOU,Gary Wellman,WR,USC,Ted Tollner
+174,1991,NFL,7,186,ATL,Mark Tucker,G,USC,Ted Tollner
+175,1991,NFL,9,227,DEN,Don Gibson,DT,USC,Ted Tollner
+176,1991,NFL,10,260,TAM,Pat O'Hara,QB,USC,Ted Tollner
+177,1991,NFL,11,293,NOR,Scott Ross,LB,USC,Ted Tollner
+178,1990,NFL,1,5,SDG,Junior Seau,LB,USC,Ted Tollner
+179,1990,NFL,1,6,CHI,Mark Carrier,DB,USC,Ted Tollner
+180,1990,NFL,2,35,DET,Dan Owens,DE,USC,Ted Tollner
+181,1990,NFL,3,61,CHI,Tim Ryan,DE,USC,Ted Tollner
+182,1990,NFL,4,94,IND,William Schultz,G,USC,Ted Tollner
+183,1990,NFL,5,137,MIA,Leroy Holt,RB,USC,Ted Tollner
+184,1990,NFL,7,178,CLE,Scott Galbraith,TE,USC,Ted Tollner
+185,1990,NFL,7,191,NYG,Aaron Emanuel,RB,USC,Ted Tollner
+186,1990,NFL,8,219,DEN,Brad Leggett,C,USC,Ted Tollner
+187,1990,NFL,10,267,NOR,Ernest Spears,DB,USC,Ted Tollner
+188,1989,NFL,4,110,WAS,Erik Affholter,WR,USC,Ted Tollner
+189,1989,NFL,6,141,DET,Rodney Peete,QB,USC,Ted Tollner
+190,1989,NFL,7,193,BUF,Chris Hale,DB,USC,Ted Tollner
+191,1989,NFL,8,208,DEN,Paul Green,TE,USC,Ted Tollner
+192,1989,NFL,12,332,BUF,Derrell Marshall,T,USC,Ted Tollner
+193,1988,NFL,1,8,NYJ,Dave Cadigan,G,USC,Ted Tollner
+194,1988,NFL,2,28,ATL,Marcus Cotton,LB,USC,Ted Tollner
+195,1987,NFL,2,34,STL,Tim McDonald,DB,USC,Ted Tollner
+196,1987,NFL,2,37,SFO,Jeff Bregel,G,USC,Ted Tollner
+197,1987,NFL,2,53,SDG,Lou Brock,DB,USC,Ted Tollner
+198,1987,NFL,8,204,SDG,Ron Brown,LB,USC,Ted Tollner
+199,1986,NFL,1,13,SDG,James FitzPatrick,T,USC,Ted Tollner
+200,1986,NFL,5,125,GNB,Matt Koart,DE,USC,Ted Tollner
+201,1986,NFL,5,133,SDG,Matt Johnson,DB,USC,Ted Tollner
+202,1986,NFL,5,134,DEN,Tony Colorito,NT,USC,Ted Tollner
+203,1986,NFL,9,236,GNB,Brent Moore,LB,USC,Ted Tollner
+204,1986,NFL,9,243,RAM,Elbert Watts,DB,USC,Ted Tollner
+205,1986,NFL,9,246,RAI,Zeph Lee,DB,USC,Ted Tollner
+206,1986,NFL,10,259,MIN,Joe Cormier,LB,USC,Ted Tollner
+207,1986,NFL,10,273,RAM,Garrett Breeland,LB,USC,Ted Tollner
+208,1985,NFL,1,5,IND,Duane Bickett,LB,USC,Ted Tollner
+209,1985,NFL,1,7,GNB,Ken Ruettgers,T,USC,Ted Tollner
+210,1985,NFL,3,68,NOR,Jack Del Rio,LB,USC,Ted Tollner
+211,1985,NFL,5,124,NYJ,Brian Luft,DT,USC,Ted Tollner
+212,1985,NFL,9,229,IND,Mark Boyer,TE,USC,Ted Tollner
+213,1984,NFL,2,30,TAM,Keith Browner,LB,USC,Ted Tollner
+214,1984,NFL,2*,54,DAL,Malcolm Moore,WR,USC,Ted Tollner
+215,1984,NFL,3,81,DAL,Fred Cornwell,TE,USC,Ted Tollner
+216,1984,NFL,6,155,BUF,Tony Slaton,C,USC,Ted Tollner
+217,1984,NFL,11,293,RAM,Michael Harper,WR,USC,Ted Tollner
+218,1983,NFL,1,9,HOU,Bruce Matthews,G,USC,Ted Tollner
+219,1983,NFL,1,19,MIN,Joey Browner,DB,USC,Ted Tollner
+220,1983,NFL,1,26,RAI,Don Mosebar,C,USC,Ted Tollner
+221,1983,NFL,3,57,BAL,George Achica,DT,USC,Ted Tollner
+222,1983,NFL,4,94,DET,August Curley,LB,USC,Ted Tollner
+223,1983,NFL,4,99,TAM,Kelly Thomas,T,USC,Ted Tollner
+224,1983,NFL,5,117,SFO,Riki Ellison,LB,USC,Ted Tollner
+225,1983,NFL,5,120,PHI,Byron Darby,DE,USC,Ted Tollner
+226,1983,NFL,7,171,RAM,Jeff Simmons,WR,USC,Ted Tollner
+227,1983,NFL,8,200,RAM,Troy West,DB,USC,Ted Tollner
+228,1983,NFL,12,327,GNB,John Harvey,DT,USC,Ted Tollner
+229,1982,NFL,1,3,CLE,Chip Banks,LB,USC,Ted Tollner
+230,1982,NFL,1,10,RAI,Marcus Allen,RB,USC,Ted Tollner
+231,1982,NFL,1,24,MIA,Roy Foster,G,USC,Ted Tollner
+232,1982,NFL,9,245,BUF,Dennis Edwards,DE,USC,Ted Tollner
+233,1982,NFL,10,257,CHI,Joe Turner,DB,USC,Ted Tollner
+234,1981,NFL,1,8,SFO,Ronnie Lott,DB,USC,Ted Tollner
+235,1981,NFL,1,11,CHI,Keith Van Horne,T,USC,Ted Tollner
+236,1981,NFL,1,15,DEN,Dennis Smith,DB,USC,Ted Tollner
+237,1981,NFL,3,71,NOR,Hoby Brenner,TE,USC,Ted Tollner
+238,1981,NFL,7,167,NOR,Kevin Williams,WR,USC,Ted Tollner
+239,1981,NFL,7,177,CHI,Jeff Fisher,DB,USC,Ted Tollner
+240,1981,NFL,7,181,DEN,Steve Busick,LB,USC,Ted Tollner
+241,1981,NFL,9,239,PIT,James Hunter,NT,USC,Ted Tollner
+242,1981,NFL,12,315,BAL,Eric Scoggins,LB,USC,Ted Tollner
+243,1980,NFL,9*,2,SDG,Billy Mullins,WR,USC,Ted Tollner
+244,1980,NFL,1,3,CIN,Anthony Munoz,T,USC,Ted Tollner
+245,1980,NFL,1,11,KAN,Brad Budde,G,USC,Ted Tollner
+246,1980,NFL,1,27,CLE,Charles White,RB,USC,Ted Tollner
+247,1980,NFL,2,45,NWE,Larry McGrew,LB,USC,Ted Tollner
+248,1980,NFL,3,64,NYG,Myron Lapka,NT,USC,Ted Tollner
+249,1980,NFL,4,88,BAL,Ray Butler,WR,USC,Ted Tollner
+250,1980,NFL,4,92,MIN,Dennis Johnson,LB,USC,Ted Tollner
+251,1980,NFL,4,109,CLE,Paul McDonald,QB,USC,Ted Tollner
+252,1980,NFL,6,144,BAL,Chris Foote,C,USC,Ted Tollner
+253,1979,NFL,2,49,ATL,Pat Howell,G,USC,Ted Tollner
+254,1979,NFL,4,100,ATL,Lynn Cain,RB,USC,Ted Tollner
+255,1979,NFL,4,110,PIT,Calvin Sweeney,WR,USC,Ted Tollner
+256,1979,NFL,5,115,BAL,Larry Braziel,DB,USC,Ted Tollner
+257,1979,NFL,5,124,CLE,Rich Dimler,DT,USC,Ted Tollner
+258,1979,NFL,6,155,DAL,Tim Lavender,DB,USC,Ted Tollner
+259,1979,NFL,8,214,HOU,Carter Hartwig,DB,USC,Ted Tollner
+260,1979,NFL,9,247,DAL,Garry Cobb,LB,USC,Ted Tollner
+261,1978,NFL,12*,2,SFO,Rod Connors,RB,USC,Ted Tollner
+262,1978,NFL,1,12,CLE,Clay Matthews,LB,USC,Ted Tollner
+263,1978,NFL,2,55,DEN,William Gay,DE,USC,Ted Tollner
+264,1978,NFL,5,131,CIN,Rob Hertel,QB,USC,Ted Tollner
+265,1978,NFL,7,168,KAN,Ricky Odom,DB,USC,Ted Tollner
+266,1978,NFL,7,171,BUF,Mario Celotto,LB,USC,Ted Tollner
+267,1978,NFL,8,215,NWE,Mosi Tatupu,RB,USC,Ted Tollner
+268,1978,NFL,11,298,CHI,Walt Underwood,DE,USC,Ted Tollner
+269,1978,NFL,11,306,DAL,Dennis Thurman,DB,USC,Ted Tollner
+270,1978,NFL,12,322,HOU,John Schuhmacher,G,USC,Ted Tollner
+271,1977,NFL,1,1,TAM,Ricky Bell,RB,USC,Ted Tollner
+272,1977,NFL,1,4,NYJ,Marvin Powell,T,USC,Ted Tollner
+273,1977,NFL,1,5,NYG,Gary Jeter,DE,USC,Ted Tollner
+274,1977,NFL,2,29,TAM,Dave Lewis,LB,USC,Ted Tollner
+275,1977,NFL,5,120,ATL,Shelton Diggs,WR,USC,Ted Tollner
+276,1977,NFL,5,130,RAM,Donnie Hickman,G,USC,Ted Tollner
+277,1977,NFL,6,140,CHI,Vince Evans,QB,USC,Ted Tollner
+278,1977,NFL,6,141,SFO,Mike Burns,DB,USC,Ted Tollner
+279,1977,NFL,7,173,CLE,Kenny Randle,WR,USC,Ted Tollner
+280,1977,NFL,7,181,SDG,Ron Bush,DB,USC,Ted Tollner
+281,1977,NFL,8,216,STL,Eric Williams,LB,USC,Ted Tollner
+282,1977,NFL,8,222,MIN,Clint Strozier,DB,USC,Ted Tollner
+283,1977,NFL,11,287,ATL,Dave Farmer,RB,USC,Ted Tollner
+284,1977,NFL,12,317,OAK,Rod Martin,LB,USC,Ted Tollner
+285,1976,NFL,3,69,CIN,Danny Reece,DB,USC,Ted Tollner
+286,1976,NFL,8,211,NYJ,Joe Davis,G,USC,Ted Tollner
+287,1976,NFL,12,328,GNB,Melvin Jackson,G,USC,Ted Tollner
+288,1976,NFL,16,454,OAK,Doug Hogan,DB,USC,Ted Tollner
+289,1975,NFL,2,37,NYJ,Anthony Davis,RB,USC,Ted Tollner
+290,1975,NFL,2,45,OAK,Charlie Phillips,DB,USC,Ted Tollner
+291,1975,NFL,2,47,GNB,Bill Bain,T,USC,Ted Tollner
+292,1975,NFL,2,52,MIN,Art Riley,DT,USC,Ted Tollner
+293,1975,NFL,3,68,NYJ,Richard Wood,LB,USC,Ted Tollner
+294,1975,NFL,4,86,NWE,Allen Carter,RB,USC,Ted Tollner
+295,1975,NFL,7,158,NYG,Jim Obradovich,TE,USC,Ted Tollner
+296,1975,NFL,7,176,RAM,Pat Haden,QB,USC,Ted Tollner
+297,1975,NFL,10,242,SDG,Otha Bradley,DT,USC,Ted Tollner
+298,1975,NFL,11,276,CIN,Marvin Cobb,DB,USC,Ted Tollner
+299,1975,NFL,13,322,SFO,Dale Mitchell,LB,USC,Ted Tollner
+300,1975,NFL,16,393,ATL,Steve Knutson,G,USC,Ted Tollner
+301,1975,NFL,16,394,CLE,John McKay,WR,USC,Ted Tollner
+302,1975,NFL,16,400,GNB,Bob McCaffrey,C,USC,Ted Tollner
+303,1974,NFL,1,21,PIT,Lynn Swann,WR,USC,Ted Tollner
+304,1974,NFL,1,25,MIN,Steve Riley,T,USC,Ted Tollner
+305,1974,NFL,4,88,NOR,Rod McNeill,RB,USC,Ted Tollner
+306,1974,NFL,6,154,HOU,Booker Brown,T,USC,Ted Tollner
+307,1974,NFL,8,194,GNB,Monte Doris,LB,USC,Ted Tollner
+308,1974,NFL,9,216,SFO,Manfred Moore,RB,USC,Ted Tollner
+309,1974,NFL,12,288,NYG,Jim Sims,LB,USC,Ted Tollner
+310,1974,NFL,12,297,PHI,Artimus Parker,DB,USC,Ted Tollner
+311,1974,NFL,15,366,SDG,Charles Anthony,LB,USC,Ted Tollner
+312,1973,NFL,1,6,PHI,Charle Young,TE,USC,Ted Tollner
+313,1973,NFL,1,11,NWE,Sam Cunningham,RB,USC,Ted Tollner
+314,1973,NFL,1,22,CLE,Pete Adams,G,USC,Ted Tollner
+315,1973,NFL,2,32,BUF,Jeff Winans,G,USC,Ted Tollner
+316,1973,NFL,4,82,NWE,Allen Gallaher,T,USC,Ted Tollner
+317,1973,NFL,5,105,HOU,Edesel Garrison,WR,USC,Ted Tollner
+318,1973,NFL,7,166,DEN,John Grant,DT,USC,Ted Tollner
+319,1973,NFL,8,205,OAK,Mike Rae,QB,USC,Ted Tollner
+320,1973,NFL,9,234,MIA,Karl Lorch,DE,USC,Ted Tollner
+321,1973,NFL,17,439,OAK,Mike Ryan,G,USC,Ted Tollner
+322,1972,NFL,2,31,NOR,Willie Hall,LB,USC,Ted Tollner
+323,1972,NFL,2,43,OAK,John Vella,T,USC,Ted Tollner
+324,1972,NFL,7,176,OAK,Skip Thomas,DB,USC,Ted Tollner
+325,1972,NFL,17,420,DEN,Lou Harris,RB,USC,Ted Tollner
+326,1972,NFL,17,422,STL,Kent Carter,LB,USC,Ted Tollner
+327,1972,NFL,17,431,ATL,Bill Holland,RB,USC,Ted Tollner
+328,1971,NFL,1,12,DEN,Marv Montgomery,T,USC,Ted Tollner
+329,1971,NFL,1,25,DAL,Tody Smith,DE,USC,Ted Tollner
+330,1971,NFL,2,48,DET,Charlie Weaver,LB,USC,Ted Tollner
+331,1971,NFL,3,55,SFO,Sam Dickerson,WR,USC,Ted Tollner
+332,1971,NFL,4,86,PIT,Gerry Mullins,G,USC,Ted Tollner
+333,1971,NFL,4,97,OAK,Clarence Davis,RB,USC,Ted Tollner
+334,1971,NFL,6,149,OAK,Greg Slough,LB,USC,Ted Tollner
+335,1971,NFL,6,152,DET,Herman Franklin,WR,USC,Ted Tollner
+336,1971,NFL,7,160,BUF,Bob Chandler,WR,USC,Ted Tollner
+337,1971,NFL,14,356,NYG,Charlie Evans,RB,USC,Ted Tollner
+338,1970,NFL,1,5,BUF,Al Cowlings,DE,USC,Ted Tollner
+339,1970,NFL,1,26,KAN,Sid Smith,C,USC,Ted Tollner
+340,1970,NFL,5,113,SFO,Gary McArthur,T,USC,Ted Tollner
+341,1970,NFL,6,137,CIN,Sandy Durko,DB,USC,Ted Tollner
+342,1970,NFL,6,149,DET,Tony Terry,DT,USC,Ted Tollner
+343,1970,NFL,7,169,ATL,Gary Orcutt,WR,USC,Ted Tollner
+344,1970,NFL,8,201,STL,Mike Holmgren,QB,USC,Ted Tollner
+345,1970,NFL,13,314,CHI,Jimmy Gunn,LB,USC,Ted Tollner
+346,1970,NFL,17,437,RAM,Don Crenshaw,DB,USC,Ted Tollner
+347,1969,NFL,1,1,BUF,O.J. Simpson,RB,USC,Ted Tollner
+348,1969,NFL,1,21,RAM,Bob Klein,TE,USC,Ted Tollner
+349,1969,NFL,5,116,GNB,Bill Hayhoe,T,USC,Ted Tollner
+350,1969,NFL,6,138,NOR,Bob Miller,TE,USC,Ted Tollner
+351,1969,NFL,8,189,NOR,Jim Lawrence,FL,USC,Ted Tollner
+352,1969,NFL,12,302,SFO,Jack O'Malley,T,USC,Ted Tollner
+353,1969,NFL,12,311,NYJ,Mike Battle,DB,USC,Ted Tollner
+354,1969,NFL,13,320,DET,Wilson Bowie,RB,USC,Ted Tollner
+355,1968,NFL,1,1,MIN,Ron Yary,T,USC,Ted Tollner
+356,1968,NFL,1,10,PIT,Mike Taylor,T,USC,Ted Tollner
+357,1968,NFL,1,14,PHI,Tim Rossovich,LB,USC,Ted Tollner
+358,1968,NFL,1,16,CHI,Mike Hull,RB,USC,Ted Tollner
+359,1968,NFL,1,24,DET,Earl McCullouch,WR,USC,Ted Tollner
+360,1968,NFL,3,68,PHI,Adrian Young,LB,USC,Ted Tollner
+361,1968,NFL,4,94,WAS,Dennis Crane,DT,USC,Ted Tollner
+362,1968,NFL,4,101,NYJ,Gary Magner,DT,USC,Ted Tollner
+363,1968,NFL,11,298,OAK,Chip Oliver,LB,USC,Ted Tollner
+364,1968,NFL,17,438,DEN,Steve Grady,RB,USC,Ted Tollner
+365,1968,NFL,17,439,NOR,James Ferguson,C,USC,Ted Tollner
+366,1967,NFL,4,89,PIT,Ray May,LB,USC,Ted Tollner
+367,1967,NFL,5,108,NOR,Don McCall,RB,USC,Ted Tollner
+368,1967,NFL,5,122,RAM,Nate Shaw,DB,USC,Ted Tollner
+369,1967,NFL,10,245,DET,Jerry Hayhoe,G,USC,Ted Tollner
+370,1967,NFL,13,324,PIT,Jim Homan,G,USC,Ted Tollner
+371,1966,AFL,1,7,OAK,Rod Sherman,WR,USC,Ted Tollner
+372,1966,NFL,2,18,RAM,Mike Garrett,RB,USC,Ted Tollner
+373,1966,NFL,4,54,BAL,Rod Sherman,WR,USC,Ted Tollner
+374,1966,AFL,9,81,BUF,Ed King,LB,USC,Ted Tollner
+375,1966,AFL,11,96,KAN,Denis Moore,DT,USC,Ted Tollner
+376,1966,NFL,10,151,NYG,Jeff Smith,LB,USC,Ted Tollner
+377,1966,AFL,20,178,KAN,Mike Garrett,RB,USC,Ted Tollner
+378,1966,NFL,13,198,GNB,Ed King,LB,USC,Ted Tollner
+379,1966,NFL,14,211,DET,Denis Moore,DT,USC,Ted Tollner
+380,1966,NFL,19,277,RAM,Homer Williams,FL,USC,Ted Tollner
+381,1966,NFL,19,288,GNB,Dave Moton,E,USC,Ted Tollner
+382,1965,AFL,3,19,OAK,Bob Svihus,T,USC,Ted Tollner
+383,1965,AFL,5,37,KAN,John Thomas,E,USC,Ted Tollner
+384,1965,NFL,4,48,PHI,Fred Hill,TE,USC,Ted Tollner
+385,1965,NFL,4,53,DAL,Bob Svihus,T,USC,Ted Tollner
+386,1965,AFL,16,123,OAK,Fred Hill,TE,USC,Ted Tollner
+387,1965,NFL,11,148,MIN,John Thomas,E,USC,Ted Tollner
+388,1965,NFL,15,197,NYG,Mike Giers,G,USC,Ted Tollner
+389,1965,NFL,17,233,RAM,Ed Blecksmith,B,USC,Ted Tollner
+390,1965,NFL,20,270,PIT,Craig Fertig,QB,USC,Ted Tollner
+391,1964,AFL,1,2,KAN,Pete Beathard,QB,USC,Ted Tollner
+392,1964,NFL,1,5,DET,Pete Beathard,QB,USC,Ted Tollner
+393,1964,NFL,2,19,MIN,Hal Bedsole,TE,USC,Ted Tollner
+394,1964,NFL,3,32,RAM,Willie Brown,WR,USC,Ted Tollner
+395,1964,AFL,5,40,SDG,Gary Kirner,G,USC,Ted Tollner
+396,1964,AFL,6,48,SDG,Willie Brown,WR,USC,Ted Tollner
+397,1964,AFL,8,58,KAN,Hal Bedsole,TE,USC,Ted Tollner
+398,1964,AFL,15,119,OAK,Mike Giers,T,USC,Ted Tollner
+399,1964,NFL,18,241,DAL,Theophile Viltz,DB,USC,Ted Tollner
+400,1963,NFL,10,136,PIT,Bill Nelsen,QB,USC,Ted Tollner
+401,1963,NFL,15,205,CLE,Lynn Reade,T,USC,Ted Tollner
+402,1962,NFL,3,32,CHI,Jim Bates,E,USC,Ted Tollner
+403,1962,AFL,6,48,SDG,Frank Buncom,LB,USC,Ted Tollner
+404,1962,NFL,5,68,RAM,Ben Wilson,FB,USC,Ted Tollner
+405,1962,NFL,6,80,DET,Mike Bundra,DT,USC,Ted Tollner
+406,1962,AFL,14,112,SDG,Jim Bates,HB,USC,Ted Tollner
+407,1962,NFL,12,156,RAM,Marv Marinovich,G,USC,Ted Tollner
+408,1962,AFL,28,217,OAK,Marv Marinovich,G,USC,Ted Tollner
+409,1962,AFL,28,224,SDG,Ben Wilson,FB,USC,Ted Tollner
+410,1962,AFL,34,268,BUF,Ben Charles,QB,USC,Ted Tollner
+411,1961,NFL,1,4,RAM,Marlin McKeever,LB,USC,Ted Tollner
+412,1961,AFL,3,23,SDG,Marlin McKeever,LB,USC,Ted Tollner
+413,1961,NFL,4,53,PHI,Dan Ficca,G,USC,Ted Tollner
+414,1961,NFL,10,140,PHI,Luther Hayes,E,USC,Ted Tollner
+415,1961,NFL,13,172,RAM,Mike McKeever,G,USC,Ted Tollner
+416,1961,AFL,27,215,SDG,Luther Hayes,E,USC,Ted Tollner
+417,1961,AFL,29,231,SDG,Dan Ficca,G,USC,Ted Tollner
+418,1961,AFL,30,240,SDG,Mike McKeever,G,USC,Ted Tollner
+419,1960,AFL,,0,BUF,Jim Hanna,E,USC,Ted Tollner
+420,1960,AFL,,0,BUF,Jim Conroy,FB,USC,Ted Tollner
+421,1960,AFL,,0,DEN,John Wilkins,T,USC,Ted Tollner
+422,1960,AFL,,0,DTX,Clark Holden,HB,USC,Ted Tollner
+423,1960,AFL,,0,BOS,Ron Mix,T,USC,Ted Tollner
+424,1960,AFL,,0,NYT,Angelo Coia,SE,USC,Ted Tollner
+425,1960,AFL,,0,HOU,Don Mattson,T,USC,Ted Tollner
+426,1960,AFL,,0,OAK,Al Bansavage,LB,USC,Ted Tollner
+427,1960,NFL,1,10,BAL,Ron Mix,T,USC,Ted Tollner
+428,1960,NFL,6,71,BAL,Al Bansavage,LB,USC,Ted Tollner
+429,1960,NFL,7,81,PHI,John Wilkins,T,USC,Ted Tollner
+430,1960,NFL,17,201,CHI,Jim Hanna,E,USC,Ted Tollner
+431,1960,NFL,20,237,CHI,Angelo Coia,SE,USC,Ted Tollner
+432,1959,NFL,4,41,SFO,Monte Clark,T,USC,Ted Tollner
+433,1959,NFL,18,211,PIT,John Seinturier,T,USC,Ted Tollner
+434,1959,NFL,26,303,CRD,Joe Chuha,C,USC,Ted Tollner
+435,1958,NFL,6,71,SFO,Henry Schmidt,DT,USC,Ted Tollner
+436,1958,NFL,9,100,PIT,Mike Henry,LB,USC,Ted Tollner
+437,1958,NFL,14,166,NYG,C.R. Roberts,FB,USC,Ted Tollner
+438,1958,NFL,17,205,DET,Walt Gurasich,G,USC,Ted Tollner
+439,1958,NFL,26,311,SFO,Hillard Hill,E,USC,Ted Tollner
+440,1958,NFL,27,321,NYG,Dick Bronson,T,USC,Ted Tollner
+441,1957,NFL,1,2,RAM,Jon Arnett,HB,USC,Ted Tollner
+442,1957,NFL,5,56,SFO,Karl Rubke,LB,USC,Ted Tollner
+443,1957,NFL,5,57,RAM,Dick Enright,G,USC,Ted Tollner
+444,1957,NFL,8,87,GNB,George Belotti,C,USC,Ted Tollner
+445,1957,NFL,27,314,PHI,Frank Hall,B,USC,Ted Tollner
+446,1956,NFL,2,14,RAM,Leon Clarke,E,USC,Ted Tollner
+447,1956,NFL,7,85,CLE,Chuck Griffith,E,USC,Ted Tollner
+448,1956,NFL,9,104,GNB,Gordy Duvall,B,USC,Ted Tollner
+449,1955,NFL,2,14,CRD,Lindon Crow,DB,USC,Ted Tollner
+450,1955,NFL,4,43,RAM,Ed Fouch,T,USC,Ted Tollner
+451,1955,NFL,5,50,CRD,Mario Da Re,T,USC,Ted Tollner
+452,1955,NFL,5,61,CLE,Aramis Dandoy,B,USC,Ted Tollner
+453,1955,NFL,7,79,RAM,Frank Clayton,B,USC,Ted Tollner
+454,1955,NFL,25,297,PHI,Frank Pavich,G,USC,Ted Tollner
+455,1955,NFL,29,340,WAS,Bing Bordier,E,USC,Ted Tollner
+456,1954,NFL,3,27,GNB,George Timberlake,LB,USC,Ted Tollner
+457,1954,NFL,3,32,RAM,Tom Nickoloff,E,USC,Ted Tollner
+458,1954,NFL,7,82,RAM,Charley Weeks,T,USC,Ted Tollner
+459,1954,NFL,11,131,SFO,John Skocko,E,USC,Ted Tollner
+460,1954,NFL,16,183,GNB,Des Koch,B,USC,Ted Tollner
+461,1954,NFL,30,353,NYG,Jim Gibson,T,USC,Ted Tollner
+462,1953,NFL,1,7,GNB,Al Carmichael,HB,USC,Ted Tollner
+463,1953,NFL,2,15,CRD,Jim Psaltis,DB,USC,Ted Tollner
+464,1953,NFL,2,24,RAM,Rudy Bukich,QB,USC,Ted Tollner
+465,1953,NFL,4,50,DET,Charlie Ane,T,USC,Ted Tollner
+466,1953,NFL,5,60,CLE,Bob Van Doren,DE,USC,Ted Tollner
+467,1953,NFL,6,63,BAL,Jimmy Sears,DB,USC,Ted Tollner
+468,1953,NFL,6,70,NYG,Bob Peviani,LB,USC,Ted Tollner
+469,1953,NFL,12,144,CLE,Elmer Willhoite,G,USC,Ted Tollner
+470,1953,NFL,22,257,WAS,Ed Pucci,G,USC,Ted Tollner
+471,1953,NFL,26,305,WAS,Walt Ashcraft,T,USC,Ted Tollner
+472,1953,NFL,26,308,GNB,George Bozanic,B,USC,Ted Tollner
+473,1953,NFL,27,325,RAM,Lou Welsh,C,USC,Ted Tollner
+474,1953,NFL,28,329,WAS,Bob Buckley,B,USC,Ted Tollner
+475,1953,NFL,29,346,SFO,Don Stillwell,E,USC,Ted Tollner
+476,1953,NFL,30,356,GNB,Al Barry,G,USC,Ted Tollner
+477,1952,NFL,1,11,NYG,Frank Gifford,HB,USC,Ted Tollner
+478,1952,NFL,11,122,DTX,Pat Cannamela,LB,USC,Ted Tollner
+479,1952,NFL,16,193,RAM,Bob Hooks,E,USC,Ted Tollner
+480,1952,NFL,17,201,SFO,Al Baldock,E,USC,Ted Tollner
+481,1952,NFL,22,254,NYG,Dean Schneider,B,USC,Ted Tollner
+482,1951,NFL,10,118,PIT,Paul Salata,,USC,Ted Tollner
+483,1951,NFL,11,126,SFO,Bill Jessup,E,USC,Ted Tollner
+484,1951,NFL,13,151,CRD,Volney Peters,DT,USC,Ted Tollner
+485,1951,NFL,16,188,PHI,Hal Hatfield,E,USC,Ted Tollner
+486,1951,NFL,26,304,WAS,Johnny Williams,DB,USC,Ted Tollner
+487,1950,NFL,11,137,RAM,Jay Roundy,B,USC,Ted Tollner
+488,1950,NFL,12,153,SFO,Don Burke,LB,USC,Ted Tollner
+489,1950,NFL,20,257,SFO,Jack Nix,E,USC,Ted Tollner
+490,1950,NFL,23,298,RAM,Jim Bird,T,USC,Ted Tollner
+491,1950,NFL,26,335,SFO,Jim Powers,DB,USC,Ted Tollner
+492,1950,NFL,27,352,PHI,Bill Martin,B,USC,Ted Tollner
+493,1950,NFL,30,387,SFO,Bob Stillwell,E,USC,Ted Tollner
+494,1949,NFL,13,128,WAS,Ed Henke,DE,USC,Ted Tollner
+495,1949,NFL,20,198,WAS,Oliver Fletcher,G,USC,Ted Tollner
+496,1949,NFL,21,211,PHI,Lou Futrell,B,USC,Ted Tollner
+497,1949,NFL,22,214,GNB,John Kordick,B,USC,Ted Tollner
+498,1948,NFL,9,67,DET,Don Doll,DB,USC,Ted Tollner
+499,1948,NFL,10,77,DET,Paul Cleary,E,USC,Ted Tollner
+500,1948,NFL,21,187,DET,Dean Dill,B,USC,Ted Tollner
+501,1948,NFL,24,216,NYG,Walter McCormick,C,USC,Ted Tollner
+502,1948,NFL,28,257,DET,George Schutte,T,USC,Ted Tollner
+503,1947,NFL,5,33,RAM,Gordon Gray,B,USC,Ted Tollner
+504,1947,NFL,6,39,WAS,Mike Garzoni,G,USC,Ted Tollner
+505,1947,NFL,16,141,GNB,Jim Callanan,E,USC,Ted Tollner
+506,1947,NFL,17,153,RAM,Don Hardy,E,USC,Ted Tollner
+507,1946,NFL,1,7,PHI,Leo Riggs,B,USC,Ted Tollner
+508,1946,NFL,3,23,PHI,Gordon Gray,E,USC,Ted Tollner
+509,1946,NFL,6,46,GNB,John Ferraro,T,USC,Ted Tollner
+510,1946,NFL,7,59,WAS,Bob Hendren,T,USC,Ted Tollner
+511,1946,NFL,8,69,WAS,George Callanan,B,USC,Ted Tollner
+512,1946,NFL,15,139,WAS,Harry Adelman,E,USC,Ted Tollner
+513,1946,NFL,18,165,NYG,Bob Morris,HB,USC,Ted Tollner
+514,1946,NFL,19,176,GNB,Joe Bradford,C,USC,Ted Tollner
+515,1946,NFL,21,199,WAS,John Pehar,T,USC,Ted Tollner
+516,1946,NFL,29,280,RAM,Jay Perrin,T,USC,Ted Tollner
+517,1945,NFL,1,8,WAS,Jim Hardy,QB,USC,Ted Tollner
+518,1945,NFL,15,150,WAS,Eddie Saenz,HB,USC,Ted Tollner
+519,1945,NFL,18,184,PHI,Quentin Klenk,T,USC,Ted Tollner
+520,1945,NFL,23,232,BOS,Wally Crittenden,B,USC,Ted Tollner
+521,1945,NFL,25,255,BOS,Jerry Whitney,B,USC,Ted Tollner
+522,1945,NFL,27,275,BOS,Hal Finney,B,USC,Ted Tollner
+523,1945,NFL,28,290,RAM,Pat West,FB,USC,Ted Tollner
+524,1945,NFL,28,292,WAS,Milford Dreblow,B,USC,Ted Tollner
+525,1945,NFL,30,317,NYG,Joe Wolf,C,USC,Ted Tollner
+526,1944,NFL,3,19,DET,Ralph Heywood,E,USC,Ted Tollner
+527,1944,NFL,3,23,WAS,Earl Audet,T,USC,Ted Tollner
+528,1944,NFL,6,49,GNB,Mickey McCardle,B,USC,Ted Tollner
+529,1944,NFL,8,76,BOS,Bob Musick,B,USC,Ted Tollner
+530,1944,NFL,12,118,PHI,Earle Parsons,HB,USC,Ted Tollner
+531,1944,NFL,16,155,BKN,Doug Essick,E,USC,Ted Tollner
+532,1944,NFL,16,163,RAM,John Aguirre,T,USC,Ted Tollner
+533,1944,NFL,18,177,BKN,Don Willer,T,USC,Ted Tollner
+534,1944,NFL,19,188,BKN,Howard Callanan,B,USC,Ted Tollner
+535,1944,NFL,20,205,CHI,Paul Taylor,B,USC,Ted Tollner
+536,1944,NFL,23,238,CHI,Dick Jamison,T,USC,Ted Tollner
+537,1944,NFL,25,254,BKN,Dick Manning,B,USC,Ted Tollner
+538,1943,NFL,9,78,GNB,Norm Verry,T,USC,Ted Tollner
+539,1943,NFL,17,158,GNB,Ron Thomas,G,USC,Ted Tollner
+540,1943,NFL,20,183,BKN,Bill Bledsoe,E,USC,Ted Tollner
+541,1942,NFL,1,7,BKN,Bobby Robertson,C,USC,Ted Tollner
+542,1942,NFL,10,82,RAM,Bob deLauer,C,USC,Ted Tollner
+543,1941,NFL,7,60,WAS,Al Krueger,HB,USC,Ted Tollner
+544,1941,NFL,9,76,NYG,Ben Sohn,G,USC,Ted Tollner
+545,1941,NFL,11,96,NYG,Bobby Peoples,B,USC,Ted Tollner
+546,1941,NFL,12,110,WAS,Jack Banta,HB,USC,Ted Tollner
+547,1940,NFL,1,6,DET,Doyle Nave,B,USC,Ted Tollner
+548,1940,NFL,1,10,NYG,Grenny Lansdell,HB,USC,Ted Tollner
+549,1940,NFL,3,21,DET,Bill Fisk,E,USC,Ted Tollner
+550,1940,NFL,5,36,DET,Harry Smith,T,USC,Ted Tollner
+551,1940,NFL,7,56,DET,Bob Winslow,DE,USC,Ted Tollner
+552,1940,NFL,9,78,WAS,Bob Hoffman,B,USC,Ted Tollner
+553,1940,NFL,11,98,WAS,Howard Stoecker,T,USC,Ted Tollner
+554,1940,NFL,12,109,GNB,Phil Gaspar,T,USC,Ted Tollner
+555,1940,NFL,13,119,GNB,Ambrose Schindler,B,USC,Ted Tollner
+556,1939,NFL,10,87,DET,Ray George,T,USC,Ted Tollner
+557,1939,NFL,14,128,WAS,Bob Hoffman,B,USC,Ted Tollner
+558,1939,NFL,18,168,WAS,Boyd Morgan,B,USC,Ted Tollner
+559,1939,NFL,19,177,DET,Tony Tonelli,C,USC,Ted Tollner
+560,1937,NFL,10,93,BKN,Gil Kuhn,T,USC,Ted Tollner
+1,2022,NFL,3,87,ARI,Cameron Thomas,DE,San Diego State,Ted Tollner
+2,2022,NFL,4,112,NYG,Daniel Bellinger,TE,San Diego State,Ted Tollner
+3,2022,NFL,6,180,BUF,Matt Araiza,P,San Diego State,Ted Tollner
+4,2022,NFL,6,186,CHI,Zachary Thomas,OL,San Diego State,Ted Tollner
+5,2021,NFL,4,108,ATL,Darren Hall,CB,San Diego State,Ted Tollner
+6,2020,NFL,5,156,WAS,Keith Ismael,C,San Diego State,Ted Tollner
+7,2019,NFL,3,86,HOU,Kahale Warring,TE,San Diego State,Ted Tollner
+8,2018,NFL,1,27,SEA,Rashaad Penny,RB,San Diego State,Ted Tollner
+9,2018,NFL,7,237,DET,Nick Bawden,RB,San Diego State,Ted Tollner
+10,2017,NFL,4,122,BAL,Nico Siragusa,G,San Diego State,Ted Tollner
+11,2017,NFL,4,132,PHI,Donnel Pumphrey,RB,San Diego State,Ted Tollner
+12,2017,NFL,5,149,ATL,Damontae Kazee,CB,San Diego State,Ted Tollner
+13,2015,NFL,4,130,SEA,Terry Poole,G,San Diego State,Ted Tollner
+14,2014,NFL,5,152,NYG,Nat Berhe,DB,San Diego State,Ted Tollner
+15,2014,NFL,6,208,SEA,Eric Pinkins,DB,San Diego State,Ted Tollner
+16,2013,NFL,2,47,DAL,Gavin Escobar,TE,San Diego State,Ted Tollner
+17,2013,NFL,3,68,CLE,Leon McFadden,DB,San Diego State,Ted Tollner
+18,2013,NFL,7,209,OAK,Brice Butler,WR,San Diego State,Ted Tollner
+19,2012,NFL,3,67,DEN,Ronnie Hillman,RB,San Diego State,Ted Tollner
+20,2012,NFL,4,129,OAK,Miles Burris,LB,San Diego State,Ted Tollner
+21,2012,NFL,6,185,ARI,Ryan Lindley,QB,San Diego State,Ted Tollner
+22,2012,NFL,7,218,KAN,Jerome Long,DT,San Diego State,Ted Tollner
+23,2011,NFL,3,82,SDG,Vincent Brown,WR,San Diego State,Ted Tollner
+24,2011,NFL,7,249,ARI,DeMarco Sampson,WR,San Diego State,Ted Tollner
+25,2009,NFL,7,246,CHI,Lance Louis,G,San Diego State,Ted Tollner
+26,2008,NFL,3,94,NWE,Kevin O'Connell,QB,San Diego State,Ted Tollner
+27,2008,NFL,6,189,SEA,Tyler Schmitt,LB,San Diego State,Ted Tollner
+28,2008,NFL,7,217,GNB,Brett Swain,WR,San Diego State,Ted Tollner
+29,2008,NFL,7,226,OAK,Chaz Schilens,WR,San Diego State,Ted Tollner
+30,2006,NFL,3,94,IND,Freddy Keiaho,LB,San Diego State,Ted Tollner
+31,2006,NFL,6,190,KAN,Jeff Webb,WR,San Diego State,Ted Tollner
+32,2005,NFL,2,63,PHI,Matt McCoy,LB,San Diego State,Ted Tollner
+33,2005,NFL,3,78,OAK,Kirk Morrison,LB,San Diego State,Ted Tollner
+34,2005,NFL,4,115,GNB,Marviel Underwood,DB,San Diego State,Ted Tollner
+35,2004,NFL,5,152,DEN,Jeff Shoate,DB,San Diego State,Ted Tollner
+36,2003,NFL,5,169,MIA,J.R. Tolver,WR,San Diego State,Ted Tollner
+37,2002,NFL,2,50,HOU,Chester Pitts,T,San Diego State,Ted Tollner
+38,2002,NFL,6,197,OAK,Larry Ned,RB,San Diego State,Ted Tollner
+39,2002,NFL,6,200,GNB,Mike Houghton,G,San Diego State,Ted Tollner
+40,2000,NFL,5,149,GNB,Kabeer Gbaja-Biamila,DE,San Diego State,Ted Tollner
+41,2000,NFL,7,220,STL,Andrew Kline,G,San Diego State,Ted Tollner
+42,2000,NFL,7,240,MIN,Mike Malano,C,San Diego State,Ted Tollner
+43,1998,NFL,1,7,NOR,Kyle Turley,T,San Diego State,Ted Tollner
+44,1998,NFL,4,96,STL,Az-Zahir Hakim,WR,San Diego State,Ted Tollner
+45,1998,NFL,7,199,ATL,Ephraim Salaam,T,San Diego State,Ted Tollner
+46,1997,NFL,2,53,PIT,Will Blackwell,WR,San Diego State,Ted Tollner
+47,1997,NFL,5,150,IND,Nate Jacquet,WR,San Diego State,Ted Tollner
+48,1997,NFL,5,154,PIT,George Jones,RB,San Diego State,Ted Tollner
+49,1997,NFL,6,201,CHI,Ricky Parker,DB,San Diego State,Ted Tollner
+50,1996,NFL,5,166,OAK,La'Roi Glover,DT,San Diego State,Ted Tollner
+51,1996,NFL,7,250,WAS,DeAndre Maxwell,WR,San Diego State,Ted Tollner
+52,1995,NFL,6,204,NYG,Jamal Duff,DE,San Diego State,Ted Tollner
+53,1994,NFL,1,2,IND,Marshall Faulk,RB,San Diego State,Ted Tollner
+54,1994,NFL,2,30,CIN,Darnay Scott,WR,San Diego State,Ted Tollner
+55,1994,NFL,7,195,CIN,Ramondo Stallings,DE,San Diego State,Ted Tollner
+56,1992,NFL,2,52,CLE,Patrick Rowe,WR,San Diego State,Ted Tollner
+57,1992,NFL,6,168,WAS,Ray Rowe,TE,San Diego State,Ted Tollner
+58,1992,NFL,8,213,KAN,Jim Jennings,G,San Diego State,Ted Tollner
+59,1991,NFL,1,16,SEA,Dan McGwire,QB,San Diego State,Ted Tollner
+60,1991,NFL,4,85,CLE,Pio Sagapolutele,DT,San Diego State,Ted Tollner
+61,1991,NFL,6,142,DEN,Nick Subis,T,San Diego State,Ted Tollner
+62,1990,NFL,8,203,DET,Roman Fortin,C,San Diego State,Ted Tollner
+63,1990,NFL,12,313,DET,Robert Claiborne,WR,San Diego State,Ted Tollner
+64,1989,NFL,5,135,RAM,Alfred Jackson,WR,San Diego State,Ted Tollner
+65,1988,NFL,7,193,WAS,Harold Hicks,DB,San Diego State,Ted Tollner
+66,1988,NFL,9,246,NOR,Clarence Nunn,DB,San Diego State,Ted Tollner
+67,1988,NFL,10,274,NOR,Todd Santos,QB,San Diego State,Ted Tollner
+68,1988,NFL,12,315,WAS,Wayne Ross,P,San Diego State,Ted Tollner
+69,1988,NFL,12,326,SEA,Dave Des Rochers,T,San Diego State,Ted Tollner
+70,1987,NFL,3,62,STL,Robert Awalt,TE,San Diego State,Ted Tollner
+71,1986,NFL,2,43,CLE,Webster Slaughter,WR,San Diego State,Ted Tollner
+72,1986,NFL,4,98,GNB,Dan Knight,T,San Diego State,Ted Tollner
+73,1986,NFL,5,130,NYG,Vince Warren,WR,San Diego State,Ted Tollner
+74,1985,NFL,2,33,WAS,Tory Nixon,DB,San Diego State,Ted Tollner
+75,1985,NFL,3,62,DET,James Johnson,LB,San Diego State,Ted Tollner
+76,1985,NFL,3,71,GNB,Rich Moran,G,San Diego State,Ted Tollner
+77,1985,NFL,9,235,NYJ,Mike Waters,TE,San Diego State,Ted Tollner
+78,1984,NFL,2*,37,NYJ,Jim Sandusky,WR,San Diego State,Ted Tollner
+79,1984,NFL,3*,60,PHI,Thomas Carter,LB,San Diego State,Ted Tollner
+80,1984,NFL,3,79,BUF,Sean McNanie,DE,San Diego State,Ted Tollner
+81,1984,NFL,3*,81,DAL,Jeff Spek,TE,San Diego State,Ted Tollner
+82,1984,NFL,11,300,DET,Mike Saxon,P,San Diego State,Ted Tollner
+83,1983,NFL,3,60,DEN,Clint Sampson,WR,San Diego State,Ted Tollner
+84,1983,NFL,3,79,PIT,Todd Seabaugh,LB,San Diego State,Ted Tollner
+85,1983,NFL,4,85,BAL,Phil Smith,WR,San Diego State,Ted Tollner
+86,1983,NFL,4,111,RAM,Doug Reed,DE,San Diego State,Ted Tollner
+87,1983,NFL,10,270,TAM,Darius Durham,WR,San Diego State,Ted Tollner
+88,1982,NFL,2,48,BUF,Matt Kofler,QB,San Diego State,Ted Tollner
+89,1982,NFL,2,49,WAS,Vernon Dean,DB,San Diego State,Ted Tollner
+90,1981,NFL,6,150,CHI,Reuben Henderson,DB,San Diego State,Ted Tollner
+91,1981,NFL,12,305,NOR,Jim Wilks,DE,San Diego State,Ted Tollner
+92,1980,NFL,7,188,PHI,Terrell Ward,DB,San Diego State,Ted Tollner
+93,1980,NFL,10,263,CLE,Kevin Fidel,C,San Diego State,Ted Tollner
+94,1979,NFL,4,103,WAS,Don Warren,TE,San Diego State,Ted Tollner
+95,1979,NFL,6,156,OAK,Henry Williams,DB,San Diego State,Ted Tollner
+96,1979,NFL,8,204,CLE,Kent Perkov,DE,San Diego State,Ted Tollner
+97,1978,NFL,2,45,CIN,Deacon Turner,RB,San Diego State,Ted Tollner
+98,1978,NFL,2,53,RAM,Ron Smith,WR,San Diego State,Ted Tollner
+99,1978,NFL,3,75,MIN,Whip Walton,LB,San Diego State,Ted Tollner
+100,1978,NFL,5,116,GNB,Mike Douglass,LB,San Diego State,Ted Tollner
+101,1978,NFL,5,120,NYG,Terry Jackson,DB,San Diego State,Ted Tollner
+102,1978,NFL,5,125,ATL,Dennis Pearson,WR,San Diego State,Ted Tollner
+103,1977,NFL,11,284,NYG,Bill Helms,TE,San Diego State,Ted Tollner
+104,1976,NFL,3,73,DAL,Duke Fergerson,WR,San Diego State,Ted Tollner
+105,1976,NFL,4,107,DEN,Craig Penrose,QB,San Diego State,Ted Tollner
+106,1976,NFL,6,170,NWE,Greg Boyd,DE,San Diego State,Ted Tollner
+107,1976,NFL,11,300,PHI,Mike Gilbert,DT,San Diego State,Ted Tollner
+108,1976,NFL,13,363,DET,Mel Jacobs,WR,San Diego State,Ted Tollner
+109,1976,NFL,16,443,SFO,Reggie Lewis,DE,San Diego State,Ted Tollner
+110,1975,NFL,2,28,RAM,Monte Jackson,DB,San Diego State,Ted Tollner
+111,1974,NFL,3,68,DEN,Claudie Minor,T,San Diego State,Ted Tollner
+112,1974,NFL,6,133,SDG,Jesse Freitas,QB,San Diego State,Ted Tollner
+113,1973,NFL,1,15,CIN,Isaac Curtis,WR,San Diego State,Ted Tollner
+114,1973,NFL,4,90,NYJ,Bill Ferguson,LB,San Diego State,Ted Tollner
+115,1973,NFL,6,133,RAM,Jim Peterson,LB,San Diego State,Ted Tollner
+116,1973,NFL,12,288,PHI,Joe Lavender,DB,San Diego State,Ted Tollner
+117,1972,NFL,1,7,GNB,Willie Buchanon,DB,San Diego State,Ted Tollner
+118,1972,NFL,2,49,NWE,Tom Reynolds,WR,San Diego State,Ted Tollner
+119,1972,NFL,4,84,STL,Martin Imhof,DE,San Diego State,Ted Tollner
+120,1972,NFL,4,90,DAL,Robert West,WR,San Diego State,Ted Tollner
+121,1972,NFL,6,141,SDG,Bruce Ward,G,San Diego State,Ted Tollner
+122,1972,NFL,13,330,CLE,Brian Sipe,QB,San Diego State,Ted Tollner
+123,1972,NFL,14,361,MIN,Marv Owens,WR,San Diego State,Ted Tollner
+124,1971,NFL,2,33,ATL,Ken Burrow,WR,San Diego State,Ted Tollner
+125,1971,NFL,2,50,PHI,Henry Allison,G,San Diego State,Ted Tollner
+126,1971,NFL,5,108,PHI,Tom Shellabarger,T,San Diego State,Ted Tollner
+127,1971,NFL,6,137,ATL,Tom Hayes,DB,San Diego State,Ted Tollner
+128,1971,NFL,8,195,SDG,Leon Van Gorkum,DE,San Diego State,Ted Tollner
+129,1971,NFL,16,397,ATL,Lindsey James,RB,San Diego State,Ted Tollner
+130,1970,NFL,2,30,BUF,Dennis Shaw,QB,San Diego State,Ted Tollner
+131,1970,NFL,4,104,CIN,Billie Hayes,DB,San Diego State,Ted Tollner
+132,1970,NFL,7,166,NOR,Lon Woodard,DE,San Diego State,Ted Tollner
+133,1970,NFL,12,306,NYJ,Bill Pierson,C,San Diego State,Ted Tollner
+134,1969,NFL,1,13,NYG,Fred Dryer,DE,San Diego State,Ted Tollner
+135,1969,NFL,3,75,OAK,Lloyd Edwards,TE,San Diego State,Ted Tollner
+136,1969,NFL,7,179,KAN,Tom Nettles,FL,San Diego State,Ted Tollner
+137,1969,NFL,12,290,PIT,Doug Fisher,LB,San Diego State,Ted Tollner
+138,1968,NFL,1,9,BUF,Haven Moses,WR,San Diego State,Ted Tollner
+139,1968,NFL,5,121,GNB,Steve Duich,G,San Diego State,Ted Tollner
+140,1968,NFL,12,303,NOR,John Beck,DB,San Diego State,Ted Tollner
+141,1968,NFL,13,354,CIN,Teddy Washington,RB,San Diego State,Ted Tollner
+142,1967,NFL,1,25,GNB,Don Horn,QB,San Diego State,Ted Tollner
+143,1967,NFL,2,31,ATL,Leo Carroll,DE,San Diego State,Ted Tollner
+144,1967,NFL,2,35,PIT,Don Shy,RB,San Diego State,Ted Tollner
+145,1967,NFL,2,36,CHI,Bob Jones,WR,San Diego State,Ted Tollner
+146,1967,NFL,2,48,SDG,Bob Howard,DB,San Diego State,Ted Tollner
+147,1967,NFL,6,147,SDG,Nate Johns,FL,San Diego State,Ted Tollner
+148,1967,NFL,7,174,PHI,John Williams,DB,San Diego State,Ted Tollner
+149,1967,NFL,15,381,SDG,Craig Scoggins,E,San Diego State,Ted Tollner
+150,1966,AFL,3,26,SDG,Jeff Staggs,LB,San Diego State,Ted Tollner
+151,1966,AFL,8,70,OAK,Ray Schmautz,B,San Diego State,Ted Tollner
+152,1966,AFL,9,80,OAK,Clifton Kinney,LB,San Diego State,Ted Tollner
+153,1966,AFL,13,117,SDG,Houston Ridge,DE,San Diego State,Ted Tollner
+154,1966,NFL,11,168,GNB,Ralph Wenzel,G,San Diego State,Ted Tollner
+155,1966,NFL,13,195,MIN,Larry Martin,DT,San Diego State,Ted Tollner
+156,1965,AFL,1,6,SDG,Gary Garrison,WR,San Diego State,Ted Tollner
+157,1965,AFL,2,14,SDG,Larry Martin,DT,San Diego State,Ted Tollner
+158,1965,NFL,6,77,PHI,Gary Garrison,WR,San Diego State,Ted Tollner
+159,1965,AFL,12,94,SDG,Jim Allison,RB,San Diego State,Ted Tollner
+160,1965,AFL,12,95,BOS,Leon Standridge,E,San Diego State,Ted Tollner
+161,1965,AFL,16,126,SDG,John Godden,LB,San Diego State,Ted Tollner
+162,1965,NFL,18,240,SFO,Leon Standridge,E,San Diego State,Ted Tollner
+163,1964,AFL,17,136,SDG,John Farris,G,San Diego State,Ted Tollner
+164,1964,NFL,11,147,RAM,John Farris,G,San Diego State,Ted Tollner
+165,1964,AFL,26,203,NYJ,John Butler,FB,San Diego State,Ted Tollner
+166,1964,NFL,20,274,BAL,John Butler,FB,San Diego State,Ted Tollner
+167,1963,AFL,21,161,OAK,Neal Petties,E,San Diego State,Ted Tollner
+168,1963,NFL,14,187,BAL,Neal Petties,E,San Diego State,Ted Tollner
+169,1963,NFL,17,229,BAL,Kern Carson,HB,San Diego State,Ted Tollner
+170,1963,AFL,29,229,DEN,Kern Carson,HB,San Diego State,Ted Tollner
+171,1955,NFL,17,202,SFO,Bob Newton,G,San Diego State,Ted Tollner
+172,1954,NFL,4,46,RAM,Norm Nygaard,B,San Diego State,Ted Tollner
+173,1953,NFL,17,202,SFO,Hugh Latham,T,San Diego State,Ted Tollner
+174,1952,NFL,4,49,RAM,Skeet Quinlan,HB,San Diego State,Ted Tollner
+175,1952,NFL,21,253,RAM,Art Preston,B,San Diego State,Ted Tollner

@@ -1,0 +1,23 @@
+coach_name,url,success,has_coaching_records,has_all_americans,has_awards,all_americans_count,awards_count,error_message
+Scott Brumfield,https://www.sports-reference.com/cfb/coaches/scott-brumfield-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/scott-brumfield-1.html
+Norm Chow,https://www.sports-reference.com/cfb/coaches/norm-chow-1.html,True,True,False,False,0,0,
+Jim Criner,https://www.sports-reference.com/cfb/coaches/jim-criner-1.html,True,True,False,False,0,0,
+Mike Empey,https://www.sports-reference.com/cfb/coaches/mike-empey-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/mike-empey-1.html
+Wally English,https://www.sports-reference.com/cfb/coaches/wally-english-1.html,True,True,False,False,0,0,
+Scott Giles,https://www.sports-reference.com/cfb/coaches/scott-giles-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/scott-giles-1.html
+Tom Holmoe,https://www.sports-reference.com/cfb/coaches/tom-holmoe-1.html,True,True,True,False,3,0,
+Dave Kragthorpe,https://www.sports-reference.com/cfb/coaches/dave-kragthorpe-1.html,True,True,False,False,0,0,
+Ed Lamb,https://www.sports-reference.com/cfb/coaches/ed-lamb-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/ed-lamb-1.html
+Dwain Painter,https://www.sports-reference.com/cfb/coaches/dwain-painter-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/dwain-painter-1.html
+Jim Paronto,https://www.sports-reference.com/cfb/coaches/jim-paronto-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/jim-paronto-1.html
+Mesa State,https://www.sports-reference.com/cfb/coaches/mesa-state-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/mesa-state-1.html
+Steve Sarkisian,https://www.sports-reference.com/cfb/coaches/steve-sarkisian-1.html,True,True,True,False,4,0,
+Doug Scoville,https://www.sports-reference.com/cfb/coaches/doug-scoville-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/doug-scoville-1.html
+Mike Sheppard,https://www.sports-reference.com/cfb/coaches/mike-sheppard-1.html,True,True,False,False,0,0,
+Kalani Sitake,https://www.sports-reference.com/cfb/coaches/kalani-sitake-1.html,True,True,False,False,0,0,
+Charlie Stubbs,https://www.sports-reference.com/cfb/coaches/charlie-stubbs-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/charlie-stubbs-1.html
+Ted Tollner,https://www.sports-reference.com/cfb/coaches/ted-tollner-1.html,True,True,True,True,5,2,
+Garrett Tujague,https://www.sports-reference.com/cfb/coaches/garrett-tujague-1.html,False,False,False,False,0,0,404 Client Error: Not Found for url: https://www.sports-reference.com/cfb/coaches/garrett-tujague-1.html
+DeWayne Walker,https://www.sports-reference.com/cfb/coaches/dewayne-walker-1.html,True,True,False,False,0,0,
+Kyle Whittingham,https://www.sports-reference.com/cfb/coaches/kyle-whittingham-1.html,True,True,True,True,9,5,
+LaVell Edwards,https://www.sports-reference.com/cfb/coaches/lavell-edwards-1.html,True,True,True,True,9,9,

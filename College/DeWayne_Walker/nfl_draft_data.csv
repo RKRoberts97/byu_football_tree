@@ -1,0 +1,425 @@
+Rk,Year,Lg,Rnd,Pick,Tm,Player,Pos,School,Coach
+1,2025,NFL,2,33,CLE,Carson Schwesinger,LB,UCLA,DeWayne Walker
+2,2025,NFL,2,52,TEN,Oluwafemi Oladejo,DE,UCLA,DeWayne Walker
+3,2025,NFL,6,205,WAS,Kain Medrano,LB,UCLA,DeWayne Walker
+4,2025,NFL,7,217,DAL,Jay Toia,DT,UCLA,DeWayne Walker
+5,2025,NFL,7,248,NOR,Moliki Matavao,TE,UCLA,DeWayne Walker
+6,2024,NFL,1,15,IND,Laiatu Latu,DL,UCLA,DeWayne Walker
+7,2024,NFL,6,183,NYG,Darius Muasau,LB,UCLA,DeWayne Walker
+8,2023,NFL,2,52,SEA,Zach Charbonnet,RB,UCLA,DeWayne Walker
+9,2023,NFL,4,122,ARI,Jon Gaines,OL,UCLA,DeWayne Walker
+10,2023,NFL,5,140,CLE,Dorian Thompson-Robinson,QB,UCLA,DeWayne Walker
+11,2023,NFL,5,144,NWE,Atonio Mafi,OL,UCLA,DeWayne Walker
+12,2022,NFL,3,80,DEN,Greg Dulcich,TE,UCLA,DeWayne Walker
+13,2022,NFL,3,92,GNB,Sean Rhyan,OL,UCLA,DeWayne Walker
+14,2022,NFL,5,160,LAC,Otito Ogbonnia,DT,UCLA,DeWayne Walker
+15,2022,NFL,5,163,TEN,Kyle Philips,WR,UCLA,DeWayne Walker
+16,2022,NFL,6,211,LAR,Quentin Lake,DB,UCLA,DeWayne Walker
+17,2022,NFL,7,250,LVR,Brittain Brown,RB,UCLA,DeWayne Walker
+18,2021,NFL,3,75,DAL,Osa Odighizuwa,DL,UCLA,DeWayne Walker
+19,2021,NFL,6,211,CLE,Demetric Felton,RB,UCLA,DeWayne Walker
+20,2020,NFL,3,91,NWE,Devin Asiasi,TE,UCLA,DeWayne Walker
+21,2020,NFL,4,110,NYG,Darnay Holmes,CB,UCLA,DeWayne Walker
+22,2020,NFL,4,112,LAC,Joshua Kelley,RB,UCLA,DeWayne Walker
+23,2019,NFL,7,254,ARI,Caleb Wilson,TE,UCLA,DeWayne Walker
+24,2018,NFL,1,10,ARI,Josh Rosen,QB,UCLA,DeWayne Walker
+25,2018,NFL,1,15,OAK,Kolton Miller,T,UCLA,DeWayne Walker
+26,2018,NFL,4,122,BAL,Kenny Young,LB,UCLA,DeWayne Walker
+27,2018,NFL,5,155,LAC,Scott Quessenberry,C,UCLA,DeWayne Walker
+28,2018,NFL,5,162,BAL,Jordan Lasley,WR,UCLA,DeWayne Walker
+29,2017,NFL,1,26,ATL,Takkarist McKinley,DE,UCLA,DeWayne Walker
+30,2017,NFL,3,81,WAS,Fabian Moreau,CB,UCLA,DeWayne Walker
+31,2017,NFL,3,88,OAK,Eddie Vanderdoes,DT,UCLA,DeWayne Walker
+32,2017,NFL,5,155,TEN,Jayon Brown,LB,UCLA,DeWayne Walker
+33,2017,NFL,6,211,NWE,Conor McDermott,T,UCLA,DeWayne Walker
+34,2016,NFL,1,27,GNB,Kenny Clark,DT,UCLA,DeWayne Walker
+35,2016,NFL,2,36,JAX,Myles Jack,OLB,UCLA,DeWayne Walker
+36,2016,NFL,5,148,TAM,Caleb Benenoch,T,UCLA,DeWayne Walker
+37,2016,NFL,5,149,NYG,Paul Perkins,RB,UCLA,DeWayne Walker
+38,2016,NFL,5,154,CLE,Jordan Payton,WR,UCLA,DeWayne Walker
+39,2016,NFL,7,222,TEN,Aaron Wallace,OLB,UCLA,DeWayne Walker
+40,2016,NFL,7,231,MIA,Thomas Duarte,TE,UCLA,DeWayne Walker
+41,2016,NFL,7,238,ATL,Devin Fuller,WR,UCLA,DeWayne Walker
+42,2015,NFL,2,45,MIN,Eric Kendricks,ILB,UCLA,DeWayne Walker
+43,2015,NFL,3,74,NYG,Owamagbe Odighizuwa,DE,UCLA,DeWayne Walker
+44,2015,NFL,5,147,GNB,Brett Hundley,QB,UCLA,DeWayne Walker
+45,2014,NFL,1,9,MIN,Anthony Barr,LB,UCLA,DeWayne Walker
+46,2014,NFL,2,33,HOU,Xavier Su'a-Filo,G,UCLA,DeWayne Walker
+47,2014,NFL,4,108,SEA,Cassius Marsh,DE,UCLA,DeWayne Walker
+48,2014,NFL,4,115,NYJ,Shaquelle Evans,WR,UCLA,DeWayne Walker
+49,2014,NFL,6,192,PIT,Jordan Zumwalt,LB,UCLA,DeWayne Walker
+50,2013,NFL,1,26,GNB,Datone Jones,DE,UCLA,DeWayne Walker
+51,2013,NFL,4,125,GNB,Johnathan Franklin,RB,UCLA,DeWayne Walker
+52,2013,NFL,5,155,MIN,Jeff Locke,P,UCLA,DeWayne Walker
+53,2013,NFL,6,196,MIN,Jeff Baca,G,UCLA,DeWayne Walker
+54,2011,NFL,2,39,TEN,Akeem Ayers,LB,UCLA,DeWayne Walker
+55,2011,NFL,2,45,DEN,Rahim Moore,DB,UCLA,DeWayne Walker
+56,2011,NFL,6,184,ARI,David Carter,DT,UCLA,DeWayne Walker
+57,2010,NFL,2,35,TAM,Brian Price,DT,UCLA,DeWayne Walker
+58,2010,NFL,4,104,TEN,Alterraun Verner,DB,UCLA,DeWayne Walker
+59,2010,NFL,7,219,WAS,Terrence Austin,WR,UCLA,DeWayne Walker
+60,2008,NFL,3,88,PIT,Bruce Davis,LB,UCLA,DeWayne Walker
+61,2008,NFL,5,153,NWE,Matthew Slater,WR,UCLA,DeWayne Walker
+62,2008,NFL,7,249,WAS,Chris Horton,DB,UCLA,DeWayne Walker
+63,2007,NFL,5,160,KAN,Justin Medlock,K,UCLA,DeWayne Walker
+64,2006,NFL,1,28,JAX,Marcedes Lewis,TE,UCLA,DeWayne Walker
+65,2006,NFL,2,60,JAX,Maurice Jones-Drew,RB,UCLA,DeWayne Walker
+66,2006,NFL,7,228,KAN,Jarrad Page,DB,UCLA,DeWayne Walker
+67,2005,NFL,4,120,WAS,Manuel White,RB,UCLA,DeWayne Walker
+68,2005,NFL,5,171,CAR,Ben Emanuel,DB,UCLA,DeWayne Walker
+69,2005,NFL,6,190,CIN,Tab Perry,WR,UCLA,DeWayne Walker
+70,2005,NFL,6,195,GNB,Craig Bragg,WR,UCLA,DeWayne Walker
+71,2004,NFL,3,89,PHI,Matt Ware,DB,UCLA,DeWayne Walker
+72,2004,NFL,4,130,STL,Brandon Chillar,LB,UCLA,DeWayne Walker
+73,2004,NFL,5,133,SDG,Dave Ball,DE,UCLA,DeWayne Walker
+74,2004,NFL,5,139,NOR,Rodney Leisle,DT,UCLA,DeWayne Walker
+75,2003,NFL,3,76,CAR,Mike Seidman,TE,UCLA,DeWayne Walker
+76,2003,NFL,3,82,CAR,Ricky Manning,DB,UCLA,DeWayne Walker
+77,2002,NFL,1,31,STL,Robert Thomas,LB,UCLA,DeWayne Walker
+78,2002,NFL,2,34,CAR,DeShaun Foster,RB,UCLA,DeWayne Walker
+79,2002,NFL,3,92,GNB,Marques Anderson,DB,UCLA,DeWayne Walker
+80,2002,NFL,5,147,OAK,Kenyon Coleman,DE,UCLA,DeWayne Walker
+81,2002,NFL,6,210,CHI,Bryan Fletcher,TE,UCLA,DeWayne Walker
+82,2002,NFL,7,230,WAS,Jeff Grau,C,UCLA,DeWayne Walker
+83,2001,NFL,1,25,PHI,Freddie Mitchell,WR,UCLA,DeWayne Walker
+84,2000,NFL,4,103,PIT,Danny Farmer,WR,UCLA,DeWayne Walker
+85,1999,NFL,1,12,CHI,Cade McNown,QB,UCLA,DeWayne Walker
+86,1999,NFL,3,74,PIT,Kris Farris,T,UCLA,DeWayne Walker
+87,1999,NFL,3,84,KAN,Larry Atkins,LB,UCLA,DeWayne Walker
+88,1998,NFL,1,24,NYG,Shaun Williams,DB,UCLA,DeWayne Walker
+89,1998,NFL,3,69,WAS,Skip Hicks,RB,UCLA,DeWayne Walker
+90,1998,NFL,7,217,CHI,Chad Overhauser,T,UCLA,DeWayne Walker
+91,1996,NFL,1,4,BAL,Jonathan Ogden,T,UCLA,DeWayne Walker
+92,1996,NFL,3,80,MIA,Karim Abdul-Jabbar,RB,UCLA,DeWayne Walker
+93,1996,NFL,3,90,GNB,Mike Flanagan,C,UCLA,DeWayne Walker
+94,1996,NFL,4,98,KAN,Donnie Edwards,LB,UCLA,DeWayne Walker
+95,1995,NFL,1,10,SFO,J.J. Stokes,WR,UCLA,DeWayne Walker
+96,1995,NFL,5,142,NYJ,Carl Greenwood,DB,UCLA,DeWayne Walker
+97,1994,NFL,1,10,ARI,Jamir Miller,LB,UCLA,DeWayne Walker
+98,1994,NFL,2,37,PHI,Bruce Walker,NT,UCLA,DeWayne Walker
+99,1994,NFL,2,63,SDG,Vaughn Parker,T,UCLA,DeWayne Walker
+100,1994,NFL,5,143,NOR,Craig Novitsky,G,UCLA,DeWayne Walker
+101,1994,NFL,5,144,PHI,Marvin Goodwin,DB,UCLA,DeWayne Walker
+102,1993,NFL,2,30,SEA,Carlton Gray,DB,UCLA,DeWayne Walker
+103,1993,NFL,5,122,RAM,Sean LaChapelle,WR,UCLA,DeWayne Walker
+104,1993,NFL,5,126,DEN,Kevin Williams,RB,UCLA,DeWayne Walker
+105,1993,NFL,7,193,NOR,Othello Henderson,DB,UCLA,DeWayne Walker
+106,1992,NFL,1,25,DEN,Tommy Maddox,QB,UCLA,DeWayne Walker
+107,1992,NFL,4,90,NWE,Dion Lambert,DB,UCLA,DeWayne Walker
+108,1992,NFL,5,113,IND,Maury Toy,RB,UCLA,DeWayne Walker
+109,1992,NFL,5,139,BUF,Matt Darby,DB,UCLA,DeWayne Walker
+110,1992,NFL,6,148,TAM,James Malone,LB,UCLA,DeWayne Walker
+111,1992,NFL,7,185,RAI,Kevin Smith,TE,UCLA,DeWayne Walker
+112,1991,NFL,1,2,CLE,Eric Turner,DB,UCLA,DeWayne Walker
+113,1991,NFL,2,31,RAM,Roman Phifer,LB,UCLA,DeWayne Walker
+114,1991,NFL,8,199,ATL,Randy Austin,TE,UCLA,DeWayne Walker
+115,1991,NFL,9,246,MIA,Scott Miller,WR,UCLA,DeWayne Walker
+116,1991,NFL,11,288,NYJ,Rocen Keeton,LB,UCLA,DeWayne Walker
+117,1990,NFL,5,125,NOR,Charles Arbuckle,TE,UCLA,DeWayne Walker
+118,1990,NFL,6,143,SDG,Frank Cornish,C,UCLA,DeWayne Walker
+119,1990,NFL,8,208,BUF,Marvcus Patton,LB,UCLA,DeWayne Walker
+120,1990,NFL,10,265,BUF,Mike Lodish,NT,UCLA,DeWayne Walker
+121,1990,NFL,12,325,GNB,Kirk Maggio,P,UCLA,DeWayne Walker
+122,1989,NFL,1,1,DAL,Troy Aikman,QB,UCLA,DeWayne Walker
+123,1989,NFL,2,34,PIT,Carnell Lake,DB,UCLA,DeWayne Walker
+124,1989,NFL,2,35,CIN,Eric Ball,RB,UCLA,DeWayne Walker
+125,1989,NFL,2,53,RAM,Darryl Henley,DB,UCLA,DeWayne Walker
+126,1989,NFL,4,94,PHO,Jim Wahler,NT,UCLA,DeWayne Walker
+127,1989,NFL,11,283,KAN,Marcus Turner,DB,UCLA,DeWayne Walker
+128,1989,NFL,12,326,NYG,Eric Smith,LB,UCLA,DeWayne Walker
+129,1988,NFL,1,14,RAM,Gaston Green,RB,UCLA,DeWayne Walker
+130,1988,NFL,2,41,DAL,Ken Norton Jr.,LB,UCLA,DeWayne Walker
+131,1988,NFL,2,46,RAM,Flipper Anderson,WR,UCLA,DeWayne Walker
+132,1988,NFL,4,98,SDG,David Richards,G,UCLA,DeWayne Walker
+133,1988,NFL,5,131,RAI,Dennis Price,DB,UCLA,DeWayne Walker
+134,1988,NFL,5,137,RAM,James Washington,DB,UCLA,DeWayne Walker
+135,1988,NFL,9,222,ATL,James Primus,RB,UCLA,DeWayne Walker
+136,1988,NFL,9,248,DEN,Mel Farr,RB,UCLA,DeWayne Walker
+137,1988,NFL,10,254,DET,Paco Craig,WR,UCLA,DeWayne Walker
+138,1988,NFL,12,317,DAL,Ben Hummel,LB,UCLA,DeWayne Walker
+139,1987,NFL,7,185,SEA,Derek Tennell,TE,UCLA,DeWayne Walker
+140,1987,NFL,8,200,IND,Chuckie Miller,DB,UCLA,DeWayne Walker
+141,1987,NFL,11,284,SDG,Joe Goebel,C,UCLA,DeWayne Walker
+142,1987,NFL,12,310,SDG,Marcus Greenwood,RB,UCLA,DeWayne Walker
+143,1986,NFL,1,18,DAL,Mike Sherrard,WR,UCLA,DeWayne Walker
+144,1986,NFL,2,32,STL,John Lee,K,UCLA,DeWayne Walker
+145,1986,NFL,3,74,DAL,Mark Walen,DT,UCLA,DeWayne Walker
+146,1986,NFL,4,97,SDG,Tommy Taylor,LB,UCLA,DeWayne Walker
+147,1986,NFL,6,144,RAM,Robert Jenkins,T,UCLA,DeWayne Walker
+148,1986,NFL,8,195,RAM,Steve Jarecki,LB,UCLA,DeWayne Walker
+149,1986,NFL,11,291,SEA,David Norrie,QB,UCLA,DeWayne Walker
+150,1985,NFL,6,142,MIN,Steve Bono,QB,UCLA,DeWayne Walker
+151,1985,NFL,6,161,RAM,Mike Young,WR,UCLA,DeWayne Walker
+152,1985,NFL,7,169,BUF,Ron Pitts,DB,UCLA,DeWayne Walker
+153,1985,NFL,10,274,RAM,Duval Love,G,UCLA,DeWayne Walker
+154,1985,NFL,11,297,DAL,Neal Dellocono,LB,UCLA,DeWayne Walker
+155,1985,NFL,12,326,NYG,Herb Welch,DB,UCLA,DeWayne Walker
+156,1984,NFL,1*,8,IND,Paul Bergmann,TE,UCLA,DeWayne Walker
+157,1984,NFL,1,18,CLE,Don Rogers,DB,UCLA,DeWayne Walker
+158,1984,NFL,2*,30,TAM,Kevin Nelson,RB,UCLA,DeWayne Walker
+159,1984,NFL,2*,34,KAN,Lupe Sanchez,DB,UCLA,DeWayne Walker
+160,1984,NFL,3*,71,CLE,Doug West,LB,UCLA,DeWayne Walker
+161,1984,NFL,3,83,WAS,Jay Schroeder,QB,UCLA,DeWayne Walker
+162,1984,NFL,11,283,NYG,Frank Cephous,RB,UCLA,DeWayne Walker
+163,1984,NFL,11,302,SEA,Steve Gemza,T,UCLA,DeWayne Walker
+164,1984,NFL,12,319,NWE,Harper Howell,TE,UCLA,DeWayne Walker
+165,1983,NFL,3,59,SFO,Blanchard Montgomery,LB,UCLA,DeWayne Walker
+166,1983,NFL,3,78,NYJ,Jo-Jo Townsell,WR,UCLA,DeWayne Walker
+167,1983,NFL,3,81,CIN,Jimmy Turner,DB,UCLA,DeWayne Walker
+168,1983,NFL,5,138,RAI,Dokie Williams,WR,UCLA,DeWayne Walker
+169,1983,NFL,8,204,KAN,Irv Eatman,T,UCLA,DeWayne Walker
+170,1983,NFL,9,244,PIT,Blake Wingle,G,UCLA,DeWayne Walker
+171,1983,NFL,10,267,NWE,Tom Ramsey,QB,UCLA,DeWayne Walker
+172,1982,NFL,1,16,STL,Luis Sharpe,T,UCLA,DeWayne Walker
+173,1982,NFL,3,62,CHI,Tim Wrightman,TE,UCLA,DeWayne Walker
+174,1982,NFL,8,208,DET,Martin Moss,DE,UCLA,DeWayne Walker
+175,1982,NFL,9,249,DAL,Joe Gary,DT,UCLA,DeWayne Walker
+176,1982,NFL,11,285,RAM,Ricky Coffman,WR,UCLA,DeWayne Walker
+177,1981,NFL,1,3,NYJ,Freeman McNeil,RB,UCLA,DeWayne Walker
+178,1981,NFL,1,4,SEA,Kenny Easley,DB,UCLA,DeWayne Walker
+179,1981,NFL,5,129,DET,Larry Lee,G,UCLA,DeWayne Walker
+180,1981,NFL,9,243,HOU,Avon Riley,LB,UCLA,DeWayne Walker
+181,1981,NFL,9,248,OAK,Curt Mohl,T,UCLA,DeWayne Walker
+182,1981,NFL,11,286,SFO,Ronnie DeBose,TE,UCLA,DeWayne Walker
+183,1981,NFL,12,328,RAM,Jairo Penaranda,RB,UCLA,DeWayne Walker
+184,1980,NFL,3,68,MIN,Brent Boyd,G,UCLA,DeWayne Walker
+185,1979,NFL,1,18,SEA,Manu Tuiasosopo,DT,UCLA,DeWayne Walker
+186,1979,NFL,1,21,PHI,Jerry Robinson,LB,UCLA,DeWayne Walker
+187,1979,NFL,2,29,SFO,James Owens,RB,UCLA,DeWayne Walker
+188,1979,NFL,2,35,STL,Theotis Brown,RB,UCLA,DeWayne Walker
+189,1979,NFL,4,98,NYJ,Johnny Lynn,DB,UCLA,DeWayne Walker
+190,1979,NFL,7,168,CIN,Max Montoya,G,UCLA,DeWayne Walker
+191,1979,NFL,11,294,OAK,Bruce Davis,T,UCLA,DeWayne Walker
+192,1978,NFL,3,78,RAM,Frank Corral,K,UCLA,DeWayne Walker
+193,1978,NFL,7,169,NYJ,Levi Armstrong,DB,UCLA,DeWayne Walker
+194,1978,NFL,8,222,DAL,Homer Butler,WR,UCLA,DeWayne Walker
+195,1978,NFL,12,330,RAM,Gus Coppens,T,UCLA,DeWayne Walker
+196,1977,NFL,3,79,RAM,Wendell Tyler,RB,UCLA,DeWayne Walker
+197,1977,NFL,4,85,CIN,Rick Walker,TE,UCLA,DeWayne Walker
+198,1977,NFL,12,318,KAN,Raymond Burks,LB,UCLA,DeWayne Walker
+199,1976,NFL,2,41,KAN,Cliff Frazier,DT,UCLA,DeWayne Walker
+200,1976,NFL,2,42,SFO,Randy Cross,G,UCLA,DeWayne Walker
+201,1976,NFL,4,103,CHI,John Sciarra,DB,UCLA,DeWayne Walker
+202,1976,NFL,9,246,ATL,Phil McKinnely,T,UCLA,DeWayne Walker
+203,1976,NFL,11,299,CHI,Norm Andersen,WR,UCLA,DeWayne Walker
+204,1976,NFL,13,353,PHI,Terry Tautolo,LB,UCLA,DeWayne Walker
+205,1976,NFL,15,412,PHI,Brett White,P,UCLA,DeWayne Walker
+206,1976,NFL,15,430,DAL,Dale Curry,LB,UCLA,DeWayne Walker
+207,1975,NFL,6,132,ATL,Fulton Kuykendall,LB,UCLA,DeWayne Walker
+208,1975,NFL,9,222,PIT,Eugene Clark,G,UCLA,DeWayne Walker
+209,1975,NFL,15,384,WAS,Art Kuehn,C,UCLA,DeWayne Walker
+210,1975,NFL,17,428,NWE,Myke Horton,T,UCLA,DeWayne Walker
+211,1974,NFL,1,10,SFO,Bill Sandifer,DT,UCLA,DeWayne Walker
+212,1974,NFL,1,17,MIN,Fred McNeill,LB,UCLA,DeWayne Walker
+213,1974,NFL,3,72,DAL,Cal Peterson,LB,UCLA,DeWayne Walker
+214,1974,NFL,3,76,RAM,Al Oliver,T,UCLA,DeWayne Walker
+215,1974,NFL,4,100,PIT,Jimmy Allen,DB,UCLA,DeWayne Walker
+216,1974,NFL,6,148,OAK,James McAlister,RB,UCLA,DeWayne Walker
+217,1974,NFL,6,151,DAL,Jimmy Bright,DB,UCLA,DeWayne Walker
+218,1974,NFL,7,166,SFO,Kermit Johnson,RB,UCLA,DeWayne Walker
+219,1974,NFL,7,169,DET,Efren Herrera,K,UCLA,DeWayne Walker
+220,1974,NFL,11,281,CIN,Ed Kezirian,T,UCLA,DeWayne Walker
+221,1974,NFL,11,286,MIA,Gerry Roberts,DE,UCLA,DeWayne Walker
+222,1974,NFL,12,310,RAM,Roger Freberg,G,UCLA,DeWayne Walker
+223,1973,NFL,5,107,CHI,Allan Ellis,DB,UCLA,DeWayne Walker
+224,1973,NFL,5,126,DAL,Bruce Walton,T,UCLA,DeWayne Walker
+225,1973,NFL,12,287,HOU,Brad Lyman,WR,UCLA,DeWayne Walker
+226,1973,NFL,12,290,NWE,Bruce Barnes,P,UCLA,DeWayne Walker
+227,1973,NFL,13,332,DAL,John Smith,WR,UCLA,DeWayne Walker
+228,1973,NFL,15,386,GNB,Reggie Echols,WR,UCLA,DeWayne Walker
+229,1972,NFL,4,89,NYJ,Ed Galigher,DT,UCLA,DeWayne Walker
+230,1972,NFL,4,100,OAK,Dave Dalby,C,UCLA,DeWayne Walker
+231,1972,NFL,5,125,RAM,Bob Christiansen,DT,UCLA,DeWayne Walker
+232,1972,NFL,6,133,CHI,Bob Pifferini,LB,UCLA,DeWayne Walker
+233,1971,NFL,10,253,OAK,Tim Oesterling,DT,UCLA,DeWayne Walker
+234,1971,NFL,14,354,KAN,Bruce Bergey,DE,UCLA,DeWayne Walker
+235,1970,NFL,3,54,CHI,George Farmer,WR,UCLA,DeWayne Walker
+236,1970,NFL,3,56,BOS,Mike Ballou,LB,UCLA,DeWayne Walker
+237,1970,NFL,4,97,NYG,Wes Grant,DE,UCLA,DeWayne Walker
+238,1970,NFL,5,129,MIN,Greg Jones,RB,UCLA,DeWayne Walker
+239,1970,NFL,9,216,CIN,Bill Bolden,RB,UCLA,DeWayne Walker
+240,1970,NFL,9,231,DAL,Zenon Andrusyshyn,P,UCLA,DeWayne Walker
+241,1970,NFL,10,258,OAK,Gordon Bosserman,T,UCLA,DeWayne Walker
+242,1970,NFL,14,360,RAM,Bob Geddes,LB,UCLA,DeWayne Walker
+243,1969,NFL,7,168,GNB,Larry Agajanian,DT,UCLA,DeWayne Walker
+244,1969,NFL,7,169,CHI,Ron Copeland,WR,UCLA,DeWayne Walker
+245,1969,NFL,14,362,OAK,Harold Busby,E,UCLA,DeWayne Walker
+246,1968,NFL,2,30,RAM,Gary Beban,QB,UCLA,DeWayne Walker
+247,1968,NFL,11,285,STL,Larry Slagle,G,UCLA,DeWayne Walker
+248,1968,NFL,17,436,CIN,Don Manning,LB,UCLA,DeWayne Walker
+249,1967,NFL,1,7,DET,Mel Farr,RB,UCLA,DeWayne Walker
+250,1967,NFL,9,216,MIA,John Richardson,DT,UCLA,DeWayne Walker
+251,1966,NFL,8,119,SFO,Dick Witcher,WR,UCLA,DeWayne Walker
+252,1965,NFL,17,229,DAL,Mitch Johnson,T,UCLA,DeWayne Walker
+253,1964,NFL,8,101,DAL,Al Geverink,HB,UCLA,DeWayne Walker
+254,1964,AFL,24,191,OAK,Kent Francisco,T,UCLA,DeWayne Walker
+255,1964,NFL,14,196,CHI,Kent Francisco,T,UCLA,DeWayne Walker
+256,1963,AFL,1,5,DEN,Kermit Alexander Jr.,DB,UCLA,DeWayne Walker
+257,1963,NFL,1,8,SFO,Kermit Alexander Jr.,DB,UCLA,DeWayne Walker
+258,1963,NFL,9,113,RAM,Mel Profit,E,UCLA,DeWayne Walker
+259,1963,AFL,16,128,KAN,Mel Profit,E,UCLA,DeWayne Walker
+260,1963,AFL,19,145,OAK,Tony Fiorentino,G,UCLA,DeWayne Walker
+261,1962,AFL,9,67,DTX,Marshall Shirk,T,UCLA,DeWayne Walker
+262,1962,NFL,9,114,MIN,Marshall Shirk,T,UCLA,DeWayne Walker
+263,1962,NFL,14,189,CHI,Andy Von Sonn,LB,UCLA,DeWayne Walker
+264,1962,AFL,27,210,DEN,Andy Von Sonn,LB,UCLA,DeWayne Walker
+265,1962,NFL,20,268,RAM,Foster Andersen,T,UCLA,DeWayne Walker
+266,1961,NFL,1,6,SFO,Jimmy Johnson,DB,UCLA,DeWayne Walker
+267,1961,NFL,1,11,SFO,Billy Kilmer,QB,UCLA,DeWayne Walker
+268,1961,AFL,4,32,SDG,Jimmy Johnson,DB,UCLA,DeWayne Walker
+269,1961,AFL,5,39,SDG,Billy Kilmer,QB,UCLA,DeWayne Walker
+270,1961,NFL,7,88,RAM,Bobby Smith,DB,UCLA,DeWayne Walker
+271,1961,AFL,21,167,SDG,Gene Gaines,HB,UCLA,DeWayne Walker
+272,1961,AFL,26,205,NYT,Bobby Smith,DB,UCLA,DeWayne Walker
+273,1960,AFL,,0,BUF,Marv Luster,E,UCLA,DeWayne Walker
+274,1960,AFL,,0,HOU,Paul Oglesby,T,UCLA,DeWayne Walker
+275,1960,AFL,,0,OAK,Ray Smith,FB,UCLA,DeWayne Walker
+276,1960,NFL,9,97,RAM,Marv Luster,E,UCLA,DeWayne Walker
+277,1960,NFL,10,113,STL,Paul Oglesby,T,UCLA,DeWayne Walker
+278,1959,NFL,9,106,CLE,Kirk Wilson,B,UCLA,DeWayne Walker
+279,1959,NFL,13,149,DET,Jim Steffen,DB,UCLA,DeWayne Walker
+280,1959,NFL,17,199,PIT,Bill Leeka,T,UCLA,DeWayne Walker
+281,1959,NFL,24,282,SFO,Craig Chudy,E,UCLA,DeWayne Walker
+282,1959,NFL,28,333,RAM,Rafer Johnson,B,UCLA,DeWayne Walker
+283,1958,NFL,14,163,RAM,Bill Mason,B,UCLA,DeWayne Walker
+284,1958,NFL,20,231,CRD,Jim Matheny,C,UCLA,DeWayne Walker
+285,1958,NFL,23,274,BAL,Phil Parslow,B,UCLA,DeWayne Walker
+286,1958,NFL,26,302,GNB,Esker Harris,G,UCLA,DeWayne Walker
+287,1957,NFL,2,20,BAL,Don Shinnick,LB,UCLA,DeWayne Walker
+288,1957,NFL,3,37,CHI,Ronnie Knox,QB,UCLA,DeWayne Walker
+289,1957,NFL,18,214,CRD,Hal Smith,DT,UCLA,DeWayne Walker
+290,1957,NFL,21,243,RAM,Pat Pinkston,E,UCLA,DeWayne Walker
+291,1956,NFL,10,117,NYG,Johnny Hermann,DB,UCLA,DeWayne Walker
+292,1956,NFL,11,132,RAM,Jim Decker,B,UCLA,DeWayne Walker
+293,1956,NFL,12,142,WAS,Gil Moreno,T,UCLA,DeWayne Walker
+294,1956,NFL,17,202,CHI,Tom Adams,E,UCLA,DeWayne Walker
+295,1956,NFL,18,210,CRD,Jim Brown,G,UCLA,DeWayne Walker
+296,1956,NFL,19,226,CHI,John Smith,B,UCLA,DeWayne Walker
+297,1956,NFL,22,265,CLE,Sam (First Down) Brown,B,UCLA,DeWayne Walker
+298,1956,NFL,25,301,CLE,Bob Davenport,B,UCLA,DeWayne Walker
+299,1956,NFL,26,304,SFO,Rommie Loudd,LB,UCLA,DeWayne Walker
+300,1956,NFL,26,312,RAM,Hardiman Cureton,T,UCLA,DeWayne Walker
+301,1956,NFL,29,338,DET,Doug Peters,B,UCLA,DeWayne Walker
+302,1955,NFL,2,18,RAM,Bob Long,LB,UCLA,DeWayne Walker
+303,1955,NFL,2,24,DET,Jim Salsbury,G,UCLA,DeWayne Walker
+304,1955,NFL,11,127,RAM,Joe Ray,T,UCLA,DeWayne Walker
+305,1954,NFL,4,44,DET,Bill Stits,DB,UCLA,DeWayne Walker
+306,1954,NFL,8,91,PIT,Paul Cameron,DB,UCLA,DeWayne Walker
+307,1954,NFL,8,97,DET,Milt Davis,DB,UCLA,DeWayne Walker
+308,1954,NFL,9,100,NYG,Pete O'Garro,E,UCLA,DeWayne Walker
+309,1953,NFL,1,9,RAM,Donn Moomaw,C,UCLA,DeWayne Walker
+310,1953,NFL,12,145,RAM,Chuck Doud,G,UCLA,DeWayne Walker
+311,1953,NFL,19,229,RAM,Jack Ellena,G,UCLA,DeWayne Walker
+312,1953,NFL,25,296,GNB,Ike Jones,E,UCLA,DeWayne Walker
+313,1953,NFL,25,299,SFO,Ernie Stockert,E,UCLA,DeWayne Walker
+314,1953,NFL,28,327,BAL,Joe Sabol,B,UCLA,DeWayne Walker
+315,1952,NFL,14,167,NYG,Hal Mitchell,T,UCLA,DeWayne Walker
+316,1952,NFL,19,223,WAS,Joe Marvin,B,UCLA,DeWayne Walker
+317,1951,NFL,18,215,NYY,Bob Watson,E,UCLA,DeWayne Walker
+318,1951,NFL,24,287,NYY,James Stroschein,DE,UCLA,DeWayne Walker
+319,1951,NFL,28,334,PIT,Howie Hansen,B,UCLA,DeWayne Walker
+320,1950,NFL,10,124,NYG,Bob Wilkinson,E,UCLA,DeWayne Walker
+321,1950,NFL,10,131,PHI,Ernie Johnson,B,UCLA,DeWayne Walker
+322,1949,NFL,22,218,WAS,Bill Clements,E,UCLA,DeWayne Walker
+323,1948,NFL,5,33,PHI,Jack Myers,FB,UCLA,DeWayne Walker
+324,1947,NFL,1,4,WAS,Cal Rossi,B,UCLA,DeWayne Walker
+325,1947,NFL,1,6,GNB,Ernie Case,QB,UCLA,DeWayne Walker
+326,1947,NFL,3,20,GNB,Burr Baldwin,E,UCLA,DeWayne Walker
+327,1947,NFL,3,21,RAM,Don Paul,LB,UCLA,DeWayne Walker
+328,1947,NFL,8,58,PIT,Jerry Shipkey,LB,UCLA,DeWayne Walker
+329,1947,NFL,9,68,WAS,Roy Kurrasch,E,UCLA,DeWayne Walker
+330,1947,NFL,13,113,RAM,Mike Dimitro,G,UCLA,DeWayne Walker
+331,1947,NFL,20,183,RAM,Bernie Reiges,B,UCLA,DeWayne Walker
+332,1947,NFL,21,193,RAM,Leon McLaughlin,C,UCLA,DeWayne Walker
+333,1946,NFL,1,9,WAS,Cal Rossi,B,UCLA,DeWayne Walker
+334,1946,NFL,5,40,RAM,Don Paul,C,UCLA,DeWayne Walker
+335,1946,NFL,7,57,PHI,George Robotham,E,UCLA,DeWayne Walker
+336,1946,NFL,20,187,DET,Don Malmberg,T,UCLA,DeWayne Walker
+337,1946,NFL,22,205,NYG,Bill Stiers,B,UCLA,DeWayne Walker
+338,1946,NFL,28,263,PIT,Bob Hansen,E,UCLA,DeWayne Walker
+339,1946,NFL,30,286,GNB,Al Sparlis,G,UCLA,DeWayne Walker
+340,1945,NFL,10,97,NYG,Vic Smith,B,UCLA,DeWayne Walker
+341,1945,NFL,11,103,RAM,Tom Fears,E,UCLA,DeWayne Walker
+342,1945,NFL,12,116,CHI,Jack Boyd,B,UCLA,DeWayne Walker
+343,1945,NFL,13,129,PHI,Bill Chambers,G,UCLA,DeWayne Walker
+344,1945,NFL,22,221,PIT,Don Malmberg,B,UCLA,DeWayne Walker
+345,1944,NFL,5,42,RAM,Bob Waterfield,QB,UCLA,DeWayne Walker
+346,1944,NFL,8,74,PHI,George Phillips,LB,UCLA,DeWayne Walker
+347,1944,NFL,12,112,DET,Jack Lescoulie,G,UCLA,DeWayne Walker
+348,1944,NFL,20,204,WAS,Dave Brown,E,UCLA,DeWayne Walker
+349,1944,NFL,23,234,PHI,Milt Smith,DB,UCLA,DeWayne Walker
+350,1943,NFL,7,58,GNB,Ken Snelling,FB,UCLA,DeWayne Walker
+351,1943,NFL,9,75,RAM,Al Solari,B,UCLA,DeWayne Walker
+352,1943,NFL,27,251,DET,Chuck Fears,T,UCLA,DeWayne Walker
+353,1941,NFL,11,92,CRD,Jack Sommers,C,UCLA,DeWayne Walker
+354,1941,NFL,14,126,GNB,Del Lyman,T,UCLA,DeWayne Walker
+355,1939,NFL,14,123,RAM,John Ryland,C,UCLA,DeWayne Walker
+356,1937,NFL,7,62,BKN,Fred Funk,B,UCLA,DeWayne Walker
+357,1936,NFL,2,17,DET,Chuck Cheshire,B,UCLA,DeWayne Walker
+1,2020,NFL,5,172,DET,Jason Huntley,RB,New Mexico State,DeWayne Walker
+2,2018,NFL,4,132,BAL,Jaleel Scott,WR,New Mexico State,DeWayne Walker
+3,2013,NFL,7,208,JAX,Jeremy Harris,DB,New Mexico State,DeWayne Walker
+4,2012,NFL,6,196,DET,Jonte Green,DB,New Mexico State,DeWayne Walker
+5,2011,NFL,4,131,GNB,Davon House,DB,New Mexico State,DeWayne Walker
+6,2003,NFL,7,246,OAK,Siddeeq Shabazz,DB,New Mexico State,DeWayne Walker
+7,2001,NFL,5,161,BAL,Chris Barnes,RB,New Mexico State,DeWayne Walker
+8,1996,NFL,7,239,SFO,Sean Manuel,TE,New Mexico State,DeWayne Walker
+9,1996,NFL,7,254,SFO,Sam Manuel,LB,New Mexico State,DeWayne Walker
+10,1995,NFL,6,177,SDG,Troy Sienkiewicz,G,New Mexico State,DeWayne Walker
+11,1994,NFL,5,137,SDG,Aaron Laing,TE,New Mexico State,DeWayne Walker
+12,1991,NFL,10,277,BUF,Tony De Lorenzo,G,New Mexico State,DeWayne Walker
+13,1988,NFL,4,91,SDG,Joe Campbell,DE,New Mexico State,DeWayne Walker
+14,1985,NFL,7,172,CIN,Kim Locklin,RB,New Mexico State,DeWayne Walker
+15,1985,NFL,12,322,CIN,Louis Garza,T,New Mexico State,DeWayne Walker
+16,1984,NFL,3,76,SEA,Fredd Young,LB,New Mexico State,DeWayne Walker
+17,1984,NFL,7,177,CIN,Leo Barker,LB,New Mexico State,DeWayne Walker
+18,1983,NFL,9,247,NYJ,Bobby Humphery,DB,New Mexico State,DeWayne Walker
+19,1982,NFL,6,145,RAM,Kerry Locklin,TE,New Mexico State,DeWayne Walker
+20,1982,NFL,11,299,SDG,Anthony Watson,DB,New Mexico State,DeWayne Walker
+21,1978,NFL,9,246,RAM,Andre Anderson,DE,New Mexico State,DeWayne Walker
+22,1978,NFL,11,280,KAN,Ray Milo,DB,New Mexico State,DeWayne Walker
+23,1977,NFL,2,42,DET,Walt Williams,DB,New Mexico State,DeWayne Walker
+24,1977,NFL,5,128,SDG,Cliff Olander,QB,New Mexico State,DeWayne Walker
+25,1976,NFL,3,80,MIA,Duriel Harris,WR,New Mexico State,DeWayne Walker
+26,1976,NFL,10,279,DET,Bill Bowerman,QB,New Mexico State,DeWayne Walker
+27,1975,NFL,2,46,STL,Jim Germany,RB,New Mexico State,DeWayne Walker
+28,1973,NFL,4,93,CLE,Andy Dorris,DE,New Mexico State,DeWayne Walker
+29,1972,NFL,4,92,PHI,Po James,RB,New Mexico State,DeWayne Walker
+30,1972,NFL,6,139,NYJ,Joey Jackson,DE,New Mexico State,DeWayne Walker
+31,1972,NFL,14,344,STL,Pat McTeer,K,New Mexico State,DeWayne Walker
+32,1971,NFL,5,122,SFO,George Wells,LB,New Mexico State,DeWayne Walker
+33,1969,NFL,4,96,HOU,Roy Gerela,K,New Mexico State,DeWayne Walker
+34,1969,NFL,4,100,OAK,Ruby Jackson,T,New Mexico State,DeWayne Walker
+35,1969,NFL,7,162,BOS,Rick Hackley,T,New Mexico State,DeWayne Walker
+36,1969,NFL,12,305,STL,Howard Taylor,RB,New Mexico State,DeWayne Walker
+37,1969,NFL,14,356,SDG,Bill Ackman,DT,New Mexico State,DeWayne Walker
+38,1968,NFL,4,96,STL,Joe Schmiesing,DE,New Mexico State,DeWayne Walker
+39,1968,NFL,7,174,PIT,Doug Dalton,RB,New Mexico State,DeWayne Walker
+40,1968,NFL,14,370,CHI,Harold Gargus,DT,New Mexico State,DeWayne Walker
+41,1967,NFL,7,178,PHI,Bob Crenshaw,G,New Mexico State,DeWayne Walker
+42,1966,AFL,7,54,HOU,Pep Menefee,WR,New Mexico State,DeWayne Walker
+43,1966,NFL,13,189,PHI,Jim Bohl,HB,New Mexico State,DeWayne Walker
+44,1966,NFL,17,259,CLE,Gene Modzelewski,T,New Mexico State,DeWayne Walker
+45,1965,NFL,11,146,WAS,Willie Adams,DE,New Mexico State,DeWayne Walker
+46,1963,NFL,5,65,SFO,Jim (Preacher) Pilot,B,New Mexico State,DeWayne Walker
+47,1963,AFL,14,112,KAN,Jim (Preacher) Pilot,HB,New Mexico State,DeWayne Walker
+48,1962,NFL,2,19,STL,Bobby Jackson,FB,New Mexico State,DeWayne Walker
+49,1962,AFL,7,56,SDG,Bobby Jackson,FB,New Mexico State,DeWayne Walker
+50,1962,AFL,13,103,HOU,Royce Cassell,E,New Mexico State,DeWayne Walker
+51,1961,AFL,1,4,DEN,Bob Gaiters,HB,New Mexico State,DeWayne Walker
+52,1961,NFL,2,17,NYG,Bob Gaiters,HB,New Mexico State,DeWayne Walker
+53,1961,AFL,8,64,SDG,Charley Johnson,QB,New Mexico State,DeWayne Walker
+54,1961,AFL,22,175,HOU,Bob Kelly,T,New Mexico State,DeWayne Walker
+55,1961,AFL,23,181,DTX,Lou Zivkovich,T,New Mexico State,DeWayne Walker
+56,1961,AFL,24,185,DEN,E.A. Simms,E,New Mexico State,DeWayne Walker
+57,1961,NFL,15,203,BAL,E.A. Sims,E,New Mexico State,DeWayne Walker
+58,1961,NFL,19,256,RAM,Lou Zivkovich,T,New Mexico State,DeWayne Walker
+59,1960,AFL,,0,DTX,Louis Kelley,FB,New Mexico State,DeWayne Walker
+60,1960,AFL,,0,HOU,George Mulholland,E,New Mexico State,DeWayne Walker
+61,1960,AFL,,0,OAK,Pervis Atkins,FL,New Mexico State,DeWayne Walker
+62,1960,AFL,,0,LAC,Billy Locklin,LB,New Mexico State,DeWayne Walker
+63,1960,NFL,3,30,RAM,Pervis Atkins,FL,New Mexico State,DeWayne Walker
+64,1960,NFL,10,109,STL,Charley Johnson,QB,New Mexico State,DeWayne Walker
+65,1959,NFL,11,128,RAM,Joe Kelly,B,New Mexico State,DeWayne Walker
+66,1954,NFL,26,304,BAL,Jesus Esparza,T,New Mexico State,DeWayne Walker
+67,1948,NFL,3,20,PIT,Jerry Nuzum,HB,New Mexico State,DeWayne Walker
